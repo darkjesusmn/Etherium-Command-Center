@@ -151,7 +151,7 @@ Private use during development. Distribution terms pending.
 
 ## Credits
 
-Built by Darkj + contributors.
+Built by DarkJesusMN + AI LLMs Claude ChatGPT Copilot
 
 
 ---
