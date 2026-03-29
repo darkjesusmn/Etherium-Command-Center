@@ -1,0 +1,1952 @@
+{
+  "Version": 1,
+  "GeneratedDate": "2026-03-23",
+  "Games": {
+    "7 Days to Die": {
+      "SourceNotes": "Community list from 7daystodie.fandom.com command console page.",
+      "Sources": [
+        "https://7daystodie.fandom.com/wiki/Command_Console"
+      ],
+      "Commands": [
+        {
+          "Id": "help",
+          "Label": "help",
+          "Command": "help <command>",
+          "Category": "General",
+          "Description": "Show help for a specific command or topic."
+        },
+        {
+          "Id": "admin_add",
+          "Label": "admin add",
+          "Command": "admin add <name|entity id|steam id> <permission level>",
+          "Category": "Admin",
+          "Description": "Add a player to the admin list with a permission level."
+        },
+        {
+          "Id": "admin_remove",
+          "Label": "admin remove",
+          "Command": "admin remove <name|entity id|steam id>",
+          "Category": "Admin",
+          "Description": "Remove a player from the admin list."
+        },
+        {
+          "Id": "ai_pathgrid",
+          "Label": "ai pathgrid",
+          "Command": "ai pathgrid",
+          "Category": "Debug",
+          "Description": "Toggle AI pathing grid debug display."
+        },
+        {
+          "Id": "ai_pathlines",
+          "Label": "ai pathlines",
+          "Command": "ai pathlines",
+          "Category": "Debug",
+          "Description": "Toggle AI pathing line debug display."
+        },
+        {
+          "Id": "aiddebug",
+          "Label": "aiddebug",
+          "Command": "aiddebug",
+          "Category": "Debug",
+          "Description": "Toggle AI director debug output."
+        },
+        {
+          "Id": "ban_add",
+          "Label": "ban add",
+          "Command": "ban add <name|entity id|steam id> <duration> <duration unit> [reason]",
+          "Category": "Admin",
+          "Description": "Ban a player for a duration with an optional reason."
+        },
+        {
+          "Id": "ban_list",
+          "Label": "ban list",
+          "Command": "ban list",
+          "Category": "Admin",
+          "Description": "List current bans."
+        },
+        {
+          "Id": "ban_remove",
+          "Label": "ban remove",
+          "Command": "ban remove <name|entity id|steam id>",
+          "Category": "Admin",
+          "Description": "Remove a player from the ban list."
+        },
+        {
+          "Id": "buff",
+          "Label": "buff",
+          "Command": "buff <buff name>",
+          "Category": "Player",
+          "Description": "Apply a buff to yourself."
+        },
+        {
+          "Id": "buffplayer",
+          "Label": "buffplayer",
+          "Command": "buffplayer <name|entity id|steam id> <buff name>",
+          "Category": "Player",
+          "Description": "Apply a buff to a player."
+        },
+        {
+          "Id": "chunkcache",
+          "Label": "chunkcache",
+          "Command": "chunkcache",
+          "Category": "Debug",
+          "Description": "Show chunk cache information."
+        },
+        {
+          "Id": "clear",
+          "Label": "clear",
+          "Command": "clear",
+          "Category": "General",
+          "Description": "Clear the console output."
+        },
+        {
+          "Id": "cp_add",
+          "Label": "cp add",
+          "Command": "cp add <command> <level>",
+          "Category": "Admin",
+          "Description": "Set command permission level for a command."
+        },
+        {
+          "Id": "cp_remove",
+          "Label": "cp remove",
+          "Command": "cp remove <command>",
+          "Category": "Admin",
+          "Description": "Remove custom permission level for a command."
+        },
+        {
+          "Id": "cp_list",
+          "Label": "cp list",
+          "Command": "cp list",
+          "Category": "Admin",
+          "Description": "List command permission levels."
+        },
+        {
+          "Id": "creativemenu",
+          "Label": "creativemenu",
+          "Command": "creativemenu",
+          "Category": "Debug",
+          "Description": "Toggle the creative menu."
+        },
+        {
+          "Id": "deathscreen",
+          "Label": "deathscreen",
+          "Command": "deathscreen <on|off>",
+          "Category": "Debug",
+          "Description": "Toggle the death screen."
+        },
+        {
+          "Id": "debuff",
+          "Label": "debuff",
+          "Command": "debuff <buff name>",
+          "Category": "Player",
+          "Description": "Remove a buff from yourself."
+        },
+        {
+          "Id": "debuffplayer",
+          "Label": "debuffplayer",
+          "Command": "debuffplayer <name|entity id|steam id> <buff name>",
+          "Category": "Player",
+          "Description": "Remove a buff from a player."
+        },
+        {
+          "Id": "debugmenu",
+          "Label": "debugmenu",
+          "Command": "debugmenu [on|off]",
+          "Category": "Debug",
+          "Description": "Toggle the debug menu."
+        },
+        {
+          "Id": "enablescope",
+          "Label": "enablescope",
+          "Command": "enablescope <on|off>",
+          "Category": "Debug",
+          "Description": "Enable or disable scoped view."
+        },
+        {
+          "Id": "exhausted",
+          "Label": "exhausted",
+          "Command": "exhausted",
+          "Category": "Player",
+          "Description": "Make the player exhausted."
+        },
+        {
+          "Id": "exportcurrentconfigs",
+          "Label": "exportcurrentconfigs",
+          "Command": "exportcurrentconfigs",
+          "Category": "General",
+          "Description": "Export current game configs."
+        },
+        {
+          "Id": "exportitemicons",
+          "Label": "exportitemicons",
+          "Command": "exportitemicons",
+          "Category": "General",
+          "Description": "Export item icons."
+        },
+        {
+          "Id": "getgamepref",
+          "Label": "getgamepref",
+          "Command": "getgamepref",
+          "Category": "General",
+          "Description": "Get a game preference value."
+        },
+        {
+          "Id": "getgamestat",
+          "Label": "getgamestat",
+          "Command": "getgamestat",
+          "Category": "General",
+          "Description": "Get a game stat value."
+        },
+        {
+          "Id": "gettime",
+          "Label": "gettime",
+          "Command": "gettime",
+          "Category": "General",
+          "Description": "Display the current game time."
+        },
+        {
+          "Id": "gfx_af",
+          "Label": "gfx af",
+          "Command": "gfx af <0|1>",
+          "Category": "Debug",
+          "Description": "Set anisotropic filtering (0/1)."
+        },
+        {
+          "Id": "gfx_dti",
+          "Label": "gfx dti",
+          "Command": "gfx dti",
+          "Category": "Debug",
+          "Description": "Toggle texture info debug display."
+        },
+        {
+          "Id": "gfx_dtpix",
+          "Label": "gfx dtpix",
+          "Command": "gfx dtpix",
+          "Category": "Debug",
+          "Description": "Toggle texture pixel debug display."
+        },
+        {
+          "Id": "givequest",
+          "Label": "givequest",
+          "Command": "givequest",
+          "Category": "Admin",
+          "Description": "Give a quest to the player."
+        },
+        {
+          "Id": "giveself",
+          "Label": "giveself",
+          "Command": "giveself <item name> [quality level]",
+          "Category": "Admin",
+          "Description": "Give an item to yourself."
+        },
+        {
+          "Id": "giveselfskillxp",
+          "Label": "giveselfskillxp",
+          "Command": "giveselfskillxp <skill name> <amount>",
+          "Category": "Admin",
+          "Deprecated": true,
+          "Description": "Give skill XP to yourself (legacy)."
+        },
+        {
+          "Id": "giveselfxp",
+          "Label": "giveselfxp",
+          "Command": "giveselfxp <amount>",
+          "Category": "Admin",
+          "Description": "Give XP to yourself."
+        },
+        {
+          "Id": "kick",
+          "Label": "kick",
+          "Command": "kick <name|entity id|steam id> [reason]",
+          "Category": "Admin",
+          "Description": "Kick a player with an optional reason."
+        },
+        {
+          "Id": "kickall",
+          "Label": "kickall",
+          "Command": "kickall [reason]",
+          "Category": "Admin",
+          "Description": "Kick all players with an optional reason."
+        },
+        {
+          "Id": "killall",
+          "Label": "killall",
+          "Command": "killall",
+          "Category": "Admin",
+          "Description": "Kill all entities."
+        },
+        {
+          "Id": "lights",
+          "Label": "lights",
+          "Command": "lights",
+          "Category": "Debug",
+          "Description": "Toggle light debugging."
+        },
+        {
+          "Id": "listents",
+          "Label": "listents",
+          "Command": "listents",
+          "Category": "General",
+          "Description": "List active entities."
+        },
+        {
+          "Id": "listlandclaim",
+          "Label": "listlandclaim",
+          "Command": "listlandclaim",
+          "Category": "Admin",
+          "Description": "List land claim blocks."
+        },
+        {
+          "Id": "listplayerids",
+          "Label": "listplayerids",
+          "Command": "listplayerids",
+          "Category": "Admin",
+          "Description": "List player IDs."
+        },
+        {
+          "Id": "listplayers",
+          "Label": "listplayers",
+          "Command": "listplayers",
+          "Category": "Admin",
+          "Description": "List connected players."
+        },
+        {
+          "Id": "listthreads",
+          "Label": "listthreads",
+          "Command": "listthreads",
+          "Category": "General",
+          "Description": "List running threads."
+        },
+        {
+          "Id": "loggamestate",
+          "Label": "loggamestate",
+          "Command": "loggamestate <message> [true|false]",
+          "Category": "General",
+          "Description": "Write game state to the log with an optional message."
+        },
+        {
+          "Id": "loglevel",
+          "Label": "loglevel",
+          "Command": "loglevel <loglevel name> <true|false>",
+          "Category": "General",
+          "Description": "Enable or disable log levels."
+        },
+        {
+          "Id": "mem",
+          "Label": "mem",
+          "Command": "mem",
+          "Category": "General",
+          "Description": "Show memory information."
+        },
+        {
+          "Id": "memcl",
+          "Label": "memcl",
+          "Command": "memcl",
+          "Category": "General",
+          "Description": "Show memory info and run garbage collection."
+        },
+        {
+          "Id": "pplist",
+          "Label": "pplist",
+          "Command": "pplist",
+          "Category": "Admin",
+          "Description": "List persistent player data."
+        },
+        {
+          "Id": "removequest",
+          "Label": "removequest",
+          "Command": "removequest",
+          "Category": "Admin",
+          "Description": "Remove a quest."
+        },
+        {
+          "Id": "repairchunkdensity",
+          "Label": "repairchunkdensity",
+          "Command": "repairchunkdensity <x> <z> [fix]",
+          "Category": "Admin",
+          "Description": "Check (and optionally fix) chunk density at coordinates."
+        },
+        {
+          "Id": "saveworld",
+          "Label": "saveworld",
+          "Command": "saveworld",
+          "Category": "General",
+          "Description": "Save the world."
+        },
+        {
+          "Id": "say",
+          "Label": "say",
+          "Command": "say <message>",
+          "Category": "General",
+          "Description": "Send a global chat message."
+        },
+        {
+          "Id": "setgamepref",
+          "Label": "setgamepref",
+          "Command": "setgamepref <preference name> <value>",
+          "Category": "Admin",
+          "Description": "Set a game preference value."
+        },
+        {
+          "Id": "setgamestat",
+          "Label": "setgamestat",
+          "Command": "setgamestat <stat name> <value>",
+          "Category": "Admin",
+          "Description": "Set a game stat value."
+        },
+        {
+          "Id": "settempunit",
+          "Label": "settempunit",
+          "Command": "settempunit <c|f>",
+          "Category": "General",
+          "Description": "Set temperature unit (C/F)."
+        },
+        {
+          "Id": "settime",
+          "Label": "settime",
+          "Command": "settime <day> <hour> <minute>",
+          "Category": "Admin",
+          "Description": "Set the in-game time."
+        },
+        {
+          "Id": "showalbedo",
+          "Label": "showalbedo",
+          "Command": "showalbedo",
+          "Category": "Debug",
+          "Description": "Toggle albedo render debug."
+        },
+        {
+          "Id": "showchunkdata",
+          "Label": "showchunkdata",
+          "Command": "showchunkdata",
+          "Category": "Debug",
+          "Description": "Show chunk data debug."
+        },
+        {
+          "Id": "showclouds",
+          "Label": "showclouds",
+          "Command": "showclouds",
+          "Category": "Debug",
+          "Description": "Toggle cloud debug display."
+        },
+        {
+          "Id": "shownexthordetime",
+          "Label": "shownexthordetime",
+          "Command": "shownexthordetime",
+          "Category": "Debug",
+          "Description": "Show time until next horde."
+        },
+        {
+          "Id": "shownormals",
+          "Label": "shownormals",
+          "Command": "shownormals",
+          "Category": "Debug",
+          "Description": "Toggle normals render debug."
+        },
+        {
+          "Id": "showspecular",
+          "Label": "showspecular",
+          "Command": "showspecular",
+          "Category": "Debug",
+          "Description": "Toggle specular render debug."
+        },
+        {
+          "Id": "shutdown",
+          "Label": "shutdown",
+          "Command": "shutdown",
+          "Category": "Admin",
+          "Description": "Shut down the server."
+        },
+        {
+          "Id": "sounddebug",
+          "Label": "sounddebug",
+          "Command": "sounddebug",
+          "Category": "Debug",
+          "Description": "Toggle sound debugging."
+        },
+        {
+          "Id": "spawnairdrop",
+          "Label": "spawnairdrop",
+          "Command": "spawnairdrop",
+          "Category": "Admin",
+          "Description": "Spawn an airdrop."
+        },
+        {
+          "Id": "spawnentity",
+          "Label": "spawnentity",
+          "Command": "spawnentity <playerid> <entityid>",
+          "Category": "Admin",
+          "Description": "Spawn an entity by ID at a player."
+        },
+        {
+          "Id": "spawnscouts",
+          "Label": "spawnscouts",
+          "Command": "spawnscouts",
+          "Category": "Admin",
+          "Description": "Spawn scout zombies."
+        },
+        {
+          "Id": "spawnscreen",
+          "Label": "spawnscreen",
+          "Command": "spawnscreen",
+          "Category": "Debug",
+          "Description": "Open the spawn screen."
+        },
+        {
+          "Id": "spawnsupplycrate",
+          "Label": "spawnsupplycrate",
+          "Command": "spawnsupplycrate",
+          "Category": "Admin",
+          "Description": "Spawn a supply crate."
+        },
+        {
+          "Id": "spawnwh",
+          "Label": "spawnwh",
+          "Command": "spawnwh",
+          "Category": "Admin",
+          "Description": "Spawn wandering horde."
+        },
+        {
+          "Id": "spectrum",
+          "Label": "spectrum",
+          "Command": "spectrum <choice>",
+          "Category": "Debug",
+          "Description": "Set or toggle lighting spectrum."
+        },
+        {
+          "Id": "starve",
+          "Label": "starve",
+          "Command": "starve",
+          "Category": "Player",
+          "Description": "Make the player starve."
+        },
+        {
+          "Id": "staticmap",
+          "Label": "staticmap",
+          "Command": "staticmap",
+          "Category": "Debug",
+          "Description": "Generate a static map image."
+        },
+        {
+          "Id": "switchview",
+          "Label": "switchview",
+          "Command": "switchview",
+          "Category": "Debug",
+          "Description": "Switch first/third person view."
+        },
+        {
+          "Id": "systeminfo",
+          "Label": "systeminfo",
+          "Command": "systeminfo",
+          "Category": "General",
+          "Description": "Display system information."
+        },
+        {
+          "Id": "teleport",
+          "Label": "teleport",
+          "Command": "teleport <target>",
+          "Category": "Admin",
+          "Description": "Teleport to a target location or player."
+        },
+        {
+          "Id": "thirsty",
+          "Label": "thirsty",
+          "Command": "thirsty",
+          "Category": "Player",
+          "Description": "Make the player thirsty."
+        },
+        {
+          "Id": "traderarea",
+          "Label": "traderarea",
+          "Command": "traderarea",
+          "Category": "Debug",
+          "Description": "Toggle trader area debug/visibility."
+        },
+        {
+          "Id": "updatelighton",
+          "Label": "updatelighton",
+          "Command": "updatelighton <name|entity id|steam id>",
+          "Category": "Debug",
+          "Description": "Force update lights for a player."
+        },
+        {
+          "Id": "version",
+          "Label": "version",
+          "Command": "version",
+          "Category": "General",
+          "Description": "Show server/game version."
+        },
+        {
+          "Id": "water",
+          "Label": "water",
+          "Command": "water",
+          "Category": "Debug",
+          "Description": "Toggle water debug display."
+        },
+        {
+          "Id": "weather",
+          "Label": "weather",
+          "Command": "weather",
+          "Category": "Debug",
+          "Description": "Toggle weather debug display."
+        },
+        {
+          "Id": "weathersurvival",
+          "Label": "weathersurvival",
+          "Command": "weathersurvival <on|off>",
+          "Category": "Debug",
+          "Description": "Enable or disable weather survival effects."
+        },
+        {
+          "Id": "whitelist_add",
+          "Label": "whitelist add",
+          "Command": "whitelist add <name|entity id|steam id>",
+          "Category": "Admin",
+          "Description": "Add a player to the whitelist."
+        },
+        {
+          "Id": "whitelist_remove",
+          "Label": "whitelist remove",
+          "Command": "whitelist remove <name|entity id|steam id>",
+          "Category": "Admin",
+          "Description": "Remove a player from the whitelist."
+        },
+        {
+          "Id": "whitelist_list",
+          "Label": "whitelist list",
+          "Command": "whitelist list",
+          "Category": "Admin",
+          "Description": "List whitelisted players."
+        }
+      ]
+    },
+    "Hytale": {
+      "SourceNotes": "Community lists from HypeServ, HytaleCommands, and PC Gamer; official developer command list not published.",
+      "Sources": [
+        "https://wiki.hypeserv.com/en/games/hytale/commands",
+        "https://hytalecommands.com/",
+        "https://www.pcgamer.com/games/survival-crafting/hytale-console-commands/"
+      ],
+      "Commands": [
+        {
+          "Id": "help",
+          "Label": "/help",
+          "Command": "/help",
+          "Category": "General",
+          "Description": "Display help for available commands."
+        },
+        {
+          "Id": "heal",
+          "Label": "/heal",
+          "Command": "/heal",
+          "Category": "Player",
+          "Description": "Heal to full health and stamina."
+        },
+        {
+          "Id": "fillsignature",
+          "Label": "/fillsignature",
+          "Command": "/fillsignature",
+          "Category": "Player",
+          "Description": "Fill signature meter."
+        },
+        {
+          "Id": "leave",
+          "Label": "/leave",
+          "Command": "/leave",
+          "Category": "Player",
+          "Description": "Leave the current world or server."
+        },
+        {
+          "Id": "unstuck",
+          "Label": "/unstuck",
+          "Command": "/unstuck",
+          "Category": "Player",
+          "Description": "Teleport to a safe position if stuck."
+        },
+        {
+          "Id": "inventory_backpack",
+          "Label": "/inventory backpack",
+          "Command": "/inventory backpack --size=[#]",
+          "Category": "Player",
+          "Description": "View or resize your backpack inventory."
+        },
+        {
+          "Id": "inventory_clear",
+          "Label": "/inventory clear",
+          "Command": "/inventory clear",
+          "Category": "Player",
+          "Description": "Clear your inventory."
+        },
+        {
+          "Id": "inventory_see",
+          "Label": "/inventory see",
+          "Command": "/inventory see [player]",
+          "Category": "Player",
+          "Description": "View another player's inventory."
+        },
+        {
+          "Id": "memories_unlockall",
+          "Label": "/memories unlockall",
+          "Command": "/memories unlockall",
+          "Category": "Player",
+          "Description": "Unlock all memories."
+        },
+        {
+          "Id": "memories_clear",
+          "Label": "/memories clear",
+          "Command": "/memories clear",
+          "Category": "Player",
+          "Description": "Clear unlocked memories."
+        },
+        {
+          "Id": "kill",
+          "Label": "/kill",
+          "Command": "/kill [player]",
+          "Category": "Player",
+          "Description": "Kill yourself or the specified player."
+        },
+        {
+          "Id": "neardeath",
+          "Label": "/neardeath",
+          "Command": "/neardeath",
+          "Category": "Player",
+          "Description": "Reduce health to a near-death state."
+        },
+        {
+          "Id": "damage",
+          "Label": "/damage",
+          "Command": "/damage [player] --amount=[#]",
+          "Category": "Player",
+          "Description": "Deal damage to a player by amount."
+        },
+        {
+          "Id": "emote",
+          "Label": "/emote",
+          "Command": "/emote [emote]",
+          "Category": "Player",
+          "Description": "Play an emote."
+        },
+        {
+          "Id": "mount",
+          "Label": "/mount",
+          "Command": "/mount [mount]",
+          "Category": "Player",
+          "Description": "Spawn or mount a mount."
+        },
+        {
+          "Id": "ping",
+          "Label": "/ping",
+          "Command": "/ping",
+          "Category": "Player",
+          "Description": "Show ping/latency."
+        },
+        {
+          "Id": "spawn",
+          "Label": "/spawn",
+          "Command": "/spawn",
+          "Category": "Player",
+          "Description": "Teleport to spawn."
+        },
+        {
+          "Id": "warp_set",
+          "Label": "/warp set",
+          "Command": "/warp set [name]",
+          "Category": "Player",
+          "Description": "Create a named warp point."
+        },
+        {
+          "Id": "warp_go",
+          "Label": "/warp go",
+          "Command": "/warp go [name]",
+          "Category": "Player",
+          "Description": "Teleport to a named warp point."
+        },
+        {
+          "Id": "warp_remove",
+          "Label": "/warp remove",
+          "Command": "/warp remove [name]",
+          "Category": "Player",
+          "Description": "Remove a named warp point."
+        },
+        {
+          "Id": "warp_list",
+          "Label": "/warp list",
+          "Command": "/warp list",
+          "Category": "Player",
+          "Description": "List available warp points."
+        },
+        {
+          "Id": "warp_reload",
+          "Label": "/warp reload",
+          "Command": "/warp reload",
+          "Category": "Player",
+          "Description": "Reload warp data."
+        },
+        {
+          "Id": "tp_home",
+          "Label": "/tp home",
+          "Command": "/tp home",
+          "Category": "Player",
+          "Description": "Teleport to your home location."
+        },
+        {
+          "Id": "tp_top",
+          "Label": "/tp top",
+          "Command": "/tp top",
+          "Category": "Player",
+          "Description": "Teleport to the top of the world/structure."
+        },
+        {
+          "Id": "tp_player",
+          "Label": "/tp",
+          "Command": "/tp [player]",
+          "Category": "Player",
+          "Description": "Teleport to a player."
+        },
+        {
+          "Id": "gamemode_creative",
+          "Label": "/gamemode creative",
+          "Command": "/gamemode creative",
+          "Category": "Player",
+          "Description": "Switch to creative mode."
+        },
+        {
+          "Id": "gamemode_exploration",
+          "Label": "/gamemode exploration",
+          "Command": "/gamemode exploration",
+          "Category": "Player",
+          "Description": "Switch to exploration mode."
+        },
+        {
+          "Id": "worldmap_reload",
+          "Label": "/worldmap reload",
+          "Command": "/worldmap reload",
+          "Category": "World",
+          "Description": "Reload the world map."
+        },
+        {
+          "Id": "worldmap_discover",
+          "Label": "/worldmap discover",
+          "Command": "/worldmap discover",
+          "Category": "World",
+          "Description": "Discover the world map."
+        },
+        {
+          "Id": "worldmap_undiscover",
+          "Label": "/worldmap undiscover",
+          "Command": "/worldmap undiscover",
+          "Category": "World",
+          "Description": "Hide the world map discovery."
+        },
+        {
+          "Id": "worldmap_clearmarkers",
+          "Label": "/worldmap clearmarkers",
+          "Command": "/worldmap clearmarkers",
+          "Category": "World",
+          "Description": "Clear world map markers."
+        },
+        {
+          "Id": "time_dawn",
+          "Label": "/time dawn",
+          "Command": "/time dawn",
+          "Category": "World",
+          "Description": "Set time to dawn."
+        },
+        {
+          "Id": "time_midday",
+          "Label": "/time midday",
+          "Command": "/time midday",
+          "Category": "World",
+          "Description": "Set time to midday."
+        },
+        {
+          "Id": "time_dusk",
+          "Label": "/time dusk",
+          "Command": "/time dusk",
+          "Category": "World",
+          "Description": "Set time to dusk."
+        },
+        {
+          "Id": "time_midnight",
+          "Label": "/time midnight",
+          "Command": "/time midnight",
+          "Category": "World",
+          "Description": "Set time to midnight."
+        },
+        {
+          "Id": "noon",
+          "Label": "/noon",
+          "Command": "/noon",
+          "Category": "World",
+          "Description": "Set time to noon and pause time."
+        },
+        {
+          "Id": "weather_reset",
+          "Label": "/weather reset",
+          "Command": "/weather reset",
+          "Category": "World",
+          "Description": "Reset weather to default."
+        },
+        {
+          "Id": "give",
+          "Label": "/give",
+          "Command": "/give [item id] --quantity=[#]",
+          "Category": "World",
+          "Description": "Give yourself an item."
+        },
+        {
+          "Id": "give_player",
+          "Label": "/give player",
+          "Command": "/give [player] [item id] --quantity=[#]",
+          "Category": "World",
+          "Description": "Give another player an item."
+        },
+        {
+          "Id": "op_self",
+          "Label": "/op self",
+          "Command": "/op self",
+          "Category": "Admin",
+          "Description": "Grant yourself operator permissions."
+        },
+        {
+          "Id": "op_add",
+          "Label": "/op add",
+          "Command": "/op add [player]",
+          "Category": "Admin",
+          "Description": "Grant operator permissions to a player."
+        },
+        {
+          "Id": "op_remove",
+          "Label": "/op remove",
+          "Command": "/op remove [player]",
+          "Category": "Admin",
+          "Description": "Remove operator permissions from a player."
+        },
+        {
+          "Id": "who",
+          "Label": "/who",
+          "Command": "/who",
+          "Category": "Admin",
+          "Description": "List connected players."
+        },
+        {
+          "Id": "whoami",
+          "Label": "/whoami",
+          "Command": "/whoami [player]",
+          "Category": "Admin",
+          "Description": "Show your player info (or another player's)."
+        },
+        {
+          "Id": "whereami",
+          "Label": "/whereami",
+          "Command": "/whereami [player]",
+          "Category": "Admin",
+          "Description": "Show your coordinates (or another player's)."
+        },
+        {
+          "Id": "kick",
+          "Label": "/kick",
+          "Command": "/kick [player]",
+          "Category": "Admin",
+          "Description": "Kick a player from the server."
+        },
+        {
+          "Id": "ban",
+          "Label": "/ban",
+          "Command": "/ban [player] --reason=[reason]",
+          "Category": "Admin",
+          "Description": "Ban a player, optionally with a reason."
+        },
+        {
+          "Id": "unban",
+          "Label": "/unban",
+          "Command": "/unban [player]",
+          "Category": "Admin",
+          "Description": "Unban a player."
+        },
+        {
+          "Id": "whitelist_list",
+          "Label": "/whitelist list",
+          "Command": "/whitelist list",
+          "Category": "Admin",
+          "Description": "List whitelisted players."
+        },
+        {
+          "Id": "whitelist_enable",
+          "Label": "/whitelist enable",
+          "Command": "/whitelist enable",
+          "Category": "Admin",
+          "Description": "Enable the whitelist."
+        },
+        {
+          "Id": "whitelist_disable",
+          "Label": "/whitelist disable",
+          "Command": "/whitelist disable",
+          "Category": "Admin",
+          "Description": "Disable the whitelist."
+        },
+        {
+          "Id": "whitelist_add",
+          "Label": "/whitelist add",
+          "Command": "/whitelist add [player]",
+          "Category": "Admin",
+          "Description": "Add a player to the whitelist."
+        },
+        {
+          "Id": "whitelist_remove",
+          "Label": "/whitelist remove",
+          "Command": "/whitelist remove [player]",
+          "Category": "Admin",
+          "Description": "Remove a player from the whitelist."
+        },
+        {
+          "Id": "backup",
+          "Label": "/backup",
+          "Command": "/backup",
+          "Category": "Admin",
+          "Description": "Create a server backup."
+        },
+        {
+          "Id": "stop",
+          "Label": "/stop",
+          "Command": "/stop",
+          "Category": "Admin",
+          "Description": "Stop the server."
+        },
+        {
+          "Id": "server_dump",
+          "Label": "/server dump",
+          "Command": "/server dump",
+          "Category": "Admin",
+          "Description": "Dump server information."
+        },
+        {
+          "Id": "server_gc",
+          "Label": "/server gc",
+          "Command": "/server gc",
+          "Category": "Admin",
+          "Description": "Run server garbage collection."
+        },
+        {
+          "Id": "server_stats",
+          "Label": "/server stats",
+          "Command": "/server stats [value]",
+          "Category": "Admin",
+          "Description": "Show server stats (optionally with a value)."
+        },
+        {
+          "Id": "spawning",
+          "Label": "/spawning",
+          "Command": "/spawning",
+          "Category": "Admin",
+          "Description": "Toggle or control spawning."
+        },
+        {
+          "Id": "perm",
+          "Label": "/perm",
+          "Command": "/perm",
+          "Category": "Admin",
+          "Description": "Permissions management commands."
+        },
+        {
+          "Id": "plugin",
+          "Label": "/plugin",
+          "Command": "/plugin",
+          "Category": "Admin",
+          "Description": "Plugin management commands."
+        },
+        {
+          "Id": "sudo",
+          "Label": "/sudo",
+          "Command": "/sudo [player] <command>",
+          "Category": "Admin",
+          "Description": "Run a command as another player."
+        },
+        {
+          "Id": "block",
+          "Label": "/block",
+          "Command": "/block",
+          "Category": "World",
+          "Description": "Block debug/management commands."
+        },
+        {
+          "Id": "chunk",
+          "Label": "/chunk",
+          "Command": "/chunk",
+          "Category": "World",
+          "Description": "Chunk debug/management commands."
+        },
+        {
+          "Id": "fluid",
+          "Label": "/fluid",
+          "Command": "/fluid",
+          "Category": "World",
+          "Description": "Fluid debug/management commands."
+        },
+        {
+          "Id": "lighting",
+          "Label": "/lighting",
+          "Command": "/lighting",
+          "Category": "World",
+          "Description": "Lighting debug/management commands."
+        },
+        {
+          "Id": "path",
+          "Label": "/path",
+          "Command": "/path",
+          "Category": "World",
+          "Description": "Pathfinding debug commands."
+        },
+        {
+          "Id": "world",
+          "Label": "/world",
+          "Command": "/world",
+          "Category": "World",
+          "Description": "World debug/management commands."
+        },
+        {
+          "Id": "copy",
+          "Label": "/copy",
+          "Command": "/copy",
+          "Category": "Builder",
+          "Description": "Copy selected blocks."
+        },
+        {
+          "Id": "cut",
+          "Label": "/cut",
+          "Command": "/cut",
+          "Category": "Builder",
+          "Description": "Cut selected blocks."
+        },
+        {
+          "Id": "editprefab",
+          "Label": "/editprefab",
+          "Command": "/editprefab",
+          "Category": "Builder",
+          "Description": "Edit a prefab."
+        },
+        {
+          "Id": "fillblocks",
+          "Label": "/fillblocks",
+          "Command": "/fillblocks",
+          "Category": "Builder",
+          "Description": "Fill a region with blocks."
+        },
+        {
+          "Id": "paste",
+          "Label": "/paste",
+          "Command": "/paste",
+          "Category": "Builder",
+          "Description": "Paste copied blocks."
+        },
+        {
+          "Id": "pos1",
+          "Label": "/pos1",
+          "Command": "/pos1",
+          "Category": "Builder",
+          "Description": "Set position 1 for selection."
+        },
+        {
+          "Id": "pos2",
+          "Label": "/pos2",
+          "Command": "/pos2",
+          "Category": "Builder",
+          "Description": "Set position 2 for selection."
+        },
+        {
+          "Id": "prefab",
+          "Label": "/prefab",
+          "Command": "/prefab",
+          "Category": "Builder",
+          "Description": "Prefab management commands."
+        },
+        {
+          "Id": "replace",
+          "Label": "/replace",
+          "Command": "/replace",
+          "Category": "Builder",
+          "Description": "Replace blocks in a selection."
+        },
+        {
+          "Id": "undo",
+          "Label": "/undo",
+          "Command": "/undo",
+          "Category": "Builder",
+          "Description": "Undo the last edit operation."
+        }
+      ]
+    },
+    "Palworld": {
+      "SourceNotes": "Official Palworld server commands list + official REST API list.",
+      "Sources": [
+        "https://docs.palworldgame.com/settings-and-operation/commands/",
+        "https://docs.palworldgame.com/api/rest-api/info/",
+        "https://docs.palworldgame.com/api/rest-api/players/",
+        "https://docs.palworldgame.com/api/rest-api/settings/",
+        "https://docs.palworldgame.com/api/rest-api/announce/",
+        "https://docs.palworldgame.com/api/rest-api/kick/",
+        "https://docs.palworldgame.com/api/rest-api/ban/",
+        "https://docs.palworldgame.com/api/rest-api/unban/",
+        "https://docs.palworldgame.com/api/rest-api/save/",
+        "https://docs.palworldgame.com/api/rest-api/shutdown/",
+        "https://docs.palworldgame.com/api/rest-api/stop/",
+        "https://docs.palworldgame.com/api/rest-api/metrics/"
+      ],
+      "Commands": [
+        {
+          "Id": "admin_password",
+          "Label": "AdminPassword",
+          "Command": "/AdminPassword <password>",
+          "Category": "Admin",
+          "Description": "Set the admin password for the current session so admin commands can be used."
+        },
+        {
+          "Id": "shutdown",
+          "Label": "Shutdown",
+          "Command": "/Shutdown [seconds] [message]",
+          "Category": "Admin",
+          "Description": "Shut down the server after an optional delay and optional message to players."
+        },
+        {
+          "Id": "do_exit",
+          "Label": "DoExit",
+          "Command": "/DoExit",
+          "Category": "Admin",
+          "Description": "Immediately stop the server."
+        },
+        {
+          "Id": "broadcast",
+          "Label": "Broadcast",
+          "Command": "/Broadcast <message>",
+          "Category": "Admin",
+          "Description": "Send a message to all connected players."
+        },
+        {
+          "Id": "kick_player",
+          "Label": "KickPlayer",
+          "Command": "/KickPlayer <steamid>",
+          "Category": "Admin",
+          "Description": "Kick a player by SteamID."
+        },
+        {
+          "Id": "ban_player",
+          "Label": "BanPlayer",
+          "Command": "/BanPlayer <steamid>",
+          "Category": "Admin",
+          "Description": "Ban a player by SteamID."
+        },
+        {
+          "Id": "teleport_to_player",
+          "Label": "TeleportToPlayer",
+          "Command": "/TeleportToPlayer <steamid>",
+          "Category": "Admin",
+          "Description": "Teleport to the specified player."
+        },
+        {
+          "Id": "teleport_to_me",
+          "Label": "TeleportToMe",
+          "Command": "/TeleportToMe <steamid>",
+          "Category": "Admin",
+          "Description": "Teleport the specified player to you."
+        },
+        {
+          "Id": "show_players",
+          "Label": "ShowPlayers",
+          "Command": "/ShowPlayers",
+          "Category": "Admin",
+          "Description": "Show the current list of connected players."
+        },
+        {
+          "Id": "info",
+          "Label": "Info",
+          "Command": "/Info",
+          "Category": "Admin",
+          "Description": "Show server information."
+        },
+        {
+          "Id": "save",
+          "Label": "Save",
+          "Command": "/Save",
+          "Category": "Admin",
+          "Description": "Save the world data."
+        },
+        {
+          "Id": "unban_player",
+          "Label": "UnBanPlayer",
+          "Command": "/UnBanPlayer <steamid>",
+          "Category": "Admin",
+          "Description": "Unban a player by SteamID."
+        },
+        {
+          "Id": "toggle_spectate",
+          "Label": "ToggleSpectate",
+          "Command": "/ToggleSpectate",
+          "Category": "Admin",
+          "Description": "Toggle spectator mode."
+        },
+        {
+          "Id": "rest_info",
+          "Label": "REST: Info",
+          "Command": "GET /v1/api/info",
+          "Category": "REST",
+          "Description": "Get server information via REST API."
+        },
+        {
+          "Id": "rest_players",
+          "Label": "REST: Players",
+          "Command": "GET /v1/api/players",
+          "Category": "REST",
+          "Description": "Get the current player list via REST API."
+        },
+        {
+          "Id": "rest_settings",
+          "Label": "REST: Settings",
+          "Command": "GET /v1/api/settings",
+          "Category": "REST",
+          "Description": "Get server settings via REST API."
+        },
+        {
+          "Id": "rest_metrics",
+          "Label": "REST: Metrics",
+          "Command": "GET /v1/api/metrics",
+          "Category": "REST",
+          "Description": "Get server metrics via REST API."
+        },
+        {
+          "Id": "rest_announce",
+          "Label": "REST: Announce",
+          "Command": "POST /v1/api/announce {\"message\":\"Hello from ECC\"}",
+          "Category": "REST",
+          "Description": "Broadcast a message to all players via REST API."
+        },
+        {
+          "Id": "rest_kick",
+          "Label": "REST: Kick",
+          "Command": "POST /v1/api/kick {\"userid\":\"<steamid>\",\"message\":\"<reason>\"}",
+          "Category": "REST",
+          "Description": "Kick a player via REST API."
+        },
+        {
+          "Id": "rest_ban",
+          "Label": "REST: Ban",
+          "Command": "POST /v1/api/ban {\"userid\":\"<steamid>\",\"message\":\"<reason>\"}",
+          "Category": "REST",
+          "Description": "Ban a player via REST API."
+        },
+        {
+          "Id": "rest_unban",
+          "Label": "REST: Unban",
+          "Command": "POST /v1/api/unban {\"userid\":\"<steamid>\"}",
+          "Category": "REST",
+          "Description": "Unban a player via REST API."
+        },
+        {
+          "Id": "rest_save",
+          "Label": "REST: Save",
+          "Command": "POST /v1/api/save",
+          "Category": "REST",
+          "Description": "Save world data via REST API."
+        },
+        {
+          "Id": "rest_shutdown",
+          "Label": "REST: Shutdown",
+          "Command": "POST /v1/api/shutdown {\"waittime\":30,\"message\":\"Server shutting down\"}",
+          "Category": "REST",
+          "Description": "Shut down the server (delayed) via REST API."
+        },
+        {
+          "Id": "rest_stop",
+          "Label": "REST: Stop",
+          "Command": "POST /v1/api/stop",
+          "Category": "REST",
+          "Description": "Immediately stop the server via REST API."
+        }
+      ]
+    },
+    "Project Zomboid": {
+      "SourceNotes": "Community command lists from PZWiki, HyperLayer, Survival Servers, and Supercraft. Some legacy/undocumented commands marked as Legacy.",
+      "Sources": [
+        "https://pzwiki.net/wiki/Admin_commands",
+        "https://docs.hyperlayer.net/docs/game-server-hosting/project-zomboid/all-console-commands-for-project-zomboid",
+        "https://www.survivalservers.com/wiki/index.php?title=Project_Zomboid_Admin_Commands",
+        "https://supercraft.host/wiki/project-zomboid/console_commands/"
+      ],
+      "Commands": [
+        {
+          "Id": "add_all_to_whitelist",
+          "Label": "/addalltowhitelist",
+          "Command": "/addalltowhitelist",
+          "Category": "Admin",
+          "Legacy": true,
+          "Description": "Legacy: add all users to the whitelist."
+        },
+        {
+          "Id": "add_item",
+          "Label": "/additem",
+          "Command": "/additem <user> <module.item> [count]",
+          "Category": "Admin",
+          "Description": "Give an item to a player (count optional)."
+        },
+        {
+          "Id": "add_user",
+          "Label": "/adduser",
+          "Command": "/adduser <username> <password>",
+          "Category": "Admin",
+          "Description": "Add a new whitelisted user with password."
+        },
+        {
+          "Id": "add_user_to_whitelist",
+          "Label": "/addusertowhitelist",
+          "Command": "/addusertowhitelist <user>",
+          "Category": "Admin",
+          "Legacy": true,
+          "Description": "Legacy: add a user to the whitelist."
+        },
+        {
+          "Id": "add_vehicle",
+          "Label": "/addvehicle",
+          "Command": "/addvehicle <user>",
+          "Category": "Admin",
+          "Description": "Spawn a vehicle for a player."
+        },
+        {
+          "Id": "add_xp",
+          "Label": "/addxp",
+          "Command": "/addxp <user> <perk=XP>",
+          "Category": "Admin",
+          "Description": "Give XP to a player for a perk."
+        },
+        {
+          "Id": "alarm",
+          "Label": "/alarm",
+          "Command": "/alarm",
+          "Category": "World",
+          "Description": "Trigger a building alarm at the admin position."
+        },
+        {
+          "Id": "ban_id",
+          "Label": "/banid",
+          "Command": "/banid <steamid>",
+          "Category": "Admin",
+          "Description": "Ban a SteamID."
+        },
+        {
+          "Id": "ban_user",
+          "Label": "/banuser",
+          "Command": "/banuser <user>",
+          "Category": "Admin",
+          "Description": "Ban a user (optionally with IP and reason)."
+        },
+        {
+          "Id": "change_option",
+          "Label": "/changeoption",
+          "Command": "/changeoption <option>=<value>",
+          "Category": "Admin",
+          "Description": "Change a server option to a new value."
+        },
+        {
+          "Id": "chopper",
+          "Label": "/chopper",
+          "Command": "/chopper",
+          "Category": "World",
+          "Description": "Trigger a helicopter event on a random player."
+        },
+        {
+          "Id": "create_horde",
+          "Label": "/createhorde",
+          "Command": "/createhorde <number>",
+          "Category": "World",
+          "Description": "Create a zombie horde near a player."
+        },
+        {
+          "Id": "godmode",
+          "Label": "/godmode",
+          "Command": "/godmode <user>",
+          "Category": "Admin",
+          "Legacy": true,
+          "Description": "Legacy: make a player invincible (toggle or value)."
+        },
+        {
+          "Id": "gunshot",
+          "Label": "/gunshot",
+          "Command": "/gunshot",
+          "Category": "World",
+          "Description": "Play a gunshot sound on a random player."
+        },
+        {
+          "Id": "help",
+          "Label": "/help",
+          "Command": "/help",
+          "Category": "General",
+          "Description": "Show help and list of server commands."
+        },
+        {
+          "Id": "invisible",
+          "Label": "/invisible",
+          "Command": "/invisible <user>",
+          "Category": "Admin",
+          "Description": "Make a player invisible to zombies (toggle or value)."
+        },
+        {
+          "Id": "kick_user",
+          "Label": "/kick",
+          "Command": "/kick <user>",
+          "Category": "Admin",
+          "Description": "Kick a user (optionally with reason)."
+        },
+        {
+          "Id": "noclip",
+          "Label": "/noclip",
+          "Command": "/noclip <user>",
+          "Category": "Admin",
+          "Description": "Toggle noclip for a player (toggle or value)."
+        },
+        {
+          "Id": "players",
+          "Label": "/players",
+          "Command": "/players",
+          "Category": "General",
+          "Description": "List connected players."
+        },
+        {
+          "Id": "quit",
+          "Label": "/quit",
+          "Command": "/quit",
+          "Category": "Admin",
+          "Description": "Save and quit the server."
+        },
+        {
+          "Id": "release_safehouse",
+          "Label": "/releasesafehouse",
+          "Command": "/releasesafehouse",
+          "Category": "Admin",
+          "Description": "Release a safehouse you own."
+        },
+        {
+          "Id": "reload_options",
+          "Label": "/reloadoptions",
+          "Command": "/reloadoptions",
+          "Category": "Admin",
+          "Description": "Reload server options and send to clients."
+        },
+        {
+          "Id": "remove_user_from_whitelist",
+          "Label": "/removeuserfromwhitelist",
+          "Command": "/removeuserfromwhitelist <user>",
+          "Category": "Admin",
+          "Description": "Remove a user from the whitelist."
+        },
+        {
+          "Id": "replay",
+          "Label": "/replay",
+          "Command": "/replay <user> [-record|-play|-stop] <filename>",
+          "Category": "Admin",
+          "Legacy": true,
+          "Description": "Legacy: record or play a replay for a user."
+        },
+        {
+          "Id": "save",
+          "Label": "/save",
+          "Command": "/save",
+          "Category": "Admin",
+          "Description": "Save the current world."
+        },
+        {
+          "Id": "sendpulse",
+          "Label": "/sendpulse",
+          "Command": "/sendpulse",
+          "Category": "World",
+          "Legacy": true,
+          "Description": "Legacy: trigger a pulse event."
+        },
+        {
+          "Id": "servermsg",
+          "Label": "/servermsg",
+          "Command": "/servermsg <message>",
+          "Category": "Admin",
+          "Description": "Broadcast a message to all connected players."
+        },
+        {
+          "Id": "setaccesslevel",
+          "Label": "/setaccesslevel",
+          "Command": "/setaccesslevel <user> [admin|moderator|overseer|gm|observer]",
+          "Category": "Admin",
+          "Description": "Set a user access level (Admin/Moderator/Overseer/GM/Observer)."
+        },
+        {
+          "Id": "showoptions",
+          "Label": "/showoptions",
+          "Command": "/showoptions",
+          "Category": "General",
+          "Description": "Show current server options and values."
+        },
+        {
+          "Id": "startrain",
+          "Label": "/startrain",
+          "Command": "/startrain",
+          "Category": "World",
+          "Description": "Start raining with intensity."
+        },
+        {
+          "Id": "stoprain",
+          "Label": "/stoprain",
+          "Command": "/stoprain",
+          "Category": "World",
+          "Description": "Stop rain."
+        },
+        {
+          "Id": "teleport",
+          "Label": "/teleport",
+          "Command": "/teleport <toUser> [user] <toUser>",
+          "Category": "Admin",
+          "Description": "Teleport to another player (or between players)."
+        },
+        {
+          "Id": "teleportto",
+          "Label": "/teleportto",
+          "Command": "/teleportto <x,y,z>",
+          "Category": "Admin",
+          "Description": "Teleport to coordinates (x,y,z)."
+        },
+        {
+          "Id": "unbanid",
+          "Label": "/unbanid",
+          "Command": "/unbanid <steamid>",
+          "Category": "Admin",
+          "Description": "Unban a SteamID."
+        },
+        {
+          "Id": "unbanuser",
+          "Label": "/unbanuser",
+          "Command": "/unbanuser <username>",
+          "Category": "Admin",
+          "Description": "Unban a user."
+        },
+        {
+          "Id": "voiceban",
+          "Label": "/voiceban",
+          "Command": "/voiceban <user> [-true|-false]",
+          "Category": "Admin",
+          "Description": "Toggle voice ban for a user."
+        },
+        {
+          "Category": "Admin",
+          "Command": "/addkey <username> <keyId> [name]",
+          "Id": "add_key",
+          "Label": "/addkey",
+          "Description": "Legacy/Undocumented: give a key to a player."
+        },
+        {
+          "Category": "Admin",
+          "Command": "/addsteamid <steamid>",
+          "Id": "add_steamid",
+          "Label": "/addsteamid",
+          "Description": "Legacy/Undocumented: add a SteamID to allowed list."
+        },
+        {
+          "Category": "Admin",
+          "Command": "/addtosafehouse <username>",
+          "Id": "add_to_safehouse",
+          "Label": "/addtosafehouse",
+          "Description": "Legacy/Undocumented: add player to a safehouse."
+        },
+        {
+          "Category": "Admin",
+          "Command": "/banip <ip>",
+          "Id": "ban_ip",
+          "Label": "/banip",
+          "Description": "Legacy/Undocumented: ban an IP address."
+        },
+        {
+          "Category": "Admin",
+          "Command": "/checkModsNeedUpdate",
+          "Id": "check_mods_need_update",
+          "Label": "/checkModsNeedUpdate",
+          "Description": "Check whether a mod needs update (writes to log)."
+        },
+        {
+          "Category": "World",
+          "Command": "/createhorde2",
+          "Id": "create_horde2",
+          "Label": "/createhorde2",
+          "Description": "Create a horde event (alternate horde command)."
+        },
+        {
+          "Category": "Admin",
+          "Command": "/godmod <user> [-true|-false]",
+          "Id": "godmod",
+          "Label": "/godmod",
+          "Description": "Make yourself invincible (toggle or value)."
+        },
+        {
+          "Category": "Admin",
+          "Command": "/godmodplayer <user> [-true|-false]",
+          "Id": "godmod_player",
+          "Label": "/godmodplayer",
+          "Description": "Make a player invincible (toggle or value)."
+        },
+        {
+          "Category": "Admin",
+          "Command": "/invisibleplayer <user> [-true|-false]",
+          "Id": "invisible_player",
+          "Label": "/invisibleplayer",
+          "Description": "Make a player invisible to zombies (toggle or value)."
+        },
+        {
+          "Category": "Admin",
+          "Command": "/kickfromsafehouse <safehouse>",
+          "Id": "kick_from_safehouse",
+          "Label": "/kickfromsafehouse",
+          "Description": "Legacy/Undocumented: kick a player from a safehouse."
+        },
+        {
+          "Category": "World",
+          "Command": "/lightning [user]",
+          "Id": "lightning",
+          "Label": "/lightning",
+          "Description": "Trigger lightning on a player (optional)."
+        },
+        {
+          "Category": "General",
+          "Command": "/list",
+          "Id": "list",
+          "Label": "/list",
+          "Description": "List connected players (server list)."
+        },
+        {
+          "Category": "Admin",
+          "Command": "/log <category> <level>",
+          "Id": "log",
+          "Label": "/log",
+          "Description": "Set log level for a category."
+        },
+        {
+          "Category": "Admin",
+          "Command": "/reloadalllua",
+          "Id": "reload_all_lua",
+          "Label": "/reloadalllua",
+          "Description": "Reload all Lua scripts."
+        },
+        {
+          "Category": "Admin",
+          "Command": "/reloadlua <filename>",
+          "Id": "reload_lua",
+          "Label": "/reloadlua",
+          "Description": "Reload a specific Lua script."
+        },
+        {
+          "Category": "Admin",
+          "Command": "/remove <username>",
+          "Id": "remove",
+          "Label": "/remove",
+          "Description": "Legacy/Undocumented: remove a user from whitelist."
+        },
+        {
+          "Category": "Admin",
+          "Command": "/removeitem <module.item> [count]",
+          "Id": "remove_item",
+          "Label": "/removeitem",
+          "Description": "Remove items from yourself or a player."
+        },
+        {
+          "Category": "Admin",
+          "Command": "/removesteamid <steamid>",
+          "Id": "remove_steamid",
+          "Label": "/removesteamid",
+          "Description": "Legacy/Undocumented: remove a SteamID from allowed list."
+        },
+        {
+          "Category": "World",
+          "Command": "/removezombies",
+          "Id": "remove_zombies",
+          "Label": "/removezombies",
+          "Description": "Remove zombies in the current area."
+        },
+        {
+          "Category": "Admin",
+          "Command": "/setpassword <username> <newpassword>",
+          "Id": "setpassword",
+          "Label": "/setpassword",
+          "Description": "Set or change a user password."
+        },
+        {
+          "Category": "Admin",
+          "Command": "/setTimeSpeed <multiplier>",
+          "Id": "set_time_speed",
+          "Label": "/setTimeSpeed",
+          "Description": "Set the in-game time speed multiplier."
+        },
+        {
+          "Category": "World",
+          "Command": "/startstorm <duration>",
+          "Id": "startstorm",
+          "Label": "/startstorm",
+          "Description": "Start a storm for a duration."
+        },
+        {
+          "Category": "Admin",
+          "Command": "/stats [help]",
+          "Id": "stats",
+          "Label": "/stats",
+          "Description": "Get server statistics (use help for details)."
+        },
+        {
+          "Category": "World",
+          "Command": "/stopweather",
+          "Id": "stopweather",
+          "Label": "/stopweather",
+          "Description": "Stop weather effects."
+        },
+        {
+          "Category": "Admin",
+          "Command": "/teleportplayer <player1> <player2>",
+          "Id": "teleport_player",
+          "Label": "/teleportplayer",
+          "Description": "Teleport one player to another player."
+        },
+        {
+          "Category": "World",
+          "Command": "/thunder [user]",
+          "Id": "thunder",
+          "Label": "/thunder",
+          "Description": "Trigger thunder on a player (optional)."
+        },
+        {
+          "Category": "Admin",
+          "Command": "/unbanip <ip>",
+          "Id": "unbanip",
+          "Label": "/unbanip",
+          "Description": "Legacy/Undocumented: unban an IP address."
+        },
+        {
+          "Category": "World",
+          "Command": "/worldgen <start|recheck|stop|status>",
+          "Id": "worldgen",
+          "Label": "/worldgen",
+          "Description": "Control world generator: start/recheck/stop/status."
+        }
+      ]
+    },
+    "Satisfactory": {
+      "SourceNotes": "Community docs list a short set of dedicated server console commands.",
+      "Sources": [
+        "https://docs.hyperlayer.net/docs/game-server-hosting/satisfactory/satisfactory-console-commands/"
+      ],
+      "Commands": [
+        {
+          "Id": "quit",
+          "Label": "quit",
+          "Command": "quit",
+          "Category": "Admin",
+          "Description": "Gracefully shut down the server."
+        },
+        {
+          "Id": "stop",
+          "Label": "stop",
+          "Command": "stop",
+          "Category": "Admin",
+          "Description": "Stop the server (same effect as quit)."
+        },
+        {
+          "Id": "exit",
+          "Label": "exit",
+          "Command": "exit",
+          "Category": "Admin",
+          "Description": "Exit the server process."
+        },
+        {
+          "Id": "server_savegame",
+          "Label": "SaveGame",
+          "Command": "SaveGame <saveName>",
+          "Category": "Admin",
+          "Description": "Force a save with the specified save name."
+        },
+        {
+          "Id": "fg_autosave_interval",
+          "Label": "FG.AutosaveInterval",
+          "Command": "FG.AutosaveInterval <seconds>",
+          "Category": "Admin",
+          "Description": "Set autosave interval in seconds."
+        },
+        {
+          "Id": "fg_network_quality",
+          "Label": "FG.NetworkQuality",
+          "Command": "FG.NetworkQuality <value>",
+          "Category": "Admin",
+          "Description": "Set network quality preset value."
+        },
+        {
+          "Id": "fg_disable_seasonal",
+          "Label": "FG.DisableSeasonalEvents",
+          "Command": "FG.DisableSeasonalEvents <0|1>",
+          "Category": "Admin",
+          "Description": "Enable or disable seasonal events."
+        }
+      ]
+    },
+    "Valheim": {
+      "SourceNotes": "Community wiki admin commands list (developer console).",
+      "Sources": [
+        "https://valheim.fandom.com/wiki/Developer_console"
+      ],
+      "Commands": [
+        {
+          "Id": "ban",
+          "Label": "ban",
+          "Command": "ban <name|ip|userID>",
+          "Category": "Admin",
+          "Description": "Ban a player by name, IP, or userID."
+        },
+        {
+          "Id": "banned",
+          "Label": "banned",
+          "Command": "banned",
+          "Category": "Admin",
+          "Description": "List banned players."
+        },
+        {
+          "Id": "kick",
+          "Label": "kick",
+          "Command": "kick <name|ip|userID>",
+          "Category": "Admin",
+          "Description": "Kick a player by name, IP, or userID."
+        },
+        {
+          "Id": "resetworldkeys",
+          "Label": "resetworldkeys",
+          "Command": "resetworldkeys",
+          "Category": "Admin",
+          "Description": "Reset world progression keys (boss/global keys)."
+        },
+        {
+          "Id": "save",
+          "Label": "save",
+          "Command": "save",
+          "Category": "Admin",
+          "Description": "Save the world."
+        },
+        {
+          "Id": "setworldmodifier",
+          "Label": "setworldmodifier",
+          "Command": "setworldmodifier <name> <value>",
+          "Category": "Admin",
+          "Description": "Set a specific world modifier to a value."
+        },
+        {
+          "Id": "setworldpreset",
+          "Label": "setworldpreset",
+          "Command": "setworldpreset <name>",
+          "Category": "Admin",
+          "Description": "Apply a world preset by name."
+        },
+        {
+          "Id": "unban",
+          "Label": "unban",
+          "Command": "unban <name|ip|userID>",
+          "Category": "Admin",
+          "Description": "Unban a player by name, IP, or userID."
+        }
+      ]
+    }
+  }
+}

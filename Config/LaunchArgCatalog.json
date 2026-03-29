@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "Games": {
+    "Palworld": {
+      "Args": [
+        { "Key": "-port", "Type": "value", "Style": "equals", "Label": "Port", "Default": "8211", "Help": "Port the server listens on." },
+        { "Key": "-players", "Type": "value", "Style": "equals", "Label": "Max Players", "Default": "32", "Help": "Maximum players on the server." },
+        { "Key": "-publicport", "Type": "value", "Style": "equals", "Label": "Public Port", "Default": "8211", "Help": "Public port for community server listings." },
+        { "Key": "-queryport", "Type": "value", "Style": "equals", "Label": "Query Port", "Default": "27015", "Help": "Server query port." },
+        { "Key": "-publicip", "Type": "value", "Style": "equals", "Label": "Public IP", "Help": "Manual public IP for community servers if auto-detect fails." },
+        { "Key": "-restapiport", "Type": "value", "Style": "equals", "Label": "REST API Port", "Default": "8212", "Help": "REST API port." },
+        { "Key": "-publiclobby", "Type": "flag", "Label": "Public Lobby", "Help": "Register as a community server." },
+        { "Key": "-log", "Type": "flag", "Label": "Log", "Help": "Enable log output." },
+        { "Key": "-logformat", "Type": "value", "Style": "equals", "Label": "Log Format", "Default": "text", "Help": "Log format: text or json." },
+        { "Key": "-stdout", "Type": "flag", "Label": "Stdout", "Help": "Attempt to send engine log output to stdout." },
+        { "Key": "-FullStdOutLogOutput", "Type": "flag", "Label": "Full Stdout Output", "Help": "Request fuller Unreal log output on stdout." },
+        { "Key": "ABSLOG", "Type": "value", "Style": "equals", "Label": "Absolute Log File", "Help": "Absolute Unreal log file path.", "Path": true, "Quote": "always" },
+        { "Key": "-NumberOfWorkerThreadsServer", "Type": "value", "Style": "equals", "Label": "Worker Threads", "Help": "Number of worker threads (use with perf-thread flags)." },
+        {
+          "Key": "-useperfthreads",
+          "Type": "flaggroup",
+          "Label": "Performance Threads",
+          "Keys": [ "-useperfthreads", "-NoAsyncLoadingThread", "-UseMultithreadForDS" ],
+          "Help": "Enables UE perf-thread options for multi-threaded CPUs."
+        }
+      ]
+    },
+    "Satisfactory": {
+      "Args": [
+        { "Key": "-ServerQueryPort", "Type": "value", "Style": "equals", "Label": "Server Query Port", "Help": "Override the server query port." },
+        { "Key": "-BeaconPort", "Type": "value", "Style": "equals", "Label": "Beacon Port", "Help": "Override the beacon port." },
+        { "Key": "-Port", "Type": "value", "Style": "equals", "Label": "Game Port", "Help": "Override the game port." },
+        { "Key": "-ReliablePort", "Type": "value", "Style": "equals", "Label": "Reliable Port", "Help": "Override the reliable port." },
+        { "Key": "-multihome", "Type": "value", "Style": "equals", "Label": "Bind IP", "Help": "Bind server to a specific IP." },
+        { "Key": "-DisablePacketRouting", "Type": "flag", "Label": "Disable Packet Routing", "Help": "Disable packet routing (auto when multihome)." },
+        { "Key": "-log", "Type": "flag", "Label": "Log", "Help": "Force log output to console/window." },
+        { "Key": "-unattended", "Type": "flag", "Label": "Unattended", "Help": "Suppress dialogs that pause the server." }
+      ]
+    },
+    "Valheim": {
+      "Args": [
+        { "Key": "-nographics", "Type": "flag", "Label": "No Graphics" },
+        { "Key": "-batchmode", "Type": "flag", "Label": "Batch Mode" },
+        { "Key": "-name", "Type": "value", "Style": "space", "Label": "Server Name", "Help": "Server name shown in browser." },
+        { "Key": "-port", "Type": "value", "Style": "space", "Label": "Port", "Help": "Server port." },
+        { "Key": "-world", "Type": "value", "Style": "space", "Label": "World Name", "Help": "World name to load/create." },
+        { "Key": "-password", "Type": "value", "Style": "space", "Label": "Password", "Help": "Server password." },
+        { "Key": "-public", "Type": "value", "Style": "space", "Label": "Public (1 or 0)", "Help": "1 = public, 0 = hidden (Join IP only)." },
+        { "Key": "-crossplay", "Type": "flag", "Label": "Crossplay", "Help": "Enable crossplay networking." },
+        { "Key": "-savedir", "Type": "value", "Style": "space", "Label": "Save Dir", "Help": "Override save directory." },
+        { "Key": "-logFile", "Type": "value", "Style": "space", "Label": "Log File", "Help": "Log file path.", "Path": true, "Quote": "always" },
+        { "Key": "-saveinterval", "Type": "value", "Style": "space", "Label": "Save Interval (sec)", "Help": "Autosave interval in seconds." },
+        { "Key": "-backups", "Type": "value", "Style": "space", "Label": "Backups", "Help": "Number of backups to keep." },
+        { "Key": "-backupshort", "Type": "value", "Style": "space", "Label": "Backup Short (sec)", "Help": "Short backup interval." },
+        { "Key": "-backuplong", "Type": "value", "Style": "space", "Label": "Backup Long (sec)", "Help": "Long backup interval." },
+        { "Key": "-instanceid", "Type": "value", "Style": "space", "Label": "Instance ID", "Help": "Unique ID for multiple servers on same MAC/port." },
+        { "Key": "-preset", "Type": "value", "Style": "space", "Label": "Preset", "Help": "World modifier preset." },
+        { "Key": "-modifier", "Type": "value", "Style": "space", "Label": "Modifier", "Quote": "never" },
+        { "Key": "-setkey", "Type": "value", "Style": "space", "Label": "Set Key", "Quote": "never" }
+      ]
+    },
+    "Project Zomboid": {
+      "Args": [
+        { "Key": "-coop", "Type": "flag", "Label": "Coop Server", "Help": "Run a coop server instead of dedicated." },
+        { "Key": "-adminusername", "Type": "value", "Style": "space", "Label": "Admin Username", "Help": "Default admin username." },
+        { "Key": "-adminpassword", "Type": "value", "Style": "space", "Label": "Admin Password", "Help": "Default admin password." },
+        { "Key": "-servername", "Type": "value", "Style": "space", "Label": "Server Name", "Help": "Internal server name / save prefix." },
+        { "Key": "-ip", "Type": "value", "Style": "space", "Label": "Bind IP", "Help": "Bind server to specific IP." },
+        { "Key": "-port", "Type": "value", "Style": "space", "Label": "Port", "Help": "Override DefaultPort from INI." },
+        { "Key": "-udpport", "Type": "value", "Style": "space", "Label": "UDP Port", "Help": "Override UDPPort from INI." },
+        { "Key": "-steamvac", "Type": "value", "Style": "space", "Label": "SteamVAC (true/false)", "Help": "Enable/disable Valve Anti-Cheat." },
+        { "Key": "-statistic", "Type": "value", "Style": "space", "Label": "Statistic Interval (sec)", "Help": "Enable stats logging (seconds)." },
+        { "Key": "-gui", "Type": "flag", "Label": "Start GUI", "Help": "Launch server GUI alongside console." },
+        { "Key": "-nosteam", "Type": "flag", "Label": "No Steam", "Help": "Disable Steam integration." },
+        { "Key": "-cachedir", "Type": "value", "Style": "space", "Label": "Cache Dir", "Help": "Set cache directory path." },
+        { "Key": "-console_dot_txt_size_kb", "Type": "value", "Style": "equals", "Label": "Console Log Size (KB)", "Help": "Max console.txt size (KB)." },
+        { "Key": "-debuglog", "Type": "value", "Style": "equals", "Label": "Debug Log", "Help": "Enable debug log filters." },
+        { "Key": "-disablelog", "Type": "value", "Style": "equals", "Label": "Disable Log", "Help": "Disable log filters." }
+      ]
+    },
+    "Hytale": {
+      "Args": [
+        { "Key": "--assets", "Type": "value", "Style": "space", "Label": "Assets Path", "Help": "Path to Assets.zip (required)." },
+        { "Key": "--auth-mode", "Type": "value", "Style": "space", "Label": "Auth Mode", "Help": "Authentication mode (authenticated/offline)." },
+        { "Key": "--bind", "Type": "value", "Style": "space", "Label": "Bind Address", "Help": "Bind address and port (default 0.0.0.0:5520)." },
+        { "Key": "--backup", "Type": "flag", "Label": "Auto Backups", "Help": "Enable automatic backups." },
+        { "Key": "--backup-dir", "Type": "value", "Style": "space", "Label": "Backup Dir", "Help": "Backup directory path." },
+        { "Key": "--backup-frequency", "Type": "value", "Style": "space", "Label": "Backup Frequency (min)", "Help": "Backup interval in minutes." },
+        { "Key": "--allow-op", "Type": "flag", "Label": "Allow OP", "Help": "Allow operator commands." },
+        { "Key": "--accept-early-plugins", "Type": "flag", "Label": "Accept Early Plugins", "Help": "Acknowledge early plugin support." },
+        { "Key": "--disable-sentry", "Type": "flag", "Label": "Disable Sentry", "Help": "Disable Sentry crash reporting." }
+      ]
+    },
+    "7 Days to Die": {
+      "Args": [
+        { "Key": "-quit", "Type": "flag", "Label": "Quit on Start", "Help": "Unity quit flag in dedicated start script." },
+        { "Key": "-batchmode", "Type": "flag", "Label": "Batch Mode", "Help": "Unity batch mode." },
+        { "Key": "-nographics", "Type": "flag", "Label": "No Graphics", "Help": "Unity no-graphics mode." },
+        { "Key": "-logfile", "Type": "value", "Style": "space", "Label": "Log File", "Default": "$LOGFILE", "Help": "Log file path or $LOGFILE token.", "Path": true, "Quote": "always" },
+        { "Key": "-configfile", "Type": "value", "Style": "equals", "Label": "Config File", "Default": "serverconfig.xml", "Help": "Path to serverconfig.xml.", "Path": true, "Quote": "always" },
+        { "Key": "-dedicated", "Type": "flag", "Label": "Dedicated Server", "Help": "Must be last option in startdedicated.bat." }
+      ]
+    }
+  }
+}

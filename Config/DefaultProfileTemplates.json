@@ -1,0 +1,345 @@
+{
+  "7_Days_to_Die": {
+    "GameName": "7 Days to Die",
+    "Prefix": "DZ",
+    "LaunchArgs": "-logfile \"$LOGFILE\" -quit -batchmode -nographics -configfile=serverconfig.xml -dedicated",
+    "StopMethod": "stdin",
+    "SaveMethod": "stdin",
+    "StdinStopCommand": "shutdown",
+    "StdinSaveCommand": "saveworld",
+    "SaveWaitSeconds": 10,
+    "ProcessName": "7DaysToDieServer",
+    "SteamAppId": 251570,
+    "TelnetHost": "127.0.0.1",
+    "TelnetPort": 8081,
+    "MinRamGB": 4,
+    "MaxRamGB": 12,
+    "EnableAutoRestart": true,
+    "RestartDelaySeconds": 10,
+    "MaxRestartsPerHour": 5,
+    "LogStrategy": "NewestFile",
+    "ServerLogFile": "$LOGFILE",
+    "ServerLogNote": "7 Days to Die writes the dedicated-server log to the path defined by -logfile. ECC also falls back to the newest dedicated-server log it can resolve from the install folder.",
+    "Commands": {
+      "players": {
+        "Type": "Telnet",
+        "Command": "listplayers"
+      },
+      "stop": {
+        "Type": "Stop"
+      },
+      "restart": {
+        "Type": "Restart"
+      },
+      "save": {
+        "Type": "Telnet",
+        "Command": "saveworld"
+      },
+      "status": {
+        "Type": "Status"
+      },
+      "start": {
+        "Type": "Start"
+      },
+      "version": {
+        "Type": "Telnet",
+        "Command": "version"
+      }
+    },
+    "ExtraCommands": {
+      "save": {
+        "Type": "Telnet",
+        "Command": "saveworld"
+      },
+      "players": {
+        "Type": "Telnet",
+        "Command": "listplayers"
+      },
+      "version": {
+        "Type": "Telnet",
+        "Command": "version"
+      }
+    }
+  },
+  "Hytale": {
+    "GameName": "Hytale",
+    "Prefix": "HY",
+    "StopMethod": "processKill",
+    "SaveMethod": "stdin",
+    "StdinStopCommand": "stop",
+    "StdinSaveCommand": "backup",
+    "SaveWaitSeconds": 10,
+    "ProcessName": "java",
+    "MinRamGB": 4,
+    "MaxRamGB": 8,
+    "EnableAutoRestart": true,
+    "RestartDelaySeconds": 10,
+    "MaxRestartsPerHour": 5,
+    "LogStrategy": "NewestFile",
+    "ServerLogSubDir": "logs",
+    "ServerLogFile": "*_server.log",
+    "AOTCache": "HytaleServer.aot",
+    "AssetFile": "Assets.zip",
+    "BackupDir": "backup",
+    "Commands": {
+      "start": {
+        "Type": "Start"
+      },
+      "stop": {
+        "Type": "Stop"
+      },
+      "restart": {
+        "Type": "Restart"
+      },
+      "status": {
+        "Type": "Status"
+      },
+      "players": {
+        "Command": "who",
+        "Type": "SendCommand"
+      },
+      "save": {
+        "Command": "backup",
+        "Type": "SendCommand"
+      }
+    },
+    "ExtraCommands": {
+      "players": {
+        "Command": "who",
+        "Type": "SendCommand"
+      },
+      "save": {
+        "Command": "backup",
+        "Type": "SendCommand"
+      }
+    }
+  },
+  "Satisfactory": {
+    "GameName": "Satisfactory",
+    "Prefix": "SF",
+    "Executable": "FactoryServer.exe",
+    "LaunchArgs": "-Port=7777 -ReliablePort=8888 -log -unattended",
+    "StopMethod": "SatisfactoryApi",
+    "ProcessName": "FactoryServer-Win64-Shipping",
+    "SaveMethod": "SatisfactoryApi",
+    "SaveWaitSeconds": 20,
+    "RconHost": "127.0.0.1",
+    "RconPort": 0,
+    "MinRamGB": 8,
+    "MaxRamGB": 16,
+    "EnableAutoRestart": true,
+    "RestartDelaySeconds": 10,
+    "MaxRestartsPerHour": 5,
+    "LogStrategy": "NewestFile",
+    "ServerLogSubDir": "FactoryGame\\Saved\\Logs",
+    "ServerLogFile": "FactoryGame.log",
+    "ConfigRoot": "%LOCALAPPDATA%\\FactoryGame\\Saved\\Config\\Windows",
+    "RestEnabled": false,
+    "RestPollOnlyWhenRunning": true,
+    "SatisfactoryApiHost": "127.0.0.1",
+    "SatisfactoryApiPort": 7777,
+    "Commands": {
+      "start": {
+        "Type": "Start"
+      },
+      "stop": {
+        "Type": "Stop"
+      },
+      "restart": {
+        "Type": "Restart"
+      },
+      "status": {
+        "Type": "Status"
+      },
+      "save": {
+        "Type": "SatisfactoryApi",
+        "Function": "SaveGame"
+      },
+      "players": {
+        "Type": "SatisfactoryApi",
+        "Function": "QueryServerState"
+      }
+    },
+    "ExtraCommands": {
+      "save": {
+        "Type": "SatisfactoryApi",
+        "Function": "SaveGame"
+      },
+      "players": {
+        "Type": "SatisfactoryApi",
+        "Function": "QueryServerState"
+      },
+      "status": {
+        "Type": "SatisfactoryApi",
+        "Function": "QueryServerState"
+      }
+    }
+  },
+  "Project_Zomboid": {
+    "GameName": "Project Zomboid",
+    "Prefix": "PZ",
+    "StopMethod": "processKill",
+    "Executable": "StartServer64.bat",
+    "RconHost": "127.0.0.1",
+    "RconPort": 27015,
+    "ProcessName": "ZuluPlatformx64Architecture",
+    "SaveMethod": "stdin",
+    "StdinSaveCommand": "save",
+    "SaveWaitSeconds": 10,
+    "MinRamGB": 2,
+    "MaxRamGB": 16,
+    "EnableAutoRestart": true,
+    "RestartDelaySeconds": 10,
+    "MaxRestartsPerHour": 5,
+    "LogStrategy": "PZSessionFolder",
+    "ConfigRoot": "%USERPROFILE%\\Zomboid\\Server",
+    "ServerLogNote": "PZ logs are stored under %USERPROFILE%\\Zomboid\\Logs in dated session folders. ECC tails the newest session automatically.",
+    "Commands": {
+      "start": {
+        "Type": "Start"
+      },
+      "stop": {
+        "Type": "Stop"
+      },
+      "restart": {
+        "Type": "Restart"
+      },
+      "status": {
+        "Type": "Status"
+      },
+      "players": {
+        "Command": "players",
+        "Type": "SendCommand"
+      },
+      "save": {
+        "Command": "save",
+        "Type": "SendCommand"
+      }
+    }
+  },
+  "Palworld": {
+    "GameName": "Palworld",
+    "Prefix": "PW",
+    "StopMethod": "processname",
+    "Executable": "PalServer.exe",
+    "ProcessName": "PalServer-Win64-Shipping",
+    "LaunchArgs": "-port=8211 -players=32 -publicport=8211 -queryport=27015 -restapiport=8212 -useperfthreads -NoAsyncLoadingThread -UseMultithreadForDS -publiclobby -log",
+    "SaveMethod": "rest",
+    "SaveWaitSeconds": 10,
+    "RconHost": "127.0.0.1",
+    "RconPort": 25575,
+    "RestEnabled": true,
+    "RestHost": "127.0.0.1",
+    "RestPort": 8212,
+    "RestProtocol": "http",
+    "MinRamGB": 4,
+    "MaxRamGB": 16,
+    "EnableAutoRestart": true,
+    "RestartDelaySeconds": 10,
+    "MaxRestartsPerHour": 5,
+    "LogStrategy": "NewestFile",
+    "ServerLogFile": "*",
+    "DisableFileTail": true,
+    "CaptureOutput": false,
+    "RestPollOnlyWhenRunning": true,
+    "ServerLogNote": "Palworld uses the ECC activity-feed view by default. ECC surfaces REST activity, player counts, and server events without depending on a tailed log file.",
+    "Commands": {
+      "start": {
+        "Type": "Start"
+      },
+      "stop": {
+        "Endpoint": "/v1/api/server/shutdown",
+        "Type": "Rest",
+        "Method": "POST"
+      },
+      "restart": {
+        "Type": "Restart"
+      },
+      "status": {
+        "Endpoint": "/v1/api/server/info",
+        "Type": "Rest",
+        "Method": "GET"
+      },
+      "save": {
+        "Endpoint": "/v1/api/save",
+        "Type": "Rest",
+        "Method": "POST"
+      },
+      "players": {
+        "Endpoint": "/v1/api/players",
+        "Type": "Rest",
+        "Method": "GET"
+      },
+      "info": {
+        "Endpoint": "/v1/api/server/info",
+        "Type": "Rest",
+        "Method": "GET"
+      }
+    },
+    "ExtraCommands": {
+      "status": {
+        "Endpoint": "/v1/api/server/info",
+        "Type": "Rest",
+        "Method": "GET"
+      },
+      "save": {
+        "Endpoint": "/v1/api/save",
+        "Type": "Rest",
+        "Method": "POST"
+      },
+      "players": {
+        "Endpoint": "/v1/api/players",
+        "Type": "Rest",
+        "Method": "GET"
+      },
+      "info": {
+        "Endpoint": "/v1/api/server/info",
+        "Type": "Rest",
+        "Method": "GET"
+      }
+    }
+  },
+  "Valheim": {
+    "GameName": "Valheim",
+    "Prefix": "VH",
+    "StopMethod": "processKill",
+    "Executable": "valheim_server.exe",
+    "ProcessName": "valheim_server",
+    "LaunchArgs": "-nographics -batchmode -name \"My Valheim Server\" -port 2456 -world \"Dedicated\" -password \"change-me\" -public 1 -crossplay -saveinterval 900 -backups 4 -preset Normal -logFile \"logs\\valheim_output.log\"",
+    "SaveMethod": "none",
+    "SaveWaitSeconds": 10,
+    "RconHost": "127.0.0.1",
+    "RconPort": 0,
+    "MinRamGB": 2,
+    "MaxRamGB": 4,
+    "EnableAutoRestart": false,
+    "RestartDelaySeconds": 10,
+    "MaxRestartsPerHour": 5,
+    "LogStrategy": "SingleFile",
+    "ServerLogSubDir": "logs",
+    "ServerLogFile": "valheim_output.log",
+    "ServerLogNote": "Valheim writes to the log file configured by -logFile. ECC expects logs\\valheim_output.log by default.",
+    "StdinPreferWindow": true,
+    "StdinWindowProcessName": "valheim_server",
+    "Commands": {
+      "start": {
+        "Type": "Start"
+      },
+      "stop": {
+        "Type": "Stop"
+      },
+      "restart": {
+        "Type": "Restart"
+      },
+      "status": {
+        "Type": "Status"
+      },
+      "players": {
+        "Type": "Status"
+      },
+      "save": {
+        "Type": "Status"
+      }
+    }
+  }
+}
