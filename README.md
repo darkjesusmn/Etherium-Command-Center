@@ -1305,4 +1305,7 @@ Private use during development. Distribution terms pending.
 
 ## Credits
 
-Built by Darkj and contributors.
+Built by DarkjesusMN and AI contributors.
+
+<img width="1919" height="1077" alt="{B332CCE4-B67F-4803-B2B1-187F2088B4F0}" src="https://github.com/user-attachments/assets/8c8ebe02-c32c-473a-890f-c1c79a860341" />
+
