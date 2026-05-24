@@ -1,0 +1,2837 @@
+[
+  {
+    "DisplayName": "Adamantite Chestplate",
+    "FullType": "Armors/Adamantite/Chest",
+    "ItemId": "Armors/Adamantite/Chest",
+    "DisplayCategory": "Armors",
+    "ListText": "Adamantite Chestplate              Armors/Adamantite/Chest"
+  },
+  {
+    "DisplayName": "Adamantite Gloves",
+    "FullType": "Armors/Adamantite/Hands",
+    "ItemId": "Armors/Adamantite/Hands",
+    "DisplayCategory": "Armors",
+    "ListText": "Adamantite Gloves                  Armors/Adamantite/Hands"
+  },
+  {
+    "DisplayName": "Adamantite Helmet",
+    "FullType": "Armors/Adamantite/Head",
+    "ItemId": "Armors/Adamantite/Head",
+    "DisplayCategory": "Armors",
+    "ListText": "Adamantite Helmet                  Armors/Adamantite/Head"
+  },
+  {
+    "DisplayName": "Adamantite Leggings",
+    "FullType": "Armors/Adamantite/Legs",
+    "ItemId": "Armors/Adamantite/Legs",
+    "DisplayCategory": "Armors",
+    "ListText": "Adamantite Leggings                Armors/Adamantite/Legs"
+  },
+  {
+    "DisplayName": "Bronze Chestplate",
+    "FullType": "Armors/Bronze/Chest",
+    "ItemId": "Armors/Bronze/Chest",
+    "DisplayCategory": "Armors",
+    "ListText": "Bronze Chestplate                  Armors/Bronze/Chest"
+  },
+  {
+    "DisplayName": "Bronze Gloves",
+    "FullType": "Armors/Bronze/Hands",
+    "ItemId": "Armors/Bronze/Hands",
+    "DisplayCategory": "Armors",
+    "ListText": "Bronze Gloves                      Armors/Bronze/Hands"
+  },
+  {
+    "DisplayName": "Bronze Helmet",
+    "FullType": "Armors/Bronze/Head",
+    "ItemId": "Armors/Bronze/Head",
+    "DisplayCategory": "Armors",
+    "ListText": "Bronze Helmet                      Armors/Bronze/Head"
+  },
+  {
+    "DisplayName": "Bronze Leggings",
+    "FullType": "Armors/Bronze/Legs",
+    "ItemId": "Armors/Bronze/Legs",
+    "DisplayCategory": "Armors",
+    "ListText": "Bronze Leggings                    Armors/Bronze/Legs"
+  },
+  {
+    "DisplayName": "Bronze Ornate Cape",
+    "FullType": "Armors/Bronze_Ornate/Cape",
+    "ItemId": "Armors/Bronze_Ornate/Cape",
+    "DisplayCategory": "Armors",
+    "ListText": "Bronze Ornate Cape                 Armors/Bronze_Ornate/Cape"
+  },
+  {
+    "DisplayName": "Bronze Ornate Chestplate",
+    "FullType": "Armors/Bronze_Ornate/Chest",
+    "ItemId": "Armors/Bronze_Ornate/Chest",
+    "DisplayCategory": "Armors",
+    "ListText": "Bronze Ornate Chestplate           Armors/Bronze_Ornate/Chest"
+  },
+  {
+    "DisplayName": "Bronze Ornate Gloves",
+    "FullType": "Armors/Bronze_Ornate/Hands",
+    "ItemId": "Armors/Bronze_Ornate/Hands",
+    "DisplayCategory": "Armors",
+    "ListText": "Bronze Ornate Gloves               Armors/Bronze_Ornate/Hands"
+  },
+  {
+    "DisplayName": "Bronze Ornate Helmet",
+    "FullType": "Armors/Bronze_Ornate/Head",
+    "ItemId": "Armors/Bronze_Ornate/Head",
+    "DisplayCategory": "Armors",
+    "ListText": "Bronze Ornate Helmet               Armors/Bronze_Ornate/Head"
+  },
+  {
+    "DisplayName": "Cindercloth Chestplate",
+    "FullType": "Armors/Cindercloth/Chest",
+    "ItemId": "Armors/Cindercloth/Chest",
+    "DisplayCategory": "Armors",
+    "ListText": "Cindercloth Chestplate             Armors/Cindercloth/Chest"
+  },
+  {
+    "DisplayName": "Cindercloth Gloves",
+    "FullType": "Armors/Cindercloth/Hands",
+    "ItemId": "Armors/Cindercloth/Hands",
+    "DisplayCategory": "Armors",
+    "ListText": "Cindercloth Gloves                 Armors/Cindercloth/Hands"
+  },
+  {
+    "DisplayName": "Cindercloth Helmet",
+    "FullType": "Armors/Cindercloth/Head",
+    "ItemId": "Armors/Cindercloth/Head",
+    "DisplayCategory": "Armors",
+    "ListText": "Cindercloth Helmet                 Armors/Cindercloth/Head"
+  },
+  {
+    "DisplayName": "Cindercloth Leggings",
+    "FullType": "Armors/Cindercloth/Legs",
+    "ItemId": "Armors/Cindercloth/Legs",
+    "DisplayCategory": "Armors",
+    "ListText": "Cindercloth Leggings               Armors/Cindercloth/Legs"
+  },
+  {
+    "DisplayName": "Cobalt Chestplate",
+    "FullType": "Armors/Cobalt/Chest",
+    "ItemId": "Armors/Cobalt/Chest",
+    "DisplayCategory": "Armors",
+    "ListText": "Cobalt Chestplate                  Armors/Cobalt/Chest"
+  },
+  {
+    "DisplayName": "Cobalt Gloves",
+    "FullType": "Armors/Cobalt/Hands",
+    "ItemId": "Armors/Cobalt/Hands",
+    "DisplayCategory": "Armors",
+    "ListText": "Cobalt Gloves                      Armors/Cobalt/Hands"
+  },
+  {
+    "DisplayName": "Cobalt Helmet",
+    "FullType": "Armors/Cobalt/Head",
+    "ItemId": "Armors/Cobalt/Head",
+    "DisplayCategory": "Armors",
+    "ListText": "Cobalt Helmet                      Armors/Cobalt/Head"
+  },
+  {
+    "DisplayName": "Cobalt Leggings",
+    "FullType": "Armors/Cobalt/Legs",
+    "ItemId": "Armors/Cobalt/Legs",
+    "DisplayCategory": "Armors",
+    "ListText": "Cobalt Leggings                    Armors/Cobalt/Legs"
+  },
+  {
+    "DisplayName": "Copper Chestplate",
+    "FullType": "Armors/Copper/Chest",
+    "ItemId": "Armors/Copper/Chest",
+    "DisplayCategory": "Armors",
+    "ListText": "Copper Chestplate                  Armors/Copper/Chest"
+  },
+  {
+    "DisplayName": "Copper Gloves",
+    "FullType": "Armors/Copper/Hands",
+    "ItemId": "Armors/Copper/Hands",
+    "DisplayCategory": "Armors",
+    "ListText": "Copper Gloves                      Armors/Copper/Hands"
+  },
+  {
+    "DisplayName": "Copper Helmet",
+    "FullType": "Armors/Copper/Head",
+    "ItemId": "Armors/Copper/Head",
+    "DisplayCategory": "Armors",
+    "ListText": "Copper Helmet                      Armors/Copper/Head"
+  },
+  {
+    "DisplayName": "Copper Leggings",
+    "FullType": "Armors/Copper/Legs",
+    "ItemId": "Armors/Copper/Legs",
+    "DisplayCategory": "Armors",
+    "ListText": "Copper Leggings                    Armors/Copper/Legs"
+  },
+  {
+    "DisplayName": "Cotton Chestplate",
+    "FullType": "Armors/Cotton/Chest",
+    "ItemId": "Armors/Cotton/Chest",
+    "DisplayCategory": "Armors",
+    "ListText": "Cotton Chestplate                  Armors/Cotton/Chest"
+  },
+  {
+    "DisplayName": "Cotton Gloves",
+    "FullType": "Armors/Cotton/Hands",
+    "ItemId": "Armors/Cotton/Hands",
+    "DisplayCategory": "Armors",
+    "ListText": "Cotton Gloves                      Armors/Cotton/Hands"
+  },
+  {
+    "DisplayName": "Cotton Helmet",
+    "FullType": "Armors/Cotton/Head",
+    "ItemId": "Armors/Cotton/Head",
+    "DisplayCategory": "Armors",
+    "ListText": "Cotton Helmet                      Armors/Cotton/Head"
+  },
+  {
+    "DisplayName": "Cotton Leggings",
+    "FullType": "Armors/Cotton/Legs",
+    "ItemId": "Armors/Cotton/Legs",
+    "DisplayCategory": "Armors",
+    "ListText": "Cotton Leggings                    Armors/Cotton/Legs"
+  },
+  {
+    "DisplayName": "Diving Crude Chestplate",
+    "FullType": "Armors/Diving_Crude/Chest",
+    "ItemId": "Armors/Diving_Crude/Chest",
+    "DisplayCategory": "Armors",
+    "ListText": "Diving Crude Chestplate            Armors/Diving_Crude/Chest"
+  },
+  {
+    "DisplayName": "Diving Crude Gloves",
+    "FullType": "Armors/Diving_Crude/Hands",
+    "ItemId": "Armors/Diving_Crude/Hands",
+    "DisplayCategory": "Armors",
+    "ListText": "Diving Crude Gloves                Armors/Diving_Crude/Hands"
+  },
+  {
+    "DisplayName": "Diving Crude Helmet",
+    "FullType": "Armors/Diving_Crude/Head",
+    "ItemId": "Armors/Diving_Crude/Head",
+    "DisplayCategory": "Armors",
+    "ListText": "Diving Crude Helmet                Armors/Diving_Crude/Head"
+  },
+  {
+    "DisplayName": "Diving Crude Leggings",
+    "FullType": "Armors/Diving_Crude/Legs",
+    "ItemId": "Armors/Diving_Crude/Legs",
+    "DisplayCategory": "Armors",
+    "ListText": "Diving Crude Leggings              Armors/Diving_Crude/Legs"
+  },
+  {
+    "DisplayName": "Iron Chestplate",
+    "FullType": "Armors/Iron/Chest",
+    "ItemId": "Armors/Iron/Chest",
+    "DisplayCategory": "Armors",
+    "ListText": "Iron Chestplate                    Armors/Iron/Chest"
+  },
+  {
+    "DisplayName": "Iron Gloves",
+    "FullType": "Armors/Iron/Hands",
+    "ItemId": "Armors/Iron/Hands",
+    "DisplayCategory": "Armors",
+    "ListText": "Iron Gloves                        Armors/Iron/Hands"
+  },
+  {
+    "DisplayName": "Iron Helmet",
+    "FullType": "Armors/Iron/Head",
+    "ItemId": "Armors/Iron/Head",
+    "DisplayCategory": "Armors",
+    "ListText": "Iron Helmet                        Armors/Iron/Head"
+  },
+  {
+    "DisplayName": "Iron Leggings",
+    "FullType": "Armors/Iron/Legs",
+    "ItemId": "Armors/Iron/Legs",
+    "DisplayCategory": "Armors",
+    "ListText": "Iron Leggings                      Armors/Iron/Legs"
+  },
+  {
+    "DisplayName": "Leather Heavy Chestplate",
+    "FullType": "Armors/Leather_Heavy/Chest",
+    "ItemId": "Armors/Leather_Heavy/Chest",
+    "DisplayCategory": "Armors",
+    "ListText": "Leather Heavy Chestplate           Armors/Leather_Heavy/Chest"
+  },
+  {
+    "DisplayName": "Leather Heavy Gloves",
+    "FullType": "Armors/Leather_Heavy/Hands",
+    "ItemId": "Armors/Leather_Heavy/Hands",
+    "DisplayCategory": "Armors",
+    "ListText": "Leather Heavy Gloves               Armors/Leather_Heavy/Hands"
+  },
+  {
+    "DisplayName": "Leather Heavy Helmet",
+    "FullType": "Armors/Leather_Heavy/Head",
+    "ItemId": "Armors/Leather_Heavy/Head",
+    "DisplayCategory": "Armors",
+    "ListText": "Leather Heavy Helmet               Armors/Leather_Heavy/Head"
+  },
+  {
+    "DisplayName": "Leather Heavy Leggings",
+    "FullType": "Armors/Leather_Heavy/Legs",
+    "ItemId": "Armors/Leather_Heavy/Legs",
+    "DisplayCategory": "Armors",
+    "ListText": "Leather Heavy Leggings             Armors/Leather_Heavy/Legs"
+  },
+  {
+    "DisplayName": "Leather Light Chestplate",
+    "FullType": "Armors/Leather_Light/Chest",
+    "ItemId": "Armors/Leather_Light/Chest",
+    "DisplayCategory": "Armors",
+    "ListText": "Leather Light Chestplate           Armors/Leather_Light/Chest"
+  },
+  {
+    "DisplayName": "Leather Light Gloves",
+    "FullType": "Armors/Leather_Light/Hands",
+    "ItemId": "Armors/Leather_Light/Hands",
+    "DisplayCategory": "Armors",
+    "ListText": "Leather Light Gloves               Armors/Leather_Light/Hands"
+  },
+  {
+    "DisplayName": "Leather Light Helmet",
+    "FullType": "Armors/Leather_Light/Head",
+    "ItemId": "Armors/Leather_Light/Head",
+    "DisplayCategory": "Armors",
+    "ListText": "Leather Light Helmet               Armors/Leather_Light/Head"
+  },
+  {
+    "DisplayName": "Leather Light Leggings",
+    "FullType": "Armors/Leather_Light/Legs",
+    "ItemId": "Armors/Leather_Light/Legs",
+    "DisplayCategory": "Armors",
+    "ListText": "Leather Light Leggings             Armors/Leather_Light/Legs"
+  },
+  {
+    "DisplayName": "Leather Medium Chestplate",
+    "FullType": "Armors/Leather_Medium/Chest",
+    "ItemId": "Armors/Leather_Medium/Chest",
+    "DisplayCategory": "Armors",
+    "ListText": "Leather Medium Chestplate          Armors/Leather_Medium/Chest"
+  },
+  {
+    "DisplayName": "Leather Medium Gloves",
+    "FullType": "Armors/Leather_Medium/Hands",
+    "ItemId": "Armors/Leather_Medium/Hands",
+    "DisplayCategory": "Armors",
+    "ListText": "Leather Medium Gloves              Armors/Leather_Medium/Hands"
+  },
+  {
+    "DisplayName": "Leather Medium Helmet",
+    "FullType": "Armors/Leather_Medium/Head",
+    "ItemId": "Armors/Leather_Medium/Head",
+    "DisplayCategory": "Armors",
+    "ListText": "Leather Medium Helmet              Armors/Leather_Medium/Head"
+  },
+  {
+    "DisplayName": "Leather Medium Leggings",
+    "FullType": "Armors/Leather_Medium/Legs",
+    "ItemId": "Armors/Leather_Medium/Legs",
+    "DisplayCategory": "Armors",
+    "ListText": "Leather Medium Leggings            Armors/Leather_Medium/Legs"
+  },
+  {
+    "DisplayName": "Leather Raven Chestplate",
+    "FullType": "Armors/Leather_Raven/Chest",
+    "ItemId": "Armors/Leather_Raven/Chest",
+    "DisplayCategory": "Armors",
+    "ListText": "Leather Raven Chestplate           Armors/Leather_Raven/Chest"
+  },
+  {
+    "DisplayName": "Leather Raven Gloves",
+    "FullType": "Armors/Leather_Raven/Hands",
+    "ItemId": "Armors/Leather_Raven/Hands",
+    "DisplayCategory": "Armors",
+    "ListText": "Leather Raven Gloves               Armors/Leather_Raven/Hands"
+  },
+  {
+    "DisplayName": "Leather Raven Helmet",
+    "FullType": "Armors/Leather_Raven/Head",
+    "ItemId": "Armors/Leather_Raven/Head",
+    "DisplayCategory": "Armors",
+    "ListText": "Leather Raven Helmet               Armors/Leather_Raven/Head"
+  },
+  {
+    "DisplayName": "Leather Raven Leggings",
+    "FullType": "Armors/Leather_Raven/Legs",
+    "ItemId": "Armors/Leather_Raven/Legs",
+    "DisplayCategory": "Armors",
+    "ListText": "Leather Raven Leggings             Armors/Leather_Raven/Legs"
+  },
+  {
+    "DisplayName": "Leather Soft Chestplate",
+    "FullType": "Armors/Leather_Soft/Chest",
+    "ItemId": "Armors/Leather_Soft/Chest",
+    "DisplayCategory": "Armors",
+    "ListText": "Leather Soft Chestplate            Armors/Leather_Soft/Chest"
+  },
+  {
+    "DisplayName": "Leather Soft Gloves",
+    "FullType": "Armors/Leather_Soft/Hands",
+    "ItemId": "Armors/Leather_Soft/Hands",
+    "DisplayCategory": "Armors",
+    "ListText": "Leather Soft Gloves                Armors/Leather_Soft/Hands"
+  },
+  {
+    "DisplayName": "Leather Soft Helmet",
+    "FullType": "Armors/Leather_Soft/Head",
+    "ItemId": "Armors/Leather_Soft/Head",
+    "DisplayCategory": "Armors",
+    "ListText": "Leather Soft Helmet                Armors/Leather_Soft/Head"
+  },
+  {
+    "DisplayName": "Leather Soft Leggings",
+    "FullType": "Armors/Leather_Soft/Legs",
+    "ItemId": "Armors/Leather_Soft/Legs",
+    "DisplayCategory": "Armors",
+    "ListText": "Leather Soft Leggings              Armors/Leather_Soft/Legs"
+  },
+  {
+    "DisplayName": "Linen Chestplate",
+    "FullType": "Armors/Linen/Chest",
+    "ItemId": "Armors/Linen/Chest",
+    "DisplayCategory": "Armors",
+    "ListText": "Linen Chestplate                   Armors/Linen/Chest"
+  },
+  {
+    "DisplayName": "Linen Gloves",
+    "FullType": "Armors/Linen/Hands",
+    "ItemId": "Armors/Linen/Hands",
+    "DisplayCategory": "Armors",
+    "ListText": "Linen Gloves                       Armors/Linen/Hands"
+  },
+  {
+    "DisplayName": "Linen Helmet",
+    "FullType": "Armors/Linen/Head",
+    "ItemId": "Armors/Linen/Head",
+    "DisplayCategory": "Armors",
+    "ListText": "Linen Helmet                       Armors/Linen/Head"
+  },
+  {
+    "DisplayName": "Linen Leggings",
+    "FullType": "Armors/Linen/Legs",
+    "ItemId": "Armors/Linen/Legs",
+    "DisplayCategory": "Armors",
+    "ListText": "Linen Leggings                     Armors/Linen/Legs"
+  },
+  {
+    "DisplayName": "Mithril Chestplate",
+    "FullType": "Armors/Mithril/Chest",
+    "ItemId": "Armors/Mithril/Chest",
+    "DisplayCategory": "Armors",
+    "ListText": "Mithril Chestplate                 Armors/Mithril/Chest"
+  },
+  {
+    "DisplayName": "Mithril Gloves",
+    "FullType": "Armors/Mithril/Hands",
+    "ItemId": "Armors/Mithril/Hands",
+    "DisplayCategory": "Armors",
+    "ListText": "Mithril Gloves                     Armors/Mithril/Hands"
+  },
+  {
+    "DisplayName": "Mithril Helmet",
+    "FullType": "Armors/Mithril/Head",
+    "ItemId": "Armors/Mithril/Head",
+    "DisplayCategory": "Armors",
+    "ListText": "Mithril Helmet                     Armors/Mithril/Head"
+  },
+  {
+    "DisplayName": "Mithril Leggings",
+    "FullType": "Armors/Mithril/Legs",
+    "ItemId": "Armors/Mithril/Legs",
+    "DisplayCategory": "Armors",
+    "ListText": "Mithril Leggings                   Armors/Mithril/Legs"
+  },
+  {
+    "DisplayName": "Necromancer Set Chestplate",
+    "FullType": "Armors/Necromancer_Set/Chest",
+    "ItemId": "Armors/Necromancer_Set/Chest",
+    "DisplayCategory": "Armors",
+    "ListText": "Necromancer Set Chestplate         Armors/Necromancer_Set/Chest"
+  },
+  {
+    "DisplayName": "Necromancer Set Gloves",
+    "FullType": "Armors/Necromancer_Set/Hands",
+    "ItemId": "Armors/Necromancer_Set/Hands",
+    "DisplayCategory": "Armors",
+    "ListText": "Necromancer Set Gloves             Armors/Necromancer_Set/Hands"
+  },
+  {
+    "DisplayName": "Necromancer Set Leggings",
+    "FullType": "Armors/Necromancer_Set/Legs",
+    "ItemId": "Armors/Necromancer_Set/Legs",
+    "DisplayCategory": "Armors",
+    "ListText": "Necromancer Set Leggings           Armors/Necromancer_Set/Legs"
+  },
+  {
+    "DisplayName": "Necromancer Set Shirt",
+    "FullType": "Armors/Necromancer_Set/Shirt",
+    "ItemId": "Armors/Necromancer_Set/Shirt",
+    "DisplayCategory": "Armors",
+    "ListText": "Necromancer Set Shirt              Armors/Necromancer_Set/Shirt"
+  },
+  {
+    "DisplayName": "Ninja Set Chestplate",
+    "FullType": "Armors/Ninja_Set/Chest",
+    "ItemId": "Armors/Ninja_Set/Chest",
+    "DisplayCategory": "Armors",
+    "ListText": "Ninja Set Chestplate               Armors/Ninja_Set/Chest"
+  },
+  {
+    "DisplayName": "Ninja Set Gloves",
+    "FullType": "Armors/Ninja_Set/Hands",
+    "ItemId": "Armors/Ninja_Set/Hands",
+    "DisplayCategory": "Armors",
+    "ListText": "Ninja Set Gloves                   Armors/Ninja_Set/Hands"
+  },
+  {
+    "DisplayName": "Ninja Set Helmet",
+    "FullType": "Armors/Ninja_Set/Head",
+    "ItemId": "Armors/Ninja_Set/Head",
+    "DisplayCategory": "Armors",
+    "ListText": "Ninja Set Helmet                   Armors/Ninja_Set/Head"
+  },
+  {
+    "DisplayName": "Ninja Set Leggings",
+    "FullType": "Armors/Ninja_Set/Legs",
+    "ItemId": "Armors/Ninja_Set/Legs",
+    "DisplayCategory": "Armors",
+    "ListText": "Ninja Set Leggings                 Armors/Ninja_Set/Legs"
+  },
+  {
+    "DisplayName": "Onyxium Chestplate",
+    "FullType": "Armors/Onyxium/Chest",
+    "ItemId": "Armors/Onyxium/Chest",
+    "DisplayCategory": "Armors",
+    "ListText": "Onyxium Chestplate                 Armors/Onyxium/Chest"
+  },
+  {
+    "DisplayName": "Onyxium Gloves",
+    "FullType": "Armors/Onyxium/Hands",
+    "ItemId": "Armors/Onyxium/Hands",
+    "DisplayCategory": "Armors",
+    "ListText": "Onyxium Gloves                     Armors/Onyxium/Hands"
+  },
+  {
+    "DisplayName": "Onyxium Helmet",
+    "FullType": "Armors/Onyxium/Head",
+    "ItemId": "Armors/Onyxium/Head",
+    "DisplayCategory": "Armors",
+    "ListText": "Onyxium Helmet                     Armors/Onyxium/Head"
+  },
+  {
+    "DisplayName": "Onyxium Leggings",
+    "FullType": "Armors/Onyxium/Legs",
+    "ItemId": "Armors/Onyxium/Legs",
+    "DisplayCategory": "Armors",
+    "ListText": "Onyxium Leggings                   Armors/Onyxium/Legs"
+  },
+  {
+    "DisplayName": "Orbis Knight Chestplate",
+    "FullType": "Armors/Orbis_Knight/Chest",
+    "ItemId": "Armors/Orbis_Knight/Chest",
+    "DisplayCategory": "Armors",
+    "ListText": "Orbis Knight Chestplate            Armors/Orbis_Knight/Chest"
+  },
+  {
+    "DisplayName": "Orbis Knight Gloves",
+    "FullType": "Armors/Orbis_Knight/Hands",
+    "ItemId": "Armors/Orbis_Knight/Hands",
+    "DisplayCategory": "Armors",
+    "ListText": "Orbis Knight Gloves                Armors/Orbis_Knight/Hands"
+  },
+  {
+    "DisplayName": "Prisma Chestplate",
+    "FullType": "Armors/Prisma/Chest",
+    "ItemId": "Armors/Prisma/Chest",
+    "DisplayCategory": "Armors",
+    "ListText": "Prisma Chestplate                  Armors/Prisma/Chest"
+  },
+  {
+    "DisplayName": "Prisma Gloves",
+    "FullType": "Armors/Prisma/Hands",
+    "ItemId": "Armors/Prisma/Hands",
+    "DisplayCategory": "Armors",
+    "ListText": "Prisma Gloves                      Armors/Prisma/Hands"
+  },
+  {
+    "DisplayName": "Prisma Helmet",
+    "FullType": "Armors/Prisma/Head",
+    "ItemId": "Armors/Prisma/Head",
+    "DisplayCategory": "Armors",
+    "ListText": "Prisma Helmet                      Armors/Prisma/Head"
+  },
+  {
+    "DisplayName": "Prisma Leggings",
+    "FullType": "Armors/Prisma/Legs",
+    "ItemId": "Armors/Prisma/Legs",
+    "DisplayCategory": "Armors",
+    "ListText": "Prisma Leggings                    Armors/Prisma/Legs"
+  },
+  {
+    "DisplayName": "Qa Qa Chest",
+    "FullType": "Armors/QA/QA_Chest",
+    "ItemId": "Armors/QA/QA_Chest",
+    "DisplayCategory": "Armors",
+    "ListText": "Qa Qa Chest                        Armors/QA/QA_Chest"
+  },
+  {
+    "DisplayName": "Silk Chestplate",
+    "FullType": "Armors/Silk/Chest",
+    "ItemId": "Armors/Silk/Chest",
+    "DisplayCategory": "Armors",
+    "ListText": "Silk Chestplate                    Armors/Silk/Chest"
+  },
+  {
+    "DisplayName": "Silk Gloves",
+    "FullType": "Armors/Silk/Hands",
+    "ItemId": "Armors/Silk/Hands",
+    "DisplayCategory": "Armors",
+    "ListText": "Silk Gloves                        Armors/Silk/Hands"
+  },
+  {
+    "DisplayName": "Silk Helmet",
+    "FullType": "Armors/Silk/Head",
+    "ItemId": "Armors/Silk/Head",
+    "DisplayCategory": "Armors",
+    "ListText": "Silk Helmet                        Armors/Silk/Head"
+  },
+  {
+    "DisplayName": "Silk Leggings",
+    "FullType": "Armors/Silk/Legs",
+    "ItemId": "Armors/Silk/Legs",
+    "DisplayCategory": "Armors",
+    "ListText": "Silk Leggings                      Armors/Silk/Legs"
+  },
+  {
+    "DisplayName": "Silver Laced Cotton Feet",
+    "FullType": "Armors/Silver_Laced_Cotton/Feet",
+    "ItemId": "Armors/Silver_Laced_Cotton/Feet",
+    "DisplayCategory": "Armors",
+    "ListText": "Silver Laced Cotton Feet           Armors/Silver_Laced_Cotton/Feet"
+  },
+  {
+    "DisplayName": "Silver Laced Cotton Gloves",
+    "FullType": "Armors/Silver_Laced_Cotton/Hands",
+    "ItemId": "Armors/Silver_Laced_Cotton/Hands",
+    "DisplayCategory": "Armors",
+    "ListText": "Silver Laced Cotton Gloves         Armors/Silver_Laced_Cotton/Hands"
+  },
+  {
+    "DisplayName": "Thorium Chestplate",
+    "FullType": "Armors/Thorium/Chest",
+    "ItemId": "Armors/Thorium/Chest",
+    "DisplayCategory": "Armors",
+    "ListText": "Thorium Chestplate                 Armors/Thorium/Chest"
+  },
+  {
+    "DisplayName": "Thorium Gloves",
+    "FullType": "Armors/Thorium/Hands",
+    "ItemId": "Armors/Thorium/Hands",
+    "DisplayCategory": "Armors",
+    "ListText": "Thorium Gloves                     Armors/Thorium/Hands"
+  },
+  {
+    "DisplayName": "Thorium Helmet",
+    "FullType": "Armors/Thorium/Head",
+    "ItemId": "Armors/Thorium/Head",
+    "DisplayCategory": "Armors",
+    "ListText": "Thorium Helmet                     Armors/Thorium/Head"
+  },
+  {
+    "DisplayName": "Thorium Leggings",
+    "FullType": "Armors/Thorium/Legs",
+    "ItemId": "Armors/Thorium/Legs",
+    "DisplayCategory": "Armors",
+    "ListText": "Thorium Leggings                   Armors/Thorium/Legs"
+  },
+  {
+    "DisplayName": "Trailer Mage Chestplate",
+    "FullType": "Armors/Trailer_Mage/Chest",
+    "ItemId": "Armors/Trailer_Mage/Chest",
+    "DisplayCategory": "Armors",
+    "ListText": "Trailer Mage Chestplate            Armors/Trailer_Mage/Chest"
+  },
+  {
+    "DisplayName": "Trailer Mage Helmet",
+    "FullType": "Armors/Trailer_Mage/Head",
+    "ItemId": "Armors/Trailer_Mage/Head",
+    "DisplayCategory": "Armors",
+    "ListText": "Trailer Mage Helmet                Armors/Trailer_Mage/Head"
+  },
+  {
+    "DisplayName": "Trork Warrior Chestplate",
+    "FullType": "Armors/Trork_Warrior/Chest",
+    "ItemId": "Armors/Trork_Warrior/Chest",
+    "DisplayCategory": "Armors",
+    "ListText": "Trork Warrior Chestplate           Armors/Trork_Warrior/Chest"
+  },
+  {
+    "DisplayName": "Trork Warrior Gloves",
+    "FullType": "Armors/Trork_Warrior/Hands",
+    "ItemId": "Armors/Trork_Warrior/Hands",
+    "DisplayCategory": "Armors",
+    "ListText": "Trork Warrior Gloves               Armors/Trork_Warrior/Hands"
+  },
+  {
+    "DisplayName": "Trork Warrior Helmet",
+    "FullType": "Armors/Trork_Warrior/Head",
+    "ItemId": "Armors/Trork_Warrior/Head",
+    "DisplayCategory": "Armors",
+    "ListText": "Trork Warrior Helmet               Armors/Trork_Warrior/Head"
+  },
+  {
+    "DisplayName": "Trork Warrior Leggings",
+    "FullType": "Armors/Trork_Warrior/Legs",
+    "ItemId": "Armors/Trork_Warrior/Legs",
+    "DisplayCategory": "Armors",
+    "ListText": "Trork Warrior Leggings             Armors/Trork_Warrior/Legs"
+  },
+  {
+    "DisplayName": "White Mage Set Chestplate",
+    "FullType": "Armors/White_Mage_Set/Chest",
+    "ItemId": "Armors/White_Mage_Set/Chest",
+    "DisplayCategory": "Armors",
+    "ListText": "White Mage Set Chestplate          Armors/White_Mage_Set/Chest"
+  },
+  {
+    "DisplayName": "White Mage Set Feet",
+    "FullType": "Armors/White_Mage_Set/Feet",
+    "ItemId": "Armors/White_Mage_Set/Feet",
+    "DisplayCategory": "Armors",
+    "ListText": "White Mage Set Feet                Armors/White_Mage_Set/Feet"
+  },
+  {
+    "DisplayName": "Wood Chestplate",
+    "FullType": "Armors/Wood/Chest",
+    "ItemId": "Armors/Wood/Chest",
+    "DisplayCategory": "Armors",
+    "ListText": "Wood Chestplate                    Armors/Wood/Chest"
+  },
+  {
+    "DisplayName": "Wood Gloves",
+    "FullType": "Armors/Wood/Hands",
+    "ItemId": "Armors/Wood/Hands",
+    "DisplayCategory": "Armors",
+    "ListText": "Wood Gloves                        Armors/Wood/Hands"
+  },
+  {
+    "DisplayName": "Wood Helmet",
+    "FullType": "Armors/Wood/Head",
+    "ItemId": "Armors/Wood/Head",
+    "DisplayCategory": "Armors",
+    "ListText": "Wood Helmet                        Armors/Wood/Head"
+  },
+  {
+    "DisplayName": "Wood Leggings",
+    "FullType": "Armors/Wood/Legs",
+    "ItemId": "Armors/Wood/Legs",
+    "DisplayCategory": "Armors",
+    "ListText": "Wood Leggings                      Armors/Wood/Legs"
+  },
+  {
+    "DisplayName": "Wool Chestplate",
+    "FullType": "Armors/Wool/Chest",
+    "ItemId": "Armors/Wool/Chest",
+    "DisplayCategory": "Armors",
+    "ListText": "Wool Chestplate                    Armors/Wool/Chest"
+  },
+  {
+    "DisplayName": "Wool Feet",
+    "FullType": "Armors/Wool/Feet",
+    "ItemId": "Armors/Wool/Feet",
+    "DisplayCategory": "Armors",
+    "ListText": "Wool Feet                          Armors/Wool/Feet"
+  },
+  {
+    "DisplayName": "Wool Gloves",
+    "FullType": "Armors/Wool/Hands",
+    "ItemId": "Armors/Wool/Hands",
+    "DisplayCategory": "Armors",
+    "ListText": "Wool Gloves                        Armors/Wool/Hands"
+  },
+  {
+    "DisplayName": "Wool Helmet",
+    "FullType": "Armors/Wool/Head",
+    "ItemId": "Armors/Wool/Head",
+    "DisplayCategory": "Armors",
+    "ListText": "Wool Helmet                        Armors/Wool/Head"
+  },
+  {
+    "DisplayName": "Backpack Big",
+    "FullType": "Back/BackpackBig",
+    "ItemId": "Back/BackpackBig",
+    "DisplayCategory": "Back",
+    "ListText": "Backpack Big                       Back/BackpackBig"
+  },
+  {
+    "DisplayName": "Backpack Medium",
+    "FullType": "Back/Backpack_Medium",
+    "ItemId": "Back/Backpack_Medium",
+    "DisplayCategory": "Back",
+    "ListText": "Backpack Medium                    Back/Backpack_Medium"
+  },
+  {
+    "DisplayName": "Cape Borean",
+    "FullType": "Back/Cape_Borean",
+    "ItemId": "Back/Cape_Borean",
+    "DisplayCategory": "Back",
+    "ListText": "Cape Borean                        Back/Cape_Borean"
+  },
+  {
+    "DisplayName": "Cape Long",
+    "FullType": "Back/Cape_Long",
+    "ItemId": "Back/Cape_Long",
+    "DisplayCategory": "Back",
+    "ListText": "Cape Long                          Back/Cape_Long"
+  },
+  {
+    "DisplayName": "Cape Long White",
+    "FullType": "Back/Cape_Long_White",
+    "ItemId": "Back/Cape_Long_White",
+    "DisplayCategory": "Back",
+    "ListText": "Cape Long White                    Back/Cape_Long_White"
+  },
+  {
+    "DisplayName": "Cape Raven",
+    "FullType": "Back/Cape_Raven",
+    "ItemId": "Back/Cape_Raven",
+    "DisplayCategory": "Back",
+    "ListText": "Cape Raven                         Back/Cape_Raven"
+  },
+  {
+    "DisplayName": "Cape Short",
+    "FullType": "Back/Cape_Short",
+    "ItemId": "Back/Cape_Short",
+    "DisplayCategory": "Back",
+    "ListText": "Cape Short                         Back/Cape_Short"
+  },
+  {
+    "DisplayName": "Helipack",
+    "FullType": "Back/Helipack",
+    "ItemId": "Back/Helipack",
+    "DisplayCategory": "Back",
+    "ListText": "Helipack                           Back/Helipack"
+  },
+  {
+    "DisplayName": "Quiver",
+    "FullType": "Back/Quiver",
+    "ItemId": "Back/Quiver",
+    "DisplayCategory": "Back",
+    "ListText": "Quiver                             Back/Quiver"
+  },
+  {
+    "DisplayName": "Block Spawner Block",
+    "FullType": "Block_Spawner_Block",
+    "ItemId": "Block_Spawner_Block",
+    "DisplayCategory": "Block Spawner Block",
+    "ListText": "Block Spawner Block                Block_Spawner_Block"
+  },
+  {
+    "DisplayName": "Block Spawner Block Large",
+    "FullType": "Block_Spawner_Block_Large",
+    "ItemId": "Block_Spawner_Block_Large",
+    "DisplayCategory": "Block Spawner Block Large",
+    "ListText": "Block Spawner Block Large          Block_Spawner_Block_Large"
+  },
+  {
+    "DisplayName": "Capture Crate",
+    "FullType": "CaptureCrate/Capture_Crate",
+    "ItemId": "CaptureCrate/Capture_Crate",
+    "DisplayCategory": "Capture Crate",
+    "ListText": "Capture Crate                      CaptureCrate/Capture_Crate"
+  },
+  {
+    "DisplayName": "First Aid Bandage",
+    "FullType": "Consumables/FirstAid/Bandage",
+    "ItemId": "Consumables/FirstAid/Bandage",
+    "DisplayCategory": "Consumables",
+    "ListText": "First Aid Bandage                  Consumables/FirstAid/Bandage"
+  },
+  {
+    "DisplayName": "First Aid Bandage2",
+    "FullType": "Consumables/FirstAid/Bandage2",
+    "ItemId": "Consumables/FirstAid/Bandage2",
+    "DisplayCategory": "Consumables",
+    "ListText": "First Aid Bandage2                 Consumables/FirstAid/Bandage2"
+  },
+  {
+    "DisplayName": "Food Bread",
+    "FullType": "Consumables/Food/Bread",
+    "ItemId": "Consumables/Food/Bread",
+    "DisplayCategory": "Consumables",
+    "ListText": "Food Bread                         Consumables/Food/Bread"
+  },
+  {
+    "DisplayName": "Food Candy Cane",
+    "FullType": "Consumables/Food/Candy_Cane",
+    "ItemId": "Consumables/Food/Candy_Cane",
+    "DisplayCategory": "Consumables",
+    "ListText": "Food Candy Cane                    Consumables/Food/Candy_Cane"
+  },
+  {
+    "DisplayName": "Food Cheese",
+    "FullType": "Consumables/Food/Cheese",
+    "ItemId": "Consumables/Food/Cheese",
+    "DisplayCategory": "Consumables",
+    "ListText": "Food Cheese                        Consumables/Food/Cheese"
+  },
+  {
+    "DisplayName": "Food Egg",
+    "FullType": "Consumables/Food/Egg",
+    "ItemId": "Consumables/Food/Egg",
+    "DisplayCategory": "Consumables",
+    "ListText": "Food Egg                           Consumables/Food/Egg"
+  },
+  {
+    "DisplayName": "Food Egg Dark Green",
+    "FullType": "Consumables/Food/Egg_DarkGreen",
+    "ItemId": "Consumables/Food/Egg_DarkGreen",
+    "DisplayCategory": "Consumables",
+    "ListText": "Food Egg Dark Green                Consumables/Food/Egg_DarkGreen"
+  },
+  {
+    "DisplayName": "Food Egg Light Blue",
+    "FullType": "Consumables/Food/Egg_LightBlue",
+    "ItemId": "Consumables/Food/Egg_LightBlue",
+    "DisplayCategory": "Consumables",
+    "ListText": "Food Egg Light Blue                Consumables/Food/Egg_LightBlue"
+  },
+  {
+    "DisplayName": "Food Egg White",
+    "FullType": "Consumables/Food/Egg_White",
+    "ItemId": "Consumables/Food/Egg_White",
+    "DisplayCategory": "Consumables",
+    "ListText": "Food Egg White                     Consumables/Food/Egg_White"
+  },
+  {
+    "DisplayName": "Food Food Bag",
+    "FullType": "Consumables/Food/Food_Bag",
+    "ItemId": "Consumables/Food/Food_Bag",
+    "DisplayCategory": "Consumables",
+    "ListText": "Food Food Bag                      Consumables/Food/Food_Bag"
+  },
+  {
+    "DisplayName": "Food Fruit Skewer",
+    "FullType": "Consumables/Food/Fruit_Skewer",
+    "ItemId": "Consumables/Food/Fruit_Skewer",
+    "DisplayCategory": "Consumables",
+    "ListText": "Food Fruit Skewer                  Consumables/Food/Fruit_Skewer"
+  },
+  {
+    "DisplayName": "Food Meat Skewer",
+    "FullType": "Consumables/Food/Meat_Skewer",
+    "ItemId": "Consumables/Food/Meat_Skewer",
+    "DisplayCategory": "Consumables",
+    "ListText": "Food Meat Skewer                   Consumables/Food/Meat_Skewer"
+  },
+  {
+    "DisplayName": "Food Mushroom Skewer",
+    "FullType": "Consumables/Food/Mushroom_Skewer",
+    "ItemId": "Consumables/Food/Mushroom_Skewer",
+    "DisplayCategory": "Consumables",
+    "ListText": "Food Mushroom Skewer               Consumables/Food/Mushroom_Skewer"
+  },
+  {
+    "DisplayName": "Food Popcorn",
+    "FullType": "Consumables/Food/Popcorn",
+    "ItemId": "Consumables/Food/Popcorn",
+    "DisplayCategory": "Consumables",
+    "ListText": "Food Popcorn                       Consumables/Food/Popcorn"
+  },
+  {
+    "DisplayName": "Food Salad Berries",
+    "FullType": "Consumables/Food/Salad_Berries",
+    "ItemId": "Consumables/Food/Salad_Berries",
+    "DisplayCategory": "Consumables",
+    "ListText": "Food Salad Berries                 Consumables/Food/Salad_Berries"
+  },
+  {
+    "DisplayName": "Food Salad Caesar",
+    "FullType": "Consumables/Food/Salad_Caesar",
+    "ItemId": "Consumables/Food/Salad_Caesar",
+    "DisplayCategory": "Consumables",
+    "ListText": "Food Salad Caesar                  Consumables/Food/Salad_Caesar"
+  },
+  {
+    "DisplayName": "Food Salad Mushroom",
+    "FullType": "Consumables/Food/Salad_Mushroom",
+    "ItemId": "Consumables/Food/Salad_Mushroom",
+    "DisplayCategory": "Consumables",
+    "ListText": "Food Salad Mushroom                Consumables/Food/Salad_Mushroom"
+  },
+  {
+    "DisplayName": "Food Vegetables Roasted",
+    "FullType": "Consumables/Food/Vegetables_Roasted",
+    "ItemId": "Consumables/Food/Vegetables_Roasted",
+    "DisplayCategory": "Consumables",
+    "ListText": "Food Vegetables Roasted            Consumables/Food/Vegetables_Roasted"
+  },
+  {
+    "DisplayName": "Recipes Recipe",
+    "FullType": "Consumables/Recipes/Recipe",
+    "ItemId": "Consumables/Recipes/Recipe",
+    "DisplayCategory": "Consumables",
+    "ListText": "Recipes Recipe                     Consumables/Recipes/Recipe"
+  },
+  {
+    "DisplayName": "Scrolls Scroll",
+    "FullType": "Consumables/Scrolls/Scroll",
+    "ItemId": "Consumables/Scrolls/Scroll",
+    "DisplayCategory": "Consumables",
+    "ListText": "Scrolls Scroll                     Consumables/Scrolls/Scroll"
+  },
+  {
+    "DisplayName": "Editor Tool Machinima",
+    "FullType": "CreativeTools/EditorTool_Machinima",
+    "ItemId": "CreativeTools/EditorTool_Machinima",
+    "DisplayCategory": "Creative Tools",
+    "ListText": "Editor Tool Machinima              CreativeTools/EditorTool_Machinima"
+  },
+  {
+    "DisplayName": "Healing Totem Healing Totem",
+    "FullType": "Deployables/Healing_Totem/Healing_Totem",
+    "ItemId": "Deployables/Healing_Totem/Healing_Totem",
+    "DisplayCategory": "Deployables",
+    "ListText": "Healing Totem Healing Totem        Deployables/Healing_Totem/Healing_Totem"
+  },
+  {
+    "DisplayName": "Feran Glider",
+    "FullType": "Glider/Feran_Glider",
+    "ItemId": "Glider/Feran_Glider",
+    "DisplayCategory": "Glider",
+    "ListText": "Feran Glider                       Glider/Feran_Glider"
+  },
+  {
+    "DisplayName": "Broomstick",
+    "FullType": "Halloween_Props/Broomstick",
+    "ItemId": "Halloween_Props/Broomstick",
+    "DisplayCategory": "Halloween Props",
+    "ListText": "Broomstick                         Halloween_Props/Broomstick"
+  },
+  {
+    "DisplayName": "Halloween Ghoul Hands",
+    "FullType": "Halloween_Props/Halloween_Ghoul_Hands",
+    "ItemId": "Halloween_Props/Halloween_Ghoul_Hands",
+    "DisplayCategory": "Halloween Props",
+    "ListText": "Halloween Ghoul Hands              Halloween_Props/Halloween_Ghoul_Hands"
+  },
+  {
+    "DisplayName": "Halloween Lights",
+    "FullType": "Halloween_Props/HalloweenLights",
+    "ItemId": "Halloween_Props/HalloweenLights",
+    "DisplayCategory": "Halloween Props",
+    "ListText": "Halloween Lights                   Halloween_Props/HalloweenLights"
+  },
+  {
+    "DisplayName": "Halloween Mask Skeleton",
+    "FullType": "Halloween_Props/Halloween_Mask_Skeleton",
+    "ItemId": "Halloween_Props/Halloween_Mask_Skeleton",
+    "DisplayCategory": "Halloween Props",
+    "ListText": "Halloween Mask Skeleton            Halloween_Props/Halloween_Mask_Skeleton"
+  },
+  {
+    "DisplayName": "Halloween Mask Zombie",
+    "FullType": "Halloween_Props/Halloween_Mask_Zombie",
+    "ItemId": "Halloween_Props/Halloween_Mask_Zombie",
+    "DisplayCategory": "Halloween Props",
+    "ListText": "Halloween Mask Zombie              Halloween_Props/Halloween_Mask_Zombie"
+  },
+  {
+    "DisplayName": "Halloween Outlander Mask",
+    "FullType": "Halloween_Props/Halloween_Outlander_Mask",
+    "ItemId": "Halloween_Props/Halloween_Outlander_Mask",
+    "DisplayCategory": "Halloween Props",
+    "ListText": "Halloween Outlander Mask           Halloween_Props/Halloween_Outlander_Mask"
+  },
+  {
+    "DisplayName": "Halloween Void Hood",
+    "FullType": "Halloween_Props/Halloween_Void_Hood",
+    "ItemId": "Halloween_Props/Halloween_Void_Hood",
+    "DisplayCategory": "Halloween Props",
+    "ListText": "Halloween Void Hood                Halloween_Props/Halloween_Void_Hood"
+  },
+  {
+    "DisplayName": "Halloween Wagon",
+    "FullType": "Halloween_Props/Halloween_Wagon",
+    "ItemId": "Halloween_Props/Halloween_Wagon",
+    "DisplayCategory": "Halloween Props",
+    "ListText": "Halloween Wagon                    Halloween_Props/Halloween_Wagon"
+  },
+  {
+    "DisplayName": "Pumpkin Basket",
+    "FullType": "Halloween_Props/Pumpkin_Basket",
+    "ItemId": "Halloween_Props/Pumpkin_Basket",
+    "DisplayCategory": "Halloween Props",
+    "ListText": "Pumpkin Basket                     Halloween_Props/Pumpkin_Basket"
+  },
+  {
+    "DisplayName": "Straw Basket",
+    "FullType": "Halloween_Props/Straw_Basket",
+    "ItemId": "Halloween_Props/Straw_Basket",
+    "DisplayCategory": "Halloween Props",
+    "ListText": "Straw Basket                       Halloween_Props/Straw_Basket"
+  },
+  {
+    "DisplayName": "Event Decoration Winter Holiday Props Winter Holiday Lights1",
+    "FullType": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Lights1",
+    "ItemId": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Lights1",
+    "DisplayCategory": "Hypixel",
+    "ListText": "Event Decoration Winter Holiday Props Winter Holiday Lights1 Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Lights1"
+  },
+  {
+    "DisplayName": "Event Decoration Winter Holiday Props Winter Holiday Lights2",
+    "FullType": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Lights2",
+    "ItemId": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Lights2",
+    "DisplayCategory": "Hypixel",
+    "ListText": "Event Decoration Winter Holiday Props Winter Holiday Lights2 Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Lights2"
+  },
+  {
+    "DisplayName": "Event Decoration Winter Holiday Props Winter Holiday Ornament Biscuit",
+    "FullType": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Ornament_Biscuit",
+    "ItemId": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Ornament_Biscuit",
+    "DisplayCategory": "Hypixel",
+    "ListText": "Event Decoration Winter Holiday Props Winter Holiday Ornament Biscuit Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Ornament_Biscuit"
+  },
+  {
+    "DisplayName": "Event Decoration Winter Holiday Props Winter Holiday Ornament Cane",
+    "FullType": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Ornament_Cane",
+    "ItemId": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Ornament_Cane",
+    "DisplayCategory": "Hypixel",
+    "ListText": "Event Decoration Winter Holiday Props Winter Holiday Ornament Cane Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Ornament_Cane"
+  },
+  {
+    "DisplayName": "Event Decoration Winter Holiday Props Winter Holiday Ornament Winter Roll",
+    "FullType": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Ornament_WinterRoll",
+    "ItemId": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Ornament_WinterRoll",
+    "DisplayCategory": "Hypixel",
+    "ListText": "Event Decoration Winter Holiday Props Winter Holiday Ornament Winter Roll Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Ornament_WinterRoll"
+  },
+  {
+    "DisplayName": "Event Decoration Winter Holiday Props Winter Holiday Ornamet Ball1",
+    "FullType": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Ornamet_Ball1",
+    "ItemId": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Ornamet_Ball1",
+    "DisplayCategory": "Hypixel",
+    "ListText": "Event Decoration Winter Holiday Props Winter Holiday Ornamet Ball1 Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Ornamet_Ball1"
+  },
+  {
+    "DisplayName": "Event Decoration Winter Holiday Props Winter Holiday Ornamet Ball2",
+    "FullType": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Ornamet_Ball2",
+    "ItemId": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Ornamet_Ball2",
+    "DisplayCategory": "Hypixel",
+    "ListText": "Event Decoration Winter Holiday Props Winter Holiday Ornamet Ball2 Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Ornamet_Ball2"
+  },
+  {
+    "DisplayName": "Event Decoration Winter Holiday Props Winter Holiday Ornamet Ball3",
+    "FullType": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Ornamet_Ball3",
+    "ItemId": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Ornamet_Ball3",
+    "DisplayCategory": "Hypixel",
+    "ListText": "Event Decoration Winter Holiday Props Winter Holiday Ornamet Ball3 Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Ornamet_Ball3"
+  },
+  {
+    "DisplayName": "Event Decoration Winter Holiday Props Winter Holiday Ornamet Bauble1",
+    "FullType": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Ornamet_Bauble1",
+    "ItemId": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Ornamet_Bauble1",
+    "DisplayCategory": "Hypixel",
+    "ListText": "Event Decoration Winter Holiday Props Winter Holiday Ornamet Bauble1 Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Ornamet_Bauble1"
+  },
+  {
+    "DisplayName": "Event Decoration Winter Holiday Props Winter Holiday Ornamet Bauble2",
+    "FullType": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Ornamet_Bauble2",
+    "ItemId": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Ornamet_Bauble2",
+    "DisplayCategory": "Hypixel",
+    "ListText": "Event Decoration Winter Holiday Props Winter Holiday Ornamet Bauble2 Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Ornamet_Bauble2"
+  },
+  {
+    "DisplayName": "Event Decoration Winter Holiday Props Winter Holiday Ornamet Bauble3",
+    "FullType": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Ornamet_Bauble3",
+    "ItemId": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Ornamet_Bauble3",
+    "DisplayCategory": "Hypixel",
+    "ListText": "Event Decoration Winter Holiday Props Winter Holiday Ornamet Bauble3 Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Ornamet_Bauble3"
+  },
+  {
+    "DisplayName": "Event Decoration Winter Holiday Props Winter Holiday Single Lights1",
+    "FullType": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Single_Lights1",
+    "ItemId": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Single_Lights1",
+    "DisplayCategory": "Hypixel",
+    "ListText": "Event Decoration Winter Holiday Props Winter Holiday Single Lights1 Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Single_Lights1"
+  },
+  {
+    "DisplayName": "Event Decoration Winter Holiday Props Winter Holiday Single Lights2",
+    "FullType": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Single_Lights2",
+    "ItemId": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Single_Lights2",
+    "DisplayCategory": "Hypixel",
+    "ListText": "Event Decoration Winter Holiday Props Winter Holiday Single Lights2 Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Single_Lights2"
+  },
+  {
+    "DisplayName": "Event Decoration Winter Holiday Props Winter Holiday Single Lights3",
+    "FullType": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Single_Lights3",
+    "ItemId": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Single_Lights3",
+    "DisplayCategory": "Hypixel",
+    "ListText": "Event Decoration Winter Holiday Props Winter Holiday Single Lights3 Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Single_Lights3"
+  },
+  {
+    "DisplayName": "Event Decoration Winter Holiday Props Winter Holiday Single Lights4",
+    "FullType": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Single_Lights4",
+    "ItemId": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Single_Lights4",
+    "DisplayCategory": "Hypixel",
+    "ListText": "Event Decoration Winter Holiday Props Winter Holiday Single Lights4 Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Single_Lights4"
+  },
+  {
+    "DisplayName": "Event Decoration Winter Holiday Props Winter Holiday Single Lights5",
+    "FullType": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Single_Lights5",
+    "ItemId": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Single_Lights5",
+    "DisplayCategory": "Hypixel",
+    "ListText": "Event Decoration Winter Holiday Props Winter Holiday Single Lights5 Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Single_Lights5"
+  },
+  {
+    "DisplayName": "Event Decoration Winter Holiday Props Winter Holiday Single Lights6",
+    "FullType": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Single_Lights6",
+    "ItemId": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Single_Lights6",
+    "DisplayCategory": "Hypixel",
+    "ListText": "Event Decoration Winter Holiday Props Winter Holiday Single Lights6 Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Single_Lights6"
+  },
+  {
+    "DisplayName": "Event Decoration Winter Holiday Props Winter Holiday Snowman",
+    "FullType": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Snowman",
+    "ItemId": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Snowman",
+    "DisplayCategory": "Hypixel",
+    "ListText": "Event Decoration Winter Holiday Props Winter Holiday Snowman Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Snowman"
+  },
+  {
+    "DisplayName": "Event Decoration Winter Holiday Props Winter Holiday Stocking",
+    "FullType": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Stocking",
+    "ItemId": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Stocking",
+    "DisplayCategory": "Hypixel",
+    "ListText": "Event Decoration Winter Holiday Props Winter Holiday Stocking Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Stocking"
+  },
+  {
+    "DisplayName": "Event Decoration Winter Holiday Props Winter Holiday Stocking2",
+    "FullType": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Stocking2",
+    "ItemId": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Stocking2",
+    "DisplayCategory": "Hypixel",
+    "ListText": "Event Decoration Winter Holiday Props Winter Holiday Stocking2 Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Stocking2"
+  },
+  {
+    "DisplayName": "Event Decoration Winter Holiday Props Winter Holiday Stocking3",
+    "FullType": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Stocking3",
+    "ItemId": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Stocking3",
+    "DisplayCategory": "Hypixel",
+    "ListText": "Event Decoration Winter Holiday Props Winter Holiday Stocking3 Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Stocking3"
+  },
+  {
+    "DisplayName": "Event Decoration Winter Holiday Props Winter Holiday Tree Top Snowflake",
+    "FullType": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_TreeTop_Snowflake",
+    "ItemId": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_TreeTop_Snowflake",
+    "DisplayCategory": "Hypixel",
+    "ListText": "Event Decoration Winter Holiday Props Winter Holiday Tree Top Snowflake Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_TreeTop_Snowflake"
+  },
+  {
+    "DisplayName": "Event Decoration Winter Holiday Props Winter Holiday Wreath",
+    "FullType": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Wreath",
+    "ItemId": "Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Wreath",
+    "DisplayCategory": "Hypixel",
+    "ListText": "Event Decoration Winter Holiday Props Winter Holiday Wreath Hypixel/Event_Decoration/Winter Holiday_Props/WinterHoliday_Wreath"
+  },
+  {
+    "DisplayName": "Minigames Gun Pv P Weapons Assault Rifles Assault Rifle",
+    "FullType": "Hypixel/Minigames/GunPvP/Weapons/Assault_Rifles/Assault_Rifle",
+    "ItemId": "Hypixel/Minigames/GunPvP/Weapons/Assault_Rifles/Assault_Rifle",
+    "DisplayCategory": "Hypixel",
+    "ListText": "Minigames Gun Pv P Weapons Assault Rifles Assault Rifle Hypixel/Minigames/GunPvP/Weapons/Assault_Rifles/Assault_Rifle"
+  },
+  {
+    "DisplayName": "Minigames Gun Pv P Weapons Assault Rifles Attachments Laser Red",
+    "FullType": "Hypixel/Minigames/GunPvP/Weapons/Assault_Rifles/Attachments/Laser_Red",
+    "ItemId": "Hypixel/Minigames/GunPvP/Weapons/Assault_Rifles/Attachments/Laser_Red",
+    "DisplayCategory": "Hypixel",
+    "ListText": "Minigames Gun Pv P Weapons Assault Rifles Attachments Laser Red Hypixel/Minigames/GunPvP/Weapons/Assault_Rifles/Attachments/Laser_Red"
+  },
+  {
+    "DisplayName": "Minigames Gun Pv P Weapons Assault Rifles Attachments Scope Acog",
+    "FullType": "Hypixel/Minigames/GunPvP/Weapons/Assault_Rifles/Attachments/Scope_ACOG",
+    "ItemId": "Hypixel/Minigames/GunPvP/Weapons/Assault_Rifles/Attachments/Scope_ACOG",
+    "DisplayCategory": "Hypixel",
+    "ListText": "Minigames Gun Pv P Weapons Assault Rifles Attachments Scope Acog Hypixel/Minigames/GunPvP/Weapons/Assault_Rifles/Attachments/Scope_ACOG"
+  },
+  {
+    "DisplayName": "Minigames Gun Pv P Weapons Assault Rifles Attachments Sight Reflex",
+    "FullType": "Hypixel/Minigames/GunPvP/Weapons/Assault_Rifles/Attachments/Sight_Reflex",
+    "ItemId": "Hypixel/Minigames/GunPvP/Weapons/Assault_Rifles/Attachments/Sight_Reflex",
+    "DisplayCategory": "Hypixel",
+    "ListText": "Minigames Gun Pv P Weapons Assault Rifles Attachments Sight Reflex Hypixel/Minigames/GunPvP/Weapons/Assault_Rifles/Attachments/Sight_Reflex"
+  },
+  {
+    "DisplayName": "Minigames Gun Pv P Weapons Bullet",
+    "FullType": "Hypixel/Minigames/GunPvP/Weapons/Bullet",
+    "ItemId": "Hypixel/Minigames/GunPvP/Weapons/Bullet",
+    "DisplayCategory": "Hypixel",
+    "ListText": "Minigames Gun Pv P Weapons Bullet  Hypixel/Minigames/GunPvP/Weapons/Bullet"
+  },
+  {
+    "DisplayName": "Minigames Gun Pv P Weapons Grenades Frag",
+    "FullType": "Hypixel/Minigames/GunPvP/Weapons/Grenades/Frag",
+    "ItemId": "Hypixel/Minigames/GunPvP/Weapons/Grenades/Frag",
+    "DisplayCategory": "Hypixel",
+    "ListText": "Minigames Gun Pv P Weapons Grenades Frag Hypixel/Minigames/GunPvP/Weapons/Grenades/Frag"
+  },
+  {
+    "DisplayName": "Minigames Gun Pv P Weapons Handguns Attachments Laser Red",
+    "FullType": "Hypixel/Minigames/GunPvP/Weapons/Handguns/Attachments/Laser_Red",
+    "ItemId": "Hypixel/Minigames/GunPvP/Weapons/Handguns/Attachments/Laser_Red",
+    "DisplayCategory": "Hypixel",
+    "ListText": "Minigames Gun Pv P Weapons Handguns Attachments Laser Red Hypixel/Minigames/GunPvP/Weapons/Handguns/Attachments/Laser_Red"
+  },
+  {
+    "DisplayName": "Minigames Gun Pv P Weapons Handguns Handgun",
+    "FullType": "Hypixel/Minigames/GunPvP/Weapons/Handguns/Handgun",
+    "ItemId": "Hypixel/Minigames/GunPvP/Weapons/Handguns/Handgun",
+    "DisplayCategory": "Hypixel",
+    "ListText": "Minigames Gun Pv P Weapons Handguns Handgun Hypixel/Minigames/GunPvP/Weapons/Handguns/Handgun"
+  },
+  {
+    "DisplayName": "Minigames Space Swarm Armors Chest",
+    "FullType": "Hypixel/Minigames/Space_Swarm/Armors/Chest",
+    "ItemId": "Hypixel/Minigames/Space_Swarm/Armors/Chest",
+    "DisplayCategory": "Hypixel",
+    "ListText": "Minigames Space Swarm Armors Chest Hypixel/Minigames/Space_Swarm/Armors/Chest"
+  },
+  {
+    "DisplayName": "Minigames Space Swarm Armors Head",
+    "FullType": "Hypixel/Minigames/Space_Swarm/Armors/Head",
+    "ItemId": "Hypixel/Minigames/Space_Swarm/Armors/Head",
+    "DisplayCategory": "Hypixel",
+    "ListText": "Minigames Space Swarm Armors Head  Hypixel/Minigames/Space_Swarm/Armors/Head"
+  },
+  {
+    "DisplayName": "Minigames Space Swarm Armors Legs",
+    "FullType": "Hypixel/Minigames/Space_Swarm/Armors/Legs",
+    "ItemId": "Hypixel/Minigames/Space_Swarm/Armors/Legs",
+    "DisplayCategory": "Hypixel",
+    "ListText": "Minigames Space Swarm Armors Legs  Hypixel/Minigames/Space_Swarm/Armors/Legs"
+  },
+  {
+    "DisplayName": "Minigames Space Swarm Weapons Pulse Rifle",
+    "FullType": "Hypixel/Minigames/Space_Swarm/Weapons/Pulse_Rifle",
+    "ItemId": "Hypixel/Minigames/Space_Swarm/Weapons/Pulse_Rifle",
+    "DisplayCategory": "Hypixel",
+    "ListText": "Minigames Space Swarm Weapons Pulse Rifle Hypixel/Minigames/Space_Swarm/Weapons/Pulse_Rifle"
+  },
+  {
+    "DisplayName": "Dough",
+    "FullType": "Ingredients/Dough",
+    "ItemId": "Ingredients/Dough",
+    "DisplayCategory": "Ingredients",
+    "ListText": "Dough                              Ingredients/Dough"
+  },
+  {
+    "DisplayName": "Poop",
+    "FullType": "Ingredients/Poop",
+    "ItemId": "Ingredients/Poop",
+    "DisplayCategory": "Ingredients",
+    "ListText": "Poop                               Ingredients/Poop"
+  },
+  {
+    "DisplayName": "Popberry",
+    "FullType": "Ingredients/Popberry",
+    "ItemId": "Ingredients/Popberry",
+    "DisplayCategory": "Ingredients",
+    "ListText": "Popberry                           Ingredients/Popberry"
+  },
+  {
+    "DisplayName": "Salt",
+    "FullType": "Ingredients/Salt",
+    "ItemId": "Ingredients/Salt",
+    "DisplayCategory": "Ingredients",
+    "ListText": "Salt                               Ingredients/Salt"
+  },
+  {
+    "DisplayName": "Spice",
+    "FullType": "Ingredients/Spice",
+    "ItemId": "Ingredients/Spice",
+    "DisplayCategory": "Ingredients",
+    "ListText": "Spice                              Ingredients/Spice"
+  },
+  {
+    "DisplayName": "Stick",
+    "FullType": "Ingredients/Stick",
+    "ItemId": "Ingredients/Stick",
+    "DisplayCategory": "Ingredients",
+    "ListText": "Stick                              Ingredients/Stick"
+  },
+  {
+    "DisplayName": "Tree Bark",
+    "FullType": "Ingredients/Tree_Bark",
+    "ItemId": "Ingredients/Tree_Bark",
+    "DisplayCategory": "Ingredients",
+    "ListText": "Tree Bark                          Ingredients/Tree_Bark"
+  },
+  {
+    "DisplayName": "Banjo Banjo",
+    "FullType": "Instruments/Banjo/Banjo",
+    "ItemId": "Instruments/Banjo/Banjo",
+    "DisplayCategory": "Instruments",
+    "ListText": "Banjo Banjo                        Instruments/Banjo/Banjo"
+  },
+  {
+    "DisplayName": "Npc Path",
+    "FullType": "NPC_Path",
+    "ItemId": "NPC_Path",
+    "DisplayCategory": "Npc Path",
+    "ListText": "Npc Path                           NPC_Path"
+  },
+  {
+    "DisplayName": "Npc Spawner Block",
+    "FullType": "NPC_Spawner_Block",
+    "ItemId": "NPC_Spawner_Block",
+    "DisplayCategory": "Npc Spawner Block",
+    "ListText": "Npc Spawner Block                  NPC_Spawner_Block"
+  },
+  {
+    "DisplayName": "Objective Location Marker",
+    "FullType": "Objective_Location_Marker",
+    "ItemId": "Objective_Location_Marker",
+    "DisplayCategory": "Objective Location Marker",
+    "ListText": "Objective Location Marker          Objective_Location_Marker"
+  },
+  {
+    "DisplayName": "Acid",
+    "FullType": "Projectiles/Acid",
+    "ItemId": "Projectiles/Acid",
+    "DisplayCategory": "Projectiles",
+    "ListText": "Acid                               Projectiles/Acid"
+  },
+  {
+    "DisplayName": "Bullet Blunderbuss Items",
+    "FullType": "Projectiles/Items/Bullet/Bullet_Blunderbuss",
+    "ItemId": "Projectiles/Items/Bullet/Bullet_Blunderbuss",
+    "DisplayCategory": "Projectiles",
+    "ListText": "Bullet Blunderbuss Items           Projectiles/Items/Bullet/Bullet_Blunderbuss"
+  },
+  {
+    "DisplayName": "Ice Bolt",
+    "FullType": "Projectiles/Ice_Bolt",
+    "ItemId": "Projectiles/Ice_Bolt",
+    "DisplayCategory": "Projectiles",
+    "ListText": "Ice Bolt                           Projectiles/Ice_Bolt"
+  },
+  {
+    "DisplayName": "Iceball",
+    "FullType": "Projectiles/Iceball",
+    "ItemId": "Projectiles/Iceball",
+    "DisplayCategory": "Projectiles",
+    "ListText": "Iceball                            Projectiles/Iceball"
+  },
+  {
+    "DisplayName": "Poop Projectile",
+    "FullType": "Projectiles/Poop_Projectile",
+    "ItemId": "Projectiles/Poop_Projectile",
+    "DisplayCategory": "Projectiles",
+    "ListText": "Poop Projectile                    Projectiles/Poop_Projectile"
+  },
+  {
+    "DisplayName": "Popberry Bomb",
+    "FullType": "Projectiles/Popberry_Bomb",
+    "ItemId": "Projectiles/Popberry_Bomb",
+    "DisplayCategory": "Projectiles",
+    "ListText": "Popberry Bomb                      Projectiles/Popberry_Bomb"
+  },
+  {
+    "DisplayName": "Tornado",
+    "FullType": "Projectiles/Tornado",
+    "ItemId": "Projectiles/Tornado",
+    "DisplayCategory": "Projectiles",
+    "ListText": "Tornado                            Projectiles/Tornado"
+  },
+  {
+    "DisplayName": "Remote Controller",
+    "FullType": "Remote_Controller",
+    "ItemId": "Remote_Controller",
+    "DisplayCategory": "Remote Controller",
+    "ListText": "Remote Controller                  Remote_Controller"
+  },
+  {
+    "DisplayName": "Adamantite Hatchet",
+    "FullType": "Tools/Hatchet/Adamantite",
+    "ItemId": "Tools/Hatchet/Adamantite",
+    "DisplayCategory": "Tools",
+    "ListText": "Adamantite Hatchet                 Tools/Hatchet/Adamantite"
+  },
+  {
+    "DisplayName": "Adamantite Pickaxe",
+    "FullType": "Tools/Pickaxe/Adamantite",
+    "ItemId": "Tools/Pickaxe/Adamantite",
+    "DisplayCategory": "Tools",
+    "ListText": "Adamantite Pickaxe                 Tools/Pickaxe/Adamantite"
+  },
+  {
+    "DisplayName": "Basic Shears",
+    "FullType": "Tools/Shears/Basic",
+    "ItemId": "Tools/Shears/Basic",
+    "DisplayCategory": "Tools",
+    "ListText": "Basic Shears                       Tools/Shears/Basic"
+  },
+  {
+    "DisplayName": "Brush Brush",
+    "FullType": "Tools/Brush/Brush",
+    "ItemId": "Tools/Brush/Brush",
+    "DisplayCategory": "Tools",
+    "ListText": "Brush Brush                        Tools/Brush/Brush"
+  },
+  {
+    "DisplayName": "Cobalt Hatchet",
+    "FullType": "Tools/Hatchet/Cobalt",
+    "ItemId": "Tools/Hatchet/Cobalt",
+    "DisplayCategory": "Tools",
+    "ListText": "Cobalt Hatchet                     Tools/Hatchet/Cobalt"
+  },
+  {
+    "DisplayName": "Cobalt Pickaxe",
+    "FullType": "Tools/Pickaxe/Cobalt",
+    "ItemId": "Tools/Pickaxe/Cobalt",
+    "DisplayCategory": "Tools",
+    "ListText": "Cobalt Pickaxe                     Tools/Pickaxe/Cobalt"
+  },
+  {
+    "DisplayName": "Cobalt Shovel",
+    "FullType": "Tools/Shovel/Cobalt",
+    "ItemId": "Tools/Shovel/Cobalt",
+    "DisplayCategory": "Tools",
+    "ListText": "Cobalt Shovel                      Tools/Shovel/Cobalt"
+  },
+  {
+    "DisplayName": "Collar",
+    "FullType": "Tools/Collar",
+    "ItemId": "Tools/Collar",
+    "DisplayCategory": "Tools",
+    "ListText": "Collar                             Tools/Collar"
+  },
+  {
+    "DisplayName": "Copper Hatchet",
+    "FullType": "Tools/Hatchet/Copper",
+    "ItemId": "Tools/Hatchet/Copper",
+    "DisplayCategory": "Tools",
+    "ListText": "Copper Hatchet                     Tools/Hatchet/Copper"
+  },
+  {
+    "DisplayName": "Copper Hoe",
+    "FullType": "Tools/Hoe/Copper",
+    "ItemId": "Tools/Hoe/Copper",
+    "DisplayCategory": "Tools",
+    "ListText": "Copper Hoe                         Tools/Hoe/Copper"
+  },
+  {
+    "DisplayName": "Copper Pickaxe",
+    "FullType": "Tools/Pickaxe/Copper",
+    "ItemId": "Tools/Pickaxe/Copper",
+    "DisplayCategory": "Tools",
+    "ListText": "Copper Pickaxe                     Tools/Pickaxe/Copper"
+  },
+  {
+    "DisplayName": "Copper Shovel",
+    "FullType": "Tools/Shovel/Copper",
+    "ItemId": "Tools/Shovel/Copper",
+    "DisplayCategory": "Tools",
+    "ListText": "Copper Shovel                      Tools/Shovel/Copper"
+  },
+  {
+    "DisplayName": "Crude Hammer",
+    "FullType": "Tools/Hammer/Crude",
+    "ItemId": "Tools/Hammer/Crude",
+    "DisplayCategory": "Tools",
+    "ListText": "Crude Hammer                       Tools/Hammer/Crude"
+  },
+  {
+    "DisplayName": "Crude Hatchet",
+    "FullType": "Tools/Hatchet/Crude",
+    "ItemId": "Tools/Hatchet/Crude",
+    "DisplayCategory": "Tools",
+    "ListText": "Crude Hatchet                      Tools/Hatchet/Crude"
+  },
+  {
+    "DisplayName": "Crude Hoe",
+    "FullType": "Tools/Hoe/Crude",
+    "ItemId": "Tools/Hoe/Crude",
+    "DisplayCategory": "Tools",
+    "ListText": "Crude Hoe                          Tools/Hoe/Crude"
+  },
+  {
+    "DisplayName": "Crude Pickaxe",
+    "FullType": "Tools/Pickaxe/Crude",
+    "ItemId": "Tools/Pickaxe/Crude",
+    "DisplayCategory": "Tools",
+    "ListText": "Crude Pickaxe                      Tools/Pickaxe/Crude"
+  },
+  {
+    "DisplayName": "Crude Shovel",
+    "FullType": "Tools/Shovel/Crude",
+    "ItemId": "Tools/Shovel/Crude",
+    "DisplayCategory": "Tools",
+    "ListText": "Crude Shovel                       Tools/Shovel/Crude"
+  },
+  {
+    "DisplayName": "Crude Sickle",
+    "FullType": "Tools/Sickle/Crude",
+    "ItemId": "Tools/Sickle/Crude",
+    "DisplayCategory": "Tools",
+    "ListText": "Crude Sickle                       Tools/Sickle/Crude"
+  },
+  {
+    "DisplayName": "Feedbag Feedbag",
+    "FullType": "Tools/Feedbag/Feedbag",
+    "ItemId": "Tools/Feedbag/Feedbag",
+    "DisplayCategory": "Tools",
+    "ListText": "Feedbag Feedbag                    Tools/Feedbag/Feedbag"
+  },
+  {
+    "DisplayName": "Fertilizer Feedbag",
+    "FullType": "Tools/Feedbag/Fertilizer",
+    "ItemId": "Tools/Feedbag/Fertilizer",
+    "DisplayCategory": "Tools",
+    "ListText": "Fertilizer Feedbag                 Tools/Feedbag/Fertilizer"
+  },
+  {
+    "DisplayName": "Fishing Rod Fishing Rod",
+    "FullType": "Tools/Fishing_Rod/FishingRod",
+    "ItemId": "Tools/Fishing_Rod/FishingRod",
+    "DisplayCategory": "Tools",
+    "ListText": "Fishing Rod Fishing Rod            Tools/Fishing_Rod/FishingRod"
+  },
+  {
+    "DisplayName": "Flourbag Feedbag",
+    "FullType": "Tools/Feedbag/Flourbag",
+    "ItemId": "Tools/Feedbag/Flourbag",
+    "DisplayCategory": "Tools",
+    "ListText": "Flourbag Feedbag                   Tools/Feedbag/Flourbag"
+  },
+  {
+    "DisplayName": "Iron Hammer",
+    "FullType": "Tools/Hammer/Iron",
+    "ItemId": "Tools/Hammer/Iron",
+    "DisplayCategory": "Tools",
+    "ListText": "Iron Hammer                        Tools/Hammer/Iron"
+  },
+  {
+    "DisplayName": "Iron Hatchet",
+    "FullType": "Tools/Hatchet/Iron",
+    "ItemId": "Tools/Hatchet/Iron",
+    "DisplayCategory": "Tools",
+    "ListText": "Iron Hatchet                       Tools/Hatchet/Iron"
+  },
+  {
+    "DisplayName": "Iron Hoe",
+    "FullType": "Tools/Hoe/Iron",
+    "ItemId": "Tools/Hoe/Iron",
+    "DisplayCategory": "Tools",
+    "ListText": "Iron Hoe                           Tools/Hoe/Iron"
+  },
+  {
+    "DisplayName": "Iron Pickaxe",
+    "FullType": "Tools/Pickaxe/Iron",
+    "ItemId": "Tools/Pickaxe/Iron",
+    "DisplayCategory": "Tools",
+    "ListText": "Iron Pickaxe                       Tools/Pickaxe/Iron"
+  },
+  {
+    "DisplayName": "Iron Shovel",
+    "FullType": "Tools/Shovel/Iron",
+    "ItemId": "Tools/Shovel/Iron",
+    "DisplayCategory": "Tools",
+    "ListText": "Iron Shovel                        Tools/Shovel/Iron"
+  },
+  {
+    "DisplayName": "Mithril Hatchet",
+    "FullType": "Tools/Hatchet/Mithril",
+    "ItemId": "Tools/Hatchet/Mithril",
+    "DisplayCategory": "Tools",
+    "ListText": "Mithril Hatchet                    Tools/Hatchet/Mithril"
+  },
+  {
+    "DisplayName": "Mithril Pickaxe",
+    "FullType": "Tools/Pickaxe/Mithril",
+    "ItemId": "Tools/Pickaxe/Mithril",
+    "DisplayCategory": "Tools",
+    "ListText": "Mithril Pickaxe                    Tools/Pickaxe/Mithril"
+  },
+  {
+    "DisplayName": "Onyxium Hatchet",
+    "FullType": "Tools/Hatchet/Onyxium",
+    "ItemId": "Tools/Hatchet/Onyxium",
+    "DisplayCategory": "Tools",
+    "ListText": "Onyxium Hatchet                    Tools/Hatchet/Onyxium"
+  },
+  {
+    "DisplayName": "Onyxium Pickaxe",
+    "FullType": "Tools/Pickaxe/Onyxium",
+    "ItemId": "Tools/Pickaxe/Onyxium",
+    "DisplayCategory": "Tools",
+    "ListText": "Onyxium Pickaxe                    Tools/Pickaxe/Onyxium"
+  },
+  {
+    "DisplayName": "Prototype Block Placement Cube Prototype",
+    "FullType": "Tools/Prototype/Prototype_Block_Placement_Cube",
+    "ItemId": "Tools/Prototype/Prototype_Block_Placement_Cube",
+    "DisplayCategory": "Tools",
+    "ListText": "Prototype Block Placement Cube Prototype Tools/Prototype/Prototype_Block_Placement_Cube"
+  },
+  {
+    "DisplayName": "Prototype Mana Guitar Prototype",
+    "FullType": "Tools/Prototype/Prototype_Mana_Guitar",
+    "ItemId": "Tools/Prototype/Prototype_Mana_Guitar",
+    "DisplayCategory": "Tools",
+    "ListText": "Prototype Mana Guitar Prototype    Tools/Prototype/Prototype_Mana_Guitar"
+  },
+  {
+    "DisplayName": "Prototype Mana Magicbook Prototype",
+    "FullType": "Tools/Prototype/Prototype_Mana_Magicbook",
+    "ItemId": "Tools/Prototype/Prototype_Mana_Magicbook",
+    "DisplayCategory": "Tools",
+    "ListText": "Prototype Mana Magicbook Prototype Tools/Prototype/Prototype_Mana_Magicbook"
+  },
+  {
+    "DisplayName": "Prototype Mana Staff Prototype",
+    "FullType": "Tools/Prototype/Prototype_Mana_Staff",
+    "ItemId": "Tools/Prototype/Prototype_Mana_Staff",
+    "DisplayCategory": "Tools",
+    "ListText": "Prototype Mana Staff Prototype     Tools/Prototype/Prototype_Mana_Staff"
+  },
+  {
+    "DisplayName": "Repair Kit Crude Repair Kit",
+    "FullType": "Tools/Repair_Kit/Repair_Kit_Crude",
+    "ItemId": "Tools/Repair_Kit/Repair_Kit_Crude",
+    "DisplayCategory": "Tools",
+    "ListText": "Repair Kit Crude Repair Kit        Tools/Repair_Kit/Repair_Kit_Crude"
+  },
+  {
+    "DisplayName": "Repair Kit Iron Repair Kit",
+    "FullType": "Tools/Repair_Kit/Repair_Kit_Iron",
+    "ItemId": "Tools/Repair_Kit/Repair_Kit_Iron",
+    "DisplayCategory": "Tools",
+    "ListText": "Repair Kit Iron Repair Kit         Tools/Repair_Kit/Repair_Kit_Iron"
+  },
+  {
+    "DisplayName": "Sap Shunt Sap Shunt",
+    "FullType": "Tools/Sap_Shunt/Sap_Shunt",
+    "ItemId": "Tools/Sap_Shunt/Sap_Shunt",
+    "DisplayCategory": "Tools",
+    "ListText": "Sap Shunt Sap Shunt                Tools/Sap_Shunt/Sap_Shunt"
+  },
+  {
+    "DisplayName": "Seedbag Feedbag",
+    "FullType": "Tools/Feedbag/Seedbag",
+    "ItemId": "Tools/Feedbag/Seedbag",
+    "DisplayCategory": "Tools",
+    "ListText": "Seedbag Feedbag                    Tools/Feedbag/Seedbag"
+  },
+  {
+    "DisplayName": "Steel Rusty Sickle",
+    "FullType": "Tools/Sickle/Steel_Rusty",
+    "ItemId": "Tools/Sickle/Steel_Rusty",
+    "DisplayCategory": "Tools",
+    "ListText": "Steel Rusty Sickle                 Tools/Sickle/Steel_Rusty"
+  },
+  {
+    "DisplayName": "Thorium Hatchet",
+    "FullType": "Tools/Hatchet/Thorium",
+    "ItemId": "Tools/Hatchet/Thorium",
+    "DisplayCategory": "Tools",
+    "ListText": "Thorium Hatchet                    Tools/Hatchet/Thorium"
+  },
+  {
+    "DisplayName": "Thorium Hoe",
+    "FullType": "Tools/Hoe/Thorium",
+    "ItemId": "Tools/Hoe/Thorium",
+    "DisplayCategory": "Tools",
+    "ListText": "Thorium Hoe                        Tools/Hoe/Thorium"
+  },
+  {
+    "DisplayName": "Thorium Pickaxe",
+    "FullType": "Tools/Pickaxe/Thorium",
+    "ItemId": "Tools/Pickaxe/Thorium",
+    "DisplayCategory": "Tools",
+    "ListText": "Thorium Pickaxe                    Tools/Pickaxe/Thorium"
+  },
+  {
+    "DisplayName": "Thorium Shovel",
+    "FullType": "Tools/Shovel/Thorium",
+    "ItemId": "Tools/Shovel/Thorium",
+    "DisplayCategory": "Tools",
+    "ListText": "Thorium Shovel                     Tools/Shovel/Thorium"
+  },
+  {
+    "DisplayName": "Watering Can Watering Can",
+    "FullType": "Tools/Watering_Can/Watering_Can",
+    "ItemId": "Tools/Watering_Can/Watering_Can",
+    "DisplayCategory": "Tools",
+    "ListText": "Watering Can Watering Can          Tools/Watering_Can/Watering_Can"
+  },
+  {
+    "DisplayName": "Wood Hatchet",
+    "FullType": "Tools/Hatchet/Wood",
+    "ItemId": "Tools/Hatchet/Wood",
+    "DisplayCategory": "Tools",
+    "ListText": "Wood Hatchet                       Tools/Hatchet/Wood"
+  },
+  {
+    "DisplayName": "Wood Pickaxe",
+    "FullType": "Tools/Pickaxe/Wood",
+    "ItemId": "Tools/Pickaxe/Wood",
+    "DisplayCategory": "Tools",
+    "ListText": "Wood Pickaxe                       Tools/Pickaxe/Wood"
+  },
+  {
+    "DisplayName": "Torch",
+    "FullType": "Torch/Torch",
+    "ItemId": "Torch/Torch",
+    "DisplayCategory": "Torch",
+    "ListText": "Torch                              Torch/Torch"
+  },
+  {
+    "DisplayName": "Torch New",
+    "FullType": "Torch/Torch_New",
+    "ItemId": "Torch/Torch_New",
+    "DisplayCategory": "Torch",
+    "ListText": "Torch New                          Torch/Torch_New"
+  },
+  {
+    "DisplayName": "Torch Wall",
+    "FullType": "Torch/Torch_Wall",
+    "ItemId": "Torch/Torch_Wall",
+    "DisplayCategory": "Torch",
+    "ListText": "Torch Wall                         Torch/Torch_Wall"
+  },
+  {
+    "DisplayName": "Boat",
+    "FullType": "Vehicles/Boat",
+    "ItemId": "Vehicles/Boat",
+    "DisplayCategory": "Vehicles",
+    "ListText": "Boat                               Vehicles/Boat"
+  },
+  {
+    "DisplayName": "Minecart",
+    "FullType": "Vehicles/Minecart",
+    "ItemId": "Vehicles/Minecart",
+    "DisplayCategory": "Vehicles",
+    "ListText": "Minecart                           Vehicles/Minecart"
+  },
+  {
+    "DisplayName": "Raft",
+    "FullType": "Vehicles/Raft",
+    "ItemId": "Vehicles/Raft",
+    "DisplayCategory": "Vehicles",
+    "ListText": "Raft                               Vehicles/Raft"
+  },
+  {
+    "DisplayName": "Rail Kart",
+    "FullType": "Vehicles/Rail_Kart",
+    "ItemId": "Vehicles/Rail_Kart",
+    "DisplayCategory": "Vehicles",
+    "ListText": "Rail Kart                          Vehicles/Rail_Kart"
+  },
+  {
+    "DisplayName": "Adamantite Axe",
+    "FullType": "Weapons/Axe/Adamantite",
+    "ItemId": "Weapons/Axe/Adamantite",
+    "DisplayCategory": "Weapons",
+    "ListText": "Adamantite Axe                     Weapons/Axe/Adamantite"
+  },
+  {
+    "DisplayName": "Adamantite Battleaxe",
+    "FullType": "Weapons/Battleaxe/Adamantite",
+    "ItemId": "Weapons/Battleaxe/Adamantite",
+    "DisplayCategory": "Weapons",
+    "ListText": "Adamantite Battleaxe               Weapons/Battleaxe/Adamantite"
+  },
+  {
+    "DisplayName": "Adamantite Bow",
+    "FullType": "Weapons/Bow/Adamantite",
+    "ItemId": "Weapons/Bow/Adamantite",
+    "DisplayCategory": "Weapons",
+    "ListText": "Adamantite Bow                     Weapons/Bow/Adamantite"
+  },
+  {
+    "DisplayName": "Adamantite Club",
+    "FullType": "Weapons/Club/Adamantite",
+    "ItemId": "Weapons/Club/Adamantite",
+    "DisplayCategory": "Weapons",
+    "ListText": "Adamantite Club                    Weapons/Club/Adamantite"
+  },
+  {
+    "DisplayName": "Adamantite Dagger",
+    "FullType": "Weapons/Dagger/Adamantite",
+    "ItemId": "Weapons/Dagger/Adamantite",
+    "DisplayCategory": "Weapons",
+    "ListText": "Adamantite Dagger                  Weapons/Dagger/Adamantite"
+  },
+  {
+    "DisplayName": "Adamantite Longsword",
+    "FullType": "Weapons/Longsword/Adamantite",
+    "ItemId": "Weapons/Longsword/Adamantite",
+    "DisplayCategory": "Weapons",
+    "ListText": "Adamantite Longsword               Weapons/Longsword/Adamantite"
+  },
+  {
+    "DisplayName": "Adamantite Mace",
+    "FullType": "Weapons/Mace/Adamantite",
+    "ItemId": "Weapons/Mace/Adamantite",
+    "DisplayCategory": "Weapons",
+    "ListText": "Adamantite Mace                    Weapons/Mace/Adamantite"
+  },
+  {
+    "DisplayName": "Adamantite Shield",
+    "FullType": "Weapons/Shield/Adamantite",
+    "ItemId": "Weapons/Shield/Adamantite",
+    "DisplayCategory": "Weapons",
+    "ListText": "Adamantite Shield                  Weapons/Shield/Adamantite"
+  },
+  {
+    "DisplayName": "Adamantite Spear",
+    "FullType": "Weapons/Spear/Adamantite",
+    "ItemId": "Weapons/Spear/Adamantite",
+    "DisplayCategory": "Weapons",
+    "ListText": "Adamantite Spear                   Weapons/Spear/Adamantite"
+  },
+  {
+    "DisplayName": "Adamantite Staff",
+    "FullType": "Weapons/Staff/Adamantite",
+    "ItemId": "Weapons/Staff/Adamantite",
+    "DisplayCategory": "Weapons",
+    "ListText": "Adamantite Staff                   Weapons/Staff/Adamantite"
+  },
+  {
+    "DisplayName": "Adamantite Sword",
+    "FullType": "Weapons/Sword/Adamantite",
+    "ItemId": "Weapons/Sword/Adamantite",
+    "DisplayCategory": "Weapons",
+    "ListText": "Adamantite Sword                   Weapons/Sword/Adamantite"
+  },
+  {
+    "DisplayName": "Blunderbuss Gun",
+    "FullType": "Weapons/Gun/Blunderbuss",
+    "ItemId": "Weapons/Gun/Blunderbuss",
+    "DisplayCategory": "Weapons",
+    "ListText": "Blunderbuss Gun                    Weapons/Gun/Blunderbuss"
+  },
+  {
+    "DisplayName": "Blunderbuss Rusty Gun",
+    "FullType": "Weapons/Gun/Blunderbuss_Rusty",
+    "ItemId": "Weapons/Gun/Blunderbuss_Rusty",
+    "DisplayCategory": "Weapons",
+    "ListText": "Blunderbuss Rusty Gun              Weapons/Gun/Blunderbuss_Rusty"
+  },
+  {
+    "DisplayName": "Bo Bamboo Staff",
+    "FullType": "Weapons/Staff/Bo_Bamboo",
+    "ItemId": "Weapons/Staff/Bo_Bamboo",
+    "DisplayCategory": "Weapons",
+    "ListText": "Bo Bamboo Staff                    Weapons/Staff/Bo_Bamboo"
+  },
+  {
+    "DisplayName": "Bo Wood Staff",
+    "FullType": "Weapons/Staff/Bo_Wood",
+    "ItemId": "Weapons/Staff/Bo_Wood",
+    "DisplayCategory": "Weapons",
+    "ListText": "Bo Wood Staff                      Weapons/Staff/Bo_Wood"
+  },
+  {
+    "DisplayName": "Book Fire Spellbook",
+    "FullType": "Weapons/Spellbook/Book_Fire",
+    "ItemId": "Weapons/Spellbook/Book_Fire",
+    "DisplayCategory": "Weapons",
+    "ListText": "Book Fire Spellbook                Weapons/Spellbook/Book_Fire"
+  },
+  {
+    "DisplayName": "Bronze Ancient Dagger",
+    "FullType": "Weapons/Dagger/Bronze_Ancient",
+    "ItemId": "Weapons/Dagger/Bronze_Ancient",
+    "DisplayCategory": "Weapons",
+    "ListText": "Bronze Ancient Dagger              Weapons/Dagger/Bronze_Ancient"
+  },
+  {
+    "DisplayName": "Bronze Ancient Sword",
+    "FullType": "Weapons/Sword/Bronze_Ancient",
+    "ItemId": "Weapons/Sword/Bronze_Ancient",
+    "DisplayCategory": "Weapons",
+    "ListText": "Bronze Ancient Sword               Weapons/Sword/Bronze_Ancient"
+  },
+  {
+    "DisplayName": "Bronze Bow",
+    "FullType": "Weapons/Bow/Bronze",
+    "ItemId": "Weapons/Bow/Bronze",
+    "DisplayCategory": "Weapons",
+    "ListText": "Bronze Bow                         Weapons/Bow/Bronze"
+  },
+  {
+    "DisplayName": "Bronze Dagger",
+    "FullType": "Weapons/Dagger/Bronze",
+    "ItemId": "Weapons/Dagger/Bronze",
+    "DisplayCategory": "Weapons",
+    "ListText": "Bronze Dagger                      Weapons/Dagger/Bronze"
+  },
+  {
+    "DisplayName": "Bronze Spear",
+    "FullType": "Weapons/Spear/Bronze",
+    "ItemId": "Weapons/Spear/Bronze",
+    "DisplayCategory": "Weapons",
+    "ListText": "Bronze Spear                       Weapons/Spear/Bronze"
+  },
+  {
+    "DisplayName": "Bronze Staff",
+    "FullType": "Weapons/Staff/Bronze",
+    "ItemId": "Weapons/Staff/Bronze",
+    "DisplayCategory": "Weapons",
+    "ListText": "Bronze Staff                       Weapons/Staff/Bronze"
+  },
+  {
+    "DisplayName": "Bronze Sword",
+    "FullType": "Weapons/Sword/Bronze",
+    "ItemId": "Weapons/Sword/Bronze",
+    "DisplayCategory": "Weapons",
+    "ListText": "Bronze Sword                       Weapons/Sword/Bronze"
+  },
+  {
+    "DisplayName": "Cobalt Axe",
+    "FullType": "Weapons/Axe/Cobalt",
+    "ItemId": "Weapons/Axe/Cobalt",
+    "DisplayCategory": "Weapons",
+    "ListText": "Cobalt Axe                         Weapons/Axe/Cobalt"
+  },
+  {
+    "DisplayName": "Cobalt Battleaxe",
+    "FullType": "Weapons/Battleaxe/Cobalt",
+    "ItemId": "Weapons/Battleaxe/Cobalt",
+    "DisplayCategory": "Weapons",
+    "ListText": "Cobalt Battleaxe                   Weapons/Battleaxe/Cobalt"
+  },
+  {
+    "DisplayName": "Cobalt Bow",
+    "FullType": "Weapons/Bow/Cobalt",
+    "ItemId": "Weapons/Bow/Cobalt",
+    "DisplayCategory": "Weapons",
+    "ListText": "Cobalt Bow                         Weapons/Bow/Cobalt"
+  },
+  {
+    "DisplayName": "Cobalt Club",
+    "FullType": "Weapons/Club/Cobalt",
+    "ItemId": "Weapons/Club/Cobalt",
+    "DisplayCategory": "Weapons",
+    "ListText": "Cobalt Club                        Weapons/Club/Cobalt"
+  },
+  {
+    "DisplayName": "Cobalt Dagger",
+    "FullType": "Weapons/Dagger/Cobalt",
+    "ItemId": "Weapons/Dagger/Cobalt",
+    "DisplayCategory": "Weapons",
+    "ListText": "Cobalt Dagger                      Weapons/Dagger/Cobalt"
+  },
+  {
+    "DisplayName": "Cobalt Longsword",
+    "FullType": "Weapons/Longsword/Cobalt",
+    "ItemId": "Weapons/Longsword/Cobalt",
+    "DisplayCategory": "Weapons",
+    "ListText": "Cobalt Longsword                   Weapons/Longsword/Cobalt"
+  },
+  {
+    "DisplayName": "Cobalt Mace",
+    "FullType": "Weapons/Mace/Cobalt",
+    "ItemId": "Weapons/Mace/Cobalt",
+    "DisplayCategory": "Weapons",
+    "ListText": "Cobalt Mace                        Weapons/Mace/Cobalt"
+  },
+  {
+    "DisplayName": "Cobalt Shield",
+    "FullType": "Weapons/Shield/Cobalt",
+    "ItemId": "Weapons/Shield/Cobalt",
+    "DisplayCategory": "Weapons",
+    "ListText": "Cobalt Shield                      Weapons/Shield/Cobalt"
+  },
+  {
+    "DisplayName": "Cobalt Spear",
+    "FullType": "Weapons/Spear/Cobalt",
+    "ItemId": "Weapons/Spear/Cobalt",
+    "DisplayCategory": "Weapons",
+    "ListText": "Cobalt Spear                       Weapons/Spear/Cobalt"
+  },
+  {
+    "DisplayName": "Cobalt Staff",
+    "FullType": "Weapons/Staff/Cobalt",
+    "ItemId": "Weapons/Staff/Cobalt",
+    "DisplayCategory": "Weapons",
+    "ListText": "Cobalt Staff                       Weapons/Staff/Cobalt"
+  },
+  {
+    "DisplayName": "Cobalt Sword",
+    "FullType": "Weapons/Sword/Cobalt",
+    "ItemId": "Weapons/Sword/Cobalt",
+    "DisplayCategory": "Weapons",
+    "ListText": "Cobalt Sword                       Weapons/Sword/Cobalt"
+  },
+  {
+    "DisplayName": "Copper Axe",
+    "FullType": "Weapons/Axe/Copper",
+    "ItemId": "Weapons/Axe/Copper",
+    "DisplayCategory": "Weapons",
+    "ListText": "Copper Axe                         Weapons/Axe/Copper"
+  },
+  {
+    "DisplayName": "Copper Battleaxe",
+    "FullType": "Weapons/Battleaxe/Copper",
+    "ItemId": "Weapons/Battleaxe/Copper",
+    "DisplayCategory": "Weapons",
+    "ListText": "Copper Battleaxe                   Weapons/Battleaxe/Copper"
+  },
+  {
+    "DisplayName": "Copper Bow",
+    "FullType": "Weapons/Bow/Copper",
+    "ItemId": "Weapons/Bow/Copper",
+    "DisplayCategory": "Weapons",
+    "ListText": "Copper Bow                         Weapons/Bow/Copper"
+  },
+  {
+    "DisplayName": "Copper Club",
+    "FullType": "Weapons/Club/Copper",
+    "ItemId": "Weapons/Club/Copper",
+    "DisplayCategory": "Weapons",
+    "ListText": "Copper Club                        Weapons/Club/Copper"
+  },
+  {
+    "DisplayName": "Copper Dagger",
+    "FullType": "Weapons/Dagger/Copper",
+    "ItemId": "Weapons/Dagger/Copper",
+    "DisplayCategory": "Weapons",
+    "ListText": "Copper Dagger                      Weapons/Dagger/Copper"
+  },
+  {
+    "DisplayName": "Copper Longsword",
+    "FullType": "Weapons/Longsword/Copper",
+    "ItemId": "Weapons/Longsword/Copper",
+    "DisplayCategory": "Weapons",
+    "ListText": "Copper Longsword                   Weapons/Longsword/Copper"
+  },
+  {
+    "DisplayName": "Copper Mace",
+    "FullType": "Weapons/Mace/Copper",
+    "ItemId": "Weapons/Mace/Copper",
+    "DisplayCategory": "Weapons",
+    "ListText": "Copper Mace                        Weapons/Mace/Copper"
+  },
+  {
+    "DisplayName": "Copper Shield",
+    "FullType": "Weapons/Shield/Copper",
+    "ItemId": "Weapons/Shield/Copper",
+    "DisplayCategory": "Weapons",
+    "ListText": "Copper Shield                      Weapons/Shield/Copper"
+  },
+  {
+    "DisplayName": "Copper Spear",
+    "FullType": "Weapons/Spear/Copper",
+    "ItemId": "Weapons/Spear/Copper",
+    "DisplayCategory": "Weapons",
+    "ListText": "Copper Spear                       Weapons/Spear/Copper"
+  },
+  {
+    "DisplayName": "Copper Staff",
+    "FullType": "Weapons/Staff/Copper",
+    "ItemId": "Weapons/Staff/Copper",
+    "DisplayCategory": "Weapons",
+    "ListText": "Copper Staff                       Weapons/Staff/Copper"
+  },
+  {
+    "DisplayName": "Copper Sword",
+    "FullType": "Weapons/Sword/Copper",
+    "ItemId": "Weapons/Sword/Copper",
+    "DisplayCategory": "Weapons",
+    "ListText": "Copper Sword                       Weapons/Sword/Copper"
+  },
+  {
+    "DisplayName": "Crude Arrow",
+    "FullType": "Weapons/Arrow/Crude",
+    "ItemId": "Weapons/Arrow/Crude",
+    "DisplayCategory": "Weapons",
+    "ListText": "Crude Arrow                        Weapons/Arrow/Crude"
+  },
+  {
+    "DisplayName": "Crude Axe",
+    "FullType": "Weapons/Axe/Crude",
+    "ItemId": "Weapons/Axe/Crude",
+    "DisplayCategory": "Weapons",
+    "ListText": "Crude Axe                          Weapons/Axe/Crude"
+  },
+  {
+    "DisplayName": "Crude Battleaxe",
+    "FullType": "Weapons/Battleaxe/Crude",
+    "ItemId": "Weapons/Battleaxe/Crude",
+    "DisplayCategory": "Weapons",
+    "ListText": "Crude Battleaxe                    Weapons/Battleaxe/Crude"
+  },
+  {
+    "DisplayName": "Crude Bow",
+    "FullType": "Weapons/Bow/Crude",
+    "ItemId": "Weapons/Bow/Crude",
+    "DisplayCategory": "Weapons",
+    "ListText": "Crude Bow                          Weapons/Bow/Crude"
+  },
+  {
+    "DisplayName": "Crude Club",
+    "FullType": "Weapons/Club/Crude",
+    "ItemId": "Weapons/Club/Crude",
+    "DisplayCategory": "Weapons",
+    "ListText": "Crude Club                         Weapons/Club/Crude"
+  },
+  {
+    "DisplayName": "Crude Dagger",
+    "FullType": "Weapons/Dagger/Crude",
+    "ItemId": "Weapons/Dagger/Crude",
+    "DisplayCategory": "Weapons",
+    "ListText": "Crude Dagger                       Weapons/Dagger/Crude"
+  },
+  {
+    "DisplayName": "Crude Longsword",
+    "FullType": "Weapons/Longsword/Crude",
+    "ItemId": "Weapons/Longsword/Crude",
+    "DisplayCategory": "Weapons",
+    "ListText": "Crude Longsword                    Weapons/Longsword/Crude"
+  },
+  {
+    "DisplayName": "Crude Mace",
+    "FullType": "Weapons/Mace/Crude",
+    "ItemId": "Weapons/Mace/Crude",
+    "DisplayCategory": "Weapons",
+    "ListText": "Crude Mace                         Weapons/Mace/Crude"
+  },
+  {
+    "DisplayName": "Crude Spear",
+    "FullType": "Weapons/Spear/Crude",
+    "ItemId": "Weapons/Spear/Crude",
+    "DisplayCategory": "Weapons",
+    "ListText": "Crude Spear                        Weapons/Spear/Crude"
+  },
+  {
+    "DisplayName": "Crude Sword",
+    "FullType": "Weapons/Sword/Crude",
+    "ItemId": "Weapons/Sword/Crude",
+    "DisplayCategory": "Weapons",
+    "ListText": "Crude Sword                        Weapons/Sword/Crude"
+  },
+  {
+    "DisplayName": "Crystal Flame Staff",
+    "FullType": "Weapons/Staff/Crystal_Flame",
+    "ItemId": "Weapons/Staff/Crystal_Flame",
+    "DisplayCategory": "Weapons",
+    "ListText": "Crystal Flame Staff                Weapons/Staff/Crystal_Flame"
+  },
+  {
+    "DisplayName": "Crystal Ice Staff",
+    "FullType": "Weapons/Staff/Crystal_Ice",
+    "ItemId": "Weapons/Staff/Crystal_Ice",
+    "DisplayCategory": "Weapons",
+    "ListText": "Crystal Ice Staff                  Weapons/Staff/Crystal_Ice"
+  },
+  {
+    "DisplayName": "Crystal Purple Staff",
+    "FullType": "Weapons/Staff/Crystal_Purple",
+    "ItemId": "Weapons/Staff/Crystal_Purple",
+    "DisplayCategory": "Weapons",
+    "ListText": "Crystal Purple Staff               Weapons/Staff/Crystal_Purple"
+  },
+  {
+    "DisplayName": "Crystal Red Staff",
+    "FullType": "Weapons/Staff/Crystal_Red",
+    "ItemId": "Weapons/Staff/Crystal_Red",
+    "DisplayCategory": "Weapons",
+    "ListText": "Crystal Red Staff                  Weapons/Staff/Crystal_Red"
+  },
+  {
+    "DisplayName": "Cutlass Sword",
+    "FullType": "Weapons/Sword/Cutlass",
+    "ItemId": "Weapons/Sword/Cutlass",
+    "DisplayCategory": "Weapons",
+    "ListText": "Cutlass Sword                      Weapons/Sword/Cutlass"
+  },
+  {
+    "DisplayName": "Double Incandescent Spear",
+    "FullType": "Weapons/Spear/Double_Incandescent",
+    "ItemId": "Weapons/Spear/Double_Incandescent",
+    "DisplayCategory": "Weapons",
+    "ListText": "Double Incandescent Spear          Weapons/Spear/Double_Incandescent"
+  },
+  {
+    "DisplayName": "Flame Bow",
+    "FullType": "Weapons/Bow/Flame",
+    "ItemId": "Weapons/Bow/Flame",
+    "DisplayCategory": "Weapons",
+    "ListText": "Flame Bow                          Weapons/Bow/Flame"
+  },
+  {
+    "DisplayName": "Flame Longsword",
+    "FullType": "Weapons/Longsword/Flame",
+    "ItemId": "Weapons/Longsword/Flame",
+    "DisplayCategory": "Weapons",
+    "ListText": "Flame Longsword                    Weapons/Longsword/Flame"
+  },
+  {
+    "DisplayName": "Frost Bow",
+    "FullType": "Weapons/Bow/Frost",
+    "ItemId": "Weapons/Bow/Frost",
+    "DisplayCategory": "Weapons",
+    "ListText": "Frost Bow                          Weapons/Bow/Frost"
+  },
+  {
+    "DisplayName": "Frost Spellbook",
+    "FullType": "Weapons/Spellbook/Frost",
+    "ItemId": "Weapons/Spellbook/Frost",
+    "DisplayCategory": "Weapons",
+    "ListText": "Frost Spellbook                    Weapons/Spellbook/Frost"
+  },
+  {
+    "DisplayName": "Frost Staff",
+    "FullType": "Weapons/Staff/Frost",
+    "ItemId": "Weapons/Staff/Frost",
+    "DisplayCategory": "Weapons",
+    "ListText": "Frost Staff                        Weapons/Staff/Frost"
+  },
+  {
+    "DisplayName": "Frost Sword",
+    "FullType": "Weapons/Sword/Frost",
+    "ItemId": "Weapons/Sword/Frost",
+    "DisplayCategory": "Weapons",
+    "ListText": "Frost Sword                        Weapons/Sword/Frost"
+  },
+  {
+    "DisplayName": "Grimoire Brown Spellbook",
+    "FullType": "Weapons/Spellbook/Grimoire_Brown",
+    "ItemId": "Weapons/Spellbook/Grimoire_Brown",
+    "DisplayCategory": "Weapons",
+    "ListText": "Grimoire Brown Spellbook           Weapons/Spellbook/Grimoire_Brown"
+  },
+  {
+    "DisplayName": "Grimoire Purple Spellbook",
+    "FullType": "Weapons/Spellbook/Grimoire_Purple",
+    "ItemId": "Weapons/Spellbook/Grimoire_Purple",
+    "DisplayCategory": "Weapons",
+    "ListText": "Grimoire Purple Spellbook          Weapons/Spellbook/Grimoire_Purple"
+  },
+  {
+    "DisplayName": "Iron 30 Mace",
+    "FullType": "Weapons/Mace/Iron_30",
+    "ItemId": "Weapons/Mace/Iron_30",
+    "DisplayCategory": "Weapons",
+    "ListText": "Iron 30 Mace                       Weapons/Mace/Iron_30"
+  },
+  {
+    "DisplayName": "Iron Arrow",
+    "FullType": "Weapons/Arrow/Iron",
+    "ItemId": "Weapons/Arrow/Iron",
+    "DisplayCategory": "Weapons",
+    "ListText": "Iron Arrow                         Weapons/Arrow/Iron"
+  },
+  {
+    "DisplayName": "Iron Axe",
+    "FullType": "Weapons/Axe/Iron",
+    "ItemId": "Weapons/Axe/Iron",
+    "DisplayCategory": "Weapons",
+    "ListText": "Iron Axe                           Weapons/Axe/Iron"
+  },
+  {
+    "DisplayName": "Iron Battleaxe",
+    "FullType": "Weapons/Battleaxe/Iron",
+    "ItemId": "Weapons/Battleaxe/Iron",
+    "DisplayCategory": "Weapons",
+    "ListText": "Iron Battleaxe                     Weapons/Battleaxe/Iron"
+  },
+  {
+    "DisplayName": "Iron Bow",
+    "FullType": "Weapons/Bow/Iron",
+    "ItemId": "Weapons/Bow/Iron",
+    "DisplayCategory": "Weapons",
+    "ListText": "Iron Bow                           Weapons/Bow/Iron"
+  },
+  {
+    "DisplayName": "Iron Crossbow",
+    "FullType": "Weapons/Crossbow/Iron",
+    "ItemId": "Weapons/Crossbow/Iron",
+    "DisplayCategory": "Weapons",
+    "ListText": "Iron Crossbow                      Weapons/Crossbow/Iron"
+  },
+  {
+    "DisplayName": "Iron Dagger",
+    "FullType": "Weapons/Dagger/Iron",
+    "ItemId": "Weapons/Dagger/Iron",
+    "DisplayCategory": "Weapons",
+    "ListText": "Iron Dagger                        Weapons/Dagger/Iron"
+  },
+  {
+    "DisplayName": "Iron Longsword",
+    "FullType": "Weapons/Longsword/Iron",
+    "ItemId": "Weapons/Longsword/Iron",
+    "DisplayCategory": "Weapons",
+    "ListText": "Iron Longsword                     Weapons/Longsword/Iron"
+  },
+  {
+    "DisplayName": "Iron Mace",
+    "FullType": "Weapons/Mace/Iron",
+    "ItemId": "Weapons/Mace/Iron",
+    "DisplayCategory": "Weapons",
+    "ListText": "Iron Mace                          Weapons/Mace/Iron"
+  },
+  {
+    "DisplayName": "Iron Rusty Axe",
+    "FullType": "Weapons/Axe/Iron_Rusty",
+    "ItemId": "Weapons/Axe/Iron_Rusty",
+    "DisplayCategory": "Weapons",
+    "ListText": "Iron Rusty Axe                     Weapons/Axe/Iron_Rusty"
+  },
+  {
+    "DisplayName": "Iron Rusty Crossbow",
+    "FullType": "Weapons/Crossbow/Iron_Rusty",
+    "ItemId": "Weapons/Crossbow/Iron_Rusty",
+    "DisplayCategory": "Weapons",
+    "ListText": "Iron Rusty Crossbow                Weapons/Crossbow/Iron_Rusty"
+  },
+  {
+    "DisplayName": "Iron Shield",
+    "FullType": "Weapons/Shield/Iron",
+    "ItemId": "Weapons/Shield/Iron",
+    "DisplayCategory": "Weapons",
+    "ListText": "Iron Shield                        Weapons/Shield/Iron"
+  },
+  {
+    "DisplayName": "Iron Spear",
+    "FullType": "Weapons/Spear/Iron",
+    "ItemId": "Weapons/Spear/Iron",
+    "DisplayCategory": "Weapons",
+    "ListText": "Iron Spear                         Weapons/Spear/Iron"
+  },
+  {
+    "DisplayName": "Iron Staff",
+    "FullType": "Weapons/Staff/Iron",
+    "ItemId": "Weapons/Staff/Iron",
+    "DisplayCategory": "Weapons",
+    "ListText": "Iron Staff                         Weapons/Staff/Iron"
+  },
+  {
+    "DisplayName": "Iron Statue Longsword",
+    "FullType": "Weapons/Longsword/Iron_Statue",
+    "ItemId": "Weapons/Longsword/Iron_Statue",
+    "DisplayCategory": "Weapons",
+    "ListText": "Iron Statue Longsword              Weapons/Longsword/Iron_Statue"
+  },
+  {
+    "DisplayName": "Iron Stone Longsword",
+    "FullType": "Weapons/Longsword/Iron_Stone",
+    "ItemId": "Weapons/Longsword/Iron_Stone",
+    "DisplayCategory": "Weapons",
+    "ListText": "Iron Stone Longsword               Weapons/Longsword/Iron_Stone"
+  },
+  {
+    "DisplayName": "Iron Sword",
+    "FullType": "Weapons/Sword/Iron",
+    "ItemId": "Weapons/Sword/Iron",
+    "DisplayCategory": "Weapons",
+    "ListText": "Iron Sword                         Weapons/Sword/Iron"
+  },
+  {
+    "DisplayName": "Katana Longsword",
+    "FullType": "Weapons/Longsword/Katana",
+    "ItemId": "Weapons/Longsword/Katana",
+    "DisplayCategory": "Weapons",
+    "ListText": "Katana Longsword                   Weapons/Longsword/Katana"
+  },
+  {
+    "DisplayName": "Kunai Throwing Knife",
+    "FullType": "Weapons/Throwing_Knife/Kunai",
+    "ItemId": "Weapons/Throwing_Knife/Kunai",
+    "DisplayCategory": "Weapons",
+    "ListText": "Kunai Throwing Knife               Weapons/Throwing_Knife/Kunai"
+  },
+  {
+    "DisplayName": "Mithril Axe",
+    "FullType": "Weapons/Axe/Mithril",
+    "ItemId": "Weapons/Axe/Mithril",
+    "DisplayCategory": "Weapons",
+    "ListText": "Mithril Axe                        Weapons/Axe/Mithril"
+  },
+  {
+    "DisplayName": "Mithril Battleaxe",
+    "FullType": "Weapons/Battleaxe/Mithril",
+    "ItemId": "Weapons/Battleaxe/Mithril",
+    "DisplayCategory": "Weapons",
+    "ListText": "Mithril Battleaxe                  Weapons/Battleaxe/Mithril"
+  },
+  {
+    "DisplayName": "Mithril Bow",
+    "FullType": "Weapons/Bow/Mithril",
+    "ItemId": "Weapons/Bow/Mithril",
+    "DisplayCategory": "Weapons",
+    "ListText": "Mithril Bow                        Weapons/Bow/Mithril"
+  },
+  {
+    "DisplayName": "Mithril Club",
+    "FullType": "Weapons/Club/Mithril",
+    "ItemId": "Weapons/Club/Mithril",
+    "DisplayCategory": "Weapons",
+    "ListText": "Mithril Club                       Weapons/Club/Mithril"
+  },
+  {
+    "DisplayName": "Mithril Dagger",
+    "FullType": "Weapons/Dagger/Mithril",
+    "ItemId": "Weapons/Dagger/Mithril",
+    "DisplayCategory": "Weapons",
+    "ListText": "Mithril Dagger                     Weapons/Dagger/Mithril"
+  },
+  {
+    "DisplayName": "Mithril Longsword",
+    "FullType": "Weapons/Longsword/Mithril",
+    "ItemId": "Weapons/Longsword/Mithril",
+    "DisplayCategory": "Weapons",
+    "ListText": "Mithril Longsword                  Weapons/Longsword/Mithril"
+  },
+  {
+    "DisplayName": "Mithril Mace",
+    "FullType": "Weapons/Mace/Mithril",
+    "ItemId": "Weapons/Mace/Mithril",
+    "DisplayCategory": "Weapons",
+    "ListText": "Mithril Mace                       Weapons/Mace/Mithril"
+  },
+  {
+    "DisplayName": "Mithril Shield",
+    "FullType": "Weapons/Shield/Mithril",
+    "ItemId": "Weapons/Shield/Mithril",
+    "DisplayCategory": "Weapons",
+    "ListText": "Mithril Shield                     Weapons/Shield/Mithril"
+  },
+  {
+    "DisplayName": "Mithril Spear",
+    "FullType": "Weapons/Spear/Mithril",
+    "ItemId": "Weapons/Spear/Mithril",
+    "DisplayCategory": "Weapons",
+    "ListText": "Mithril Spear                      Weapons/Spear/Mithril"
+  },
+  {
+    "DisplayName": "Mithril Staff",
+    "FullType": "Weapons/Staff/Mithril",
+    "ItemId": "Weapons/Staff/Mithril",
+    "DisplayCategory": "Weapons",
+    "ListText": "Mithril Staff                      Weapons/Staff/Mithril"
+  },
+  {
+    "DisplayName": "Mithril Sword",
+    "FullType": "Weapons/Sword/Mithril",
+    "ItemId": "Weapons/Sword/Mithril",
+    "DisplayCategory": "Weapons",
+    "ListText": "Mithril Sword                      Weapons/Sword/Mithril"
+  },
+  {
+    "DisplayName": "Nexus Sword",
+    "FullType": "Weapons/Sword/Nexus",
+    "ItemId": "Weapons/Sword/Nexus",
+    "DisplayCategory": "Weapons",
+    "ListText": "Nexus Sword                        Weapons/Sword/Nexus"
+  },
+  {
+    "DisplayName": "Onyxium Axe",
+    "FullType": "Weapons/Axe/Onyxium",
+    "ItemId": "Weapons/Axe/Onyxium",
+    "DisplayCategory": "Weapons",
+    "ListText": "Onyxium Axe                        Weapons/Axe/Onyxium"
+  },
+  {
+    "DisplayName": "Onyxium Battleaxe",
+    "FullType": "Weapons/Battleaxe/Onyxium",
+    "ItemId": "Weapons/Battleaxe/Onyxium",
+    "DisplayCategory": "Weapons",
+    "ListText": "Onyxium Battleaxe                  Weapons/Battleaxe/Onyxium"
+  },
+  {
+    "DisplayName": "Onyxium Bow",
+    "FullType": "Weapons/Bow/Onyxium",
+    "ItemId": "Weapons/Bow/Onyxium",
+    "DisplayCategory": "Weapons",
+    "ListText": "Onyxium Bow                        Weapons/Bow/Onyxium"
+  },
+  {
+    "DisplayName": "Onyxium Club",
+    "FullType": "Weapons/Club/Onyxium",
+    "ItemId": "Weapons/Club/Onyxium",
+    "DisplayCategory": "Weapons",
+    "ListText": "Onyxium Club                       Weapons/Club/Onyxium"
+  },
+  {
+    "DisplayName": "Onyxium Dagger",
+    "FullType": "Weapons/Dagger/Onyxium",
+    "ItemId": "Weapons/Dagger/Onyxium",
+    "DisplayCategory": "Weapons",
+    "ListText": "Onyxium Dagger                     Weapons/Dagger/Onyxium"
+  },
+  {
+    "DisplayName": "Onyxium Longsword",
+    "FullType": "Weapons/Longsword/Onyxium",
+    "ItemId": "Weapons/Longsword/Onyxium",
+    "DisplayCategory": "Weapons",
+    "ListText": "Onyxium Longsword                  Weapons/Longsword/Onyxium"
+  },
+  {
+    "DisplayName": "Onyxium Mace",
+    "FullType": "Weapons/Mace/Onyxium",
+    "ItemId": "Weapons/Mace/Onyxium",
+    "DisplayCategory": "Weapons",
+    "ListText": "Onyxium Mace                       Weapons/Mace/Onyxium"
+  },
+  {
+    "DisplayName": "Onyxium Shield",
+    "FullType": "Weapons/Shield/Onyxium",
+    "ItemId": "Weapons/Shield/Onyxium",
+    "DisplayCategory": "Weapons",
+    "ListText": "Onyxium Shield                     Weapons/Shield/Onyxium"
+  },
+  {
+    "DisplayName": "Onyxium Spear",
+    "FullType": "Weapons/Spear/Onyxium",
+    "ItemId": "Weapons/Spear/Onyxium",
+    "DisplayCategory": "Weapons",
+    "ListText": "Onyxium Spear                      Weapons/Spear/Onyxium"
+  },
+  {
+    "DisplayName": "Onyxium Staff",
+    "FullType": "Weapons/Staff/Onyxium",
+    "ItemId": "Weapons/Staff/Onyxium",
+    "DisplayCategory": "Weapons",
+    "ListText": "Onyxium Staff                      Weapons/Staff/Onyxium"
+  },
+  {
+    "DisplayName": "Onyxium Sword",
+    "FullType": "Weapons/Sword/Onyxium",
+    "ItemId": "Weapons/Sword/Onyxium",
+    "DisplayCategory": "Weapons",
+    "ListText": "Onyxium Sword                      Weapons/Sword/Onyxium"
+  },
+  {
+    "DisplayName": "Orbis Incandescent Shield",
+    "FullType": "Weapons/Shield/Orbis_Incandescent",
+    "ItemId": "Weapons/Shield/Orbis_Incandescent",
+    "DisplayCategory": "Weapons",
+    "ListText": "Orbis Incandescent Shield          Weapons/Shield/Orbis_Incandescent"
+  },
+  {
+    "DisplayName": "Orbis Knight Shield",
+    "FullType": "Weapons/Shield/Orbis_Knight",
+    "ItemId": "Weapons/Shield/Orbis_Knight",
+    "DisplayCategory": "Weapons",
+    "ListText": "Orbis Knight Shield                Weapons/Shield/Orbis_Knight"
+  },
+  {
+    "DisplayName": "Prisma Dagger",
+    "FullType": "Weapons/Dagger/Prisma",
+    "ItemId": "Weapons/Dagger/Prisma",
+    "DisplayCategory": "Weapons",
+    "ListText": "Prisma Dagger                      Weapons/Dagger/Prisma"
+  },
+  {
+    "DisplayName": "Prisma Mace",
+    "FullType": "Weapons/Mace/Prisma",
+    "ItemId": "Weapons/Mace/Prisma",
+    "DisplayCategory": "Weapons",
+    "ListText": "Prisma Mace                        Weapons/Mace/Prisma"
+  },
+  {
+    "DisplayName": "Prisma Spear",
+    "FullType": "Weapons/Spear/Prisma",
+    "ItemId": "Weapons/Spear/Prisma",
+    "DisplayCategory": "Weapons",
+    "ListText": "Prisma Spear                       Weapons/Spear/Prisma"
+  },
+  {
+    "DisplayName": "Ricochet Bow",
+    "FullType": "Weapons/Bow/Ricochet",
+    "ItemId": "Weapons/Bow/Ricochet",
+    "DisplayCategory": "Weapons",
+    "ListText": "Ricochet Bow                       Weapons/Bow/Ricochet"
+  },
+  {
+    "DisplayName": "Runic Sword",
+    "FullType": "Weapons/Sword/Runic",
+    "ItemId": "Weapons/Sword/Runic",
+    "DisplayCategory": "Weapons",
+    "ListText": "Runic Sword                        Weapons/Sword/Runic"
+  },
+  {
+    "DisplayName": "Rusty Shield",
+    "FullType": "Weapons/Shield/Rusty",
+    "ItemId": "Weapons/Shield/Rusty",
+    "DisplayCategory": "Weapons",
+    "ListText": "Rusty Shield                       Weapons/Shield/Rusty"
+  },
+  {
+    "DisplayName": "Scarab Battleaxe",
+    "FullType": "Weapons/Battleaxe/Scarab",
+    "ItemId": "Weapons/Battleaxe/Scarab",
+    "DisplayCategory": "Weapons",
+    "ListText": "Scarab Battleaxe                   Weapons/Battleaxe/Scarab"
+  },
+  {
+    "DisplayName": "Scarab Longsword",
+    "FullType": "Weapons/Longsword/Scarab",
+    "ItemId": "Weapons/Longsword/Scarab",
+    "DisplayCategory": "Weapons",
+    "ListText": "Scarab Longsword                   Weapons/Longsword/Scarab"
+  },
+  {
+    "DisplayName": "Shuriken Throwing Knife",
+    "FullType": "Weapons/Throwing_Knife/Shuriken",
+    "ItemId": "Weapons/Throwing_Knife/Shuriken",
+    "DisplayCategory": "Weapons",
+    "ListText": "Shuriken Throwing Knife            Weapons/Throwing_Knife/Shuriken"
+  },
+  {
+    "DisplayName": "Silversteel Sword",
+    "FullType": "Weapons/Sword/Silversteel",
+    "ItemId": "Weapons/Sword/Silversteel",
+    "DisplayCategory": "Weapons",
+    "ListText": "Silversteel Sword                  Weapons/Sword/Silversteel"
+  },
+  {
+    "DisplayName": "Steel Flail Rusty Club",
+    "FullType": "Weapons/Club/Steel_Flail_Rusty",
+    "ItemId": "Weapons/Club/Steel_Flail_Rusty",
+    "DisplayCategory": "Weapons",
+    "ListText": "Steel Flail Rusty Club             Weapons/Club/Steel_Flail_Rusty"
+  },
+  {
+    "DisplayName": "Steel Incandescent Sword",
+    "FullType": "Weapons/Sword/Steel_Incandescent",
+    "ItemId": "Weapons/Sword/Steel_Incandescent",
+    "DisplayCategory": "Weapons",
+    "ListText": "Steel Incandescent Sword           Weapons/Sword/Steel_Incandescent"
+  },
+  {
+    "DisplayName": "Steel Rusty Battleaxe",
+    "FullType": "Weapons/Battleaxe/Steel_Rusty",
+    "ItemId": "Weapons/Battleaxe/Steel_Rusty",
+    "DisplayCategory": "Weapons",
+    "ListText": "Steel Rusty Battleaxe              Weapons/Battleaxe/Steel_Rusty"
+  },
+  {
+    "DisplayName": "Steel Rusty Sword",
+    "FullType": "Weapons/Sword/Steel_Rusty",
+    "ItemId": "Weapons/Sword/Steel_Rusty",
+    "DisplayCategory": "Weapons",
+    "ListText": "Steel Rusty Sword                  Weapons/Sword/Steel_Rusty"
+  },
+  {
+    "DisplayName": "Steel Sword",
+    "FullType": "Weapons/Sword/Steel",
+    "ItemId": "Weapons/Sword/Steel",
+    "DisplayCategory": "Weapons",
+    "ListText": "Steel Sword                        Weapons/Sword/Steel"
+  },
+  {
+    "DisplayName": "Thorium Axe",
+    "FullType": "Weapons/Axe/Thorium",
+    "ItemId": "Weapons/Axe/Thorium",
+    "DisplayCategory": "Weapons",
+    "ListText": "Thorium Axe                        Weapons/Axe/Thorium"
+  },
+  {
+    "DisplayName": "Thorium Battleaxe",
+    "FullType": "Weapons/Battleaxe/Thorium",
+    "ItemId": "Weapons/Battleaxe/Thorium",
+    "DisplayCategory": "Weapons",
+    "ListText": "Thorium Battleaxe                  Weapons/Battleaxe/Thorium"
+  },
+  {
+    "DisplayName": "Thorium Bow",
+    "FullType": "Weapons/Bow/Thorium",
+    "ItemId": "Weapons/Bow/Thorium",
+    "DisplayCategory": "Weapons",
+    "ListText": "Thorium Bow                        Weapons/Bow/Thorium"
+  },
+  {
+    "DisplayName": "Thorium Club",
+    "FullType": "Weapons/Club/Thorium",
+    "ItemId": "Weapons/Club/Thorium",
+    "DisplayCategory": "Weapons",
+    "ListText": "Thorium Club                       Weapons/Club/Thorium"
+  },
+  {
+    "DisplayName": "Thorium Dagger",
+    "FullType": "Weapons/Dagger/Thorium",
+    "ItemId": "Weapons/Dagger/Thorium",
+    "DisplayCategory": "Weapons",
+    "ListText": "Thorium Dagger                     Weapons/Dagger/Thorium"
+  },
+  {
+    "DisplayName": "Thorium Longsword",
+    "FullType": "Weapons/Longsword/Thorium",
+    "ItemId": "Weapons/Longsword/Thorium",
+    "DisplayCategory": "Weapons",
+    "ListText": "Thorium Longsword                  Weapons/Longsword/Thorium"
+  },
+  {
+    "DisplayName": "Thorium Mace",
+    "FullType": "Weapons/Mace/Thorium",
+    "ItemId": "Weapons/Mace/Thorium",
+    "DisplayCategory": "Weapons",
+    "ListText": "Thorium Mace                       Weapons/Mace/Thorium"
+  },
+  {
+    "DisplayName": "Thorium Shield",
+    "FullType": "Weapons/Shield/Thorium",
+    "ItemId": "Weapons/Shield/Thorium",
+    "DisplayCategory": "Weapons",
+    "ListText": "Thorium Shield                     Weapons/Shield/Thorium"
+  },
+  {
+    "DisplayName": "Thorium Spear",
+    "FullType": "Weapons/Spear/Thorium",
+    "ItemId": "Weapons/Spear/Thorium",
+    "DisplayCategory": "Weapons",
+    "ListText": "Thorium Spear                      Weapons/Spear/Thorium"
+  },
+  {
+    "DisplayName": "Thorium Staff",
+    "FullType": "Weapons/Staff/Thorium",
+    "ItemId": "Weapons/Staff/Thorium",
+    "DisplayCategory": "Weapons",
+    "ListText": "Thorium Staff                      Weapons/Staff/Thorium"
+  },
+  {
+    "DisplayName": "Thorium Sword",
+    "FullType": "Weapons/Sword/Thorium",
+    "ItemId": "Weapons/Sword/Thorium",
+    "DisplayCategory": "Weapons",
+    "ListText": "Thorium Sword                      Weapons/Sword/Thorium"
+  },
+  {
+    "DisplayName": "Vamp Bow",
+    "FullType": "Weapons/Bow/Vamp",
+    "ItemId": "Weapons/Bow/Vamp",
+    "DisplayCategory": "Weapons",
+    "ListText": "Vamp Bow                           Weapons/Bow/Vamp"
+  },
+  {
+    "DisplayName": "Wizard Staff",
+    "FullType": "Weapons/Staff/Wizard",
+    "ItemId": "Weapons/Staff/Wizard",
+    "DisplayCategory": "Weapons",
+    "ListText": "Wizard Staff                       Weapons/Staff/Wizard"
+  },
+  {
+    "DisplayName": "Wood Sword",
+    "FullType": "Weapons/Sword/Wood",
+    "ItemId": "Weapons/Sword/Wood",
+    "DisplayCategory": "Weapons",
+    "ListText": "Wood Sword                         Weapons/Sword/Wood"
+  },
+  {
+    "DisplayName": "Wood Wand",
+    "FullType": "Weapons/Wand/Wood",
+    "ItemId": "Weapons/Wand/Wood",
+    "DisplayCategory": "Weapons",
+    "ListText": "Wood Wand                          Weapons/Wand/Wood"
+  }
+]
