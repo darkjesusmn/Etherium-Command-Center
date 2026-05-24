@@ -2,7 +2,8 @@
 
 Current GUI version: `v0.9`
 
-<img width="773" height="465" alt="{B87871E8-4B7C-43CE-81D9-B8F1A2B5F062}" src="https://github.com/user-attachments/assets/4f782548-108d-4c11-afea-65341e95a355" />
+<img width="1913" height="1076" alt="image" src="https://github.com/user-attachments/assets/092f554f-ef19-44ab-ac6a-6220584b73e2" />
+
 
 Etherium Command Center, or ECC, is a Windows desktop app for running and managing local dedicated game servers from one control panel.
 
