@@ -2273,7 +2273,23 @@ Secrets to protect:
 
 ## License
 
-Dont sell my fucking code, this code is free for anyone, if your busted selling my code, thats fucked up.
+ECC is free source-available software for non-commercial use under the PolyForm Noncommercial License 1.0.0.
+
+That means users may view, use, copy, modify, and share ECC for noncommercial purposes.
+
+Users may not:
+
+- Sell ECC.
+- Sell modified versions of ECC.
+- Package ECC as a paid product.
+- Use ECC as part of a paid commercial service.
+- Use ECC commercially without separate written permission from Darkjesusmn.
+
+Important wording note:
+
+Because ECC blocks commercial use and resale, it should be described as `source-available` or `free for non-commercial use`, not OSI-approved open source. This keeps the license honest and matches the goal that ECC stays free.
+
+This license applies to ECC's code and documentation. It does not grant rights to redistribute third-party game files, extracted game assets, Discord tokens, private server configs, profile secrets, or cached assets that belong to another game or service.
 
 ## Credits
 
