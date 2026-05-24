@@ -8,6 +8,9 @@ ECC is open-source software released under the MIT License.
 
 ECC can start servers, stop servers, restart servers, show logs, edit server config files, send commands, talk to Discord, run auto-save, run scheduled restarts, and help with game-specific tools such as the Project Zomboid item and vehicle command builder.
 
+<img width="1913" height="1076" alt="image" src="https://github.com/user-attachments/assets/a8ebee1f-93b1-4f8a-8938-438cd92daa40" />
+
+
 This README is written for a new user. You do not need to know PowerShell to use ECC, but you should be comfortable finding your server install folders and reading simple settings.
 
 ## Table of Contents
