@@ -2273,11 +2273,7 @@ Secrets to protect:
 
 ## License
 
-ECC is open-source software released under the MIT License.
-
-That means users may use, copy, modify, merge, publish, distribute, sublicense, and sell copies of ECC as long as the MIT license notice is included.
-
-This license applies to ECC's code and documentation. It does not grant rights to redistribute third-party game files, extracted game assets, Discord tokens, private server configs, profile secrets, or cached assets that belong to another game or service.
+Dont sell my fucking code, this code is free for anyone, if your busted selling my code, thats fucked up.
 
 ## Credits
 
